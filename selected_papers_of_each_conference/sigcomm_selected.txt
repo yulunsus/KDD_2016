@@ -1,0 +1,184 @@
+76F25581	A content propagation metric for efficient content distribution	2011	44B13001	SIGCOMM
+7D99214F	An untold story of middleboxes in cellular networks	2011	44B13001	SIGCOMM
+7E16A08C	Augmenting data center networks with multi-gigabit wireless links	2011	44B13001	SIGCOMM
+7D480315	Better never than late: meeting deadlines in datacenter networks	2011	44B13001	SIGCOMM
+7FA9FF23	Broadband internet performance: a view from the gateway	2011	44B13001	SIGCOMM
+7D20204E	Clearing the RF smog: making 802.11n robust to cross-technology interference	2011	44B13001	SIGCOMM
+7ED74E26	DOF: a local wireless information plane	2011	44B13001	SIGCOMM
+7E185F8B	Debugging the data plane with anteater	2011	44B13001	SIGCOMM
+7E39CCAA	Demystifying configuration challenges and trade-offs in network-based ISP services	2011	44B13001	SIGCOMM
+7EB05FED	Design space analysis for modeling incentives in distributed systems	2011	44B13001	SIGCOMM
+7E18AD50	DevoFlow: scaling flow management for high-performance networks	2011	44B13001	SIGCOMM
+7F7A05BB	Finding protocol manipulation attacks	2011	44B13001	SIGCOMM
+7DBDE6B7	How many tiers?: pricing in the internet transit market	2011	44B13001	SIGCOMM
+7FB3A695	Improving datacenter performance and robustness with multipath TCP	2011	44B13001	SIGCOMM
+8015C1E0	Insomnia in the access: or how to curb access network related energy consumption	2011	44B13001	SIGCOMM
+811C1B77	Inter-datacenter bulk transfers with netstitcher	2011	44B13001	SIGCOMM
+7C65B278	Let the market drive deployment: a strategy for transitioning to BGP security	2011	44B13001	SIGCOMM
+7DCBE63E	Managing data transfers in computer clusters with orchestra	2011	44B13001	SIGCOMM
+7E512223	NetLord: a scalable multi-tenant network architecture for virtualized datacenters	2011	44B13001	SIGCOMM
+8428206C	NetQuery: a knowledge plane for reasoning about network properties	2011	44B13001	SIGCOMM
+7558DA76	On blind mice and the elephant: understanding the network impact of a large distributed system	2011	44B13001	SIGCOMM
+7FCA3768	Predicting and tracking internet path changes	2011	44B13001	SIGCOMM
+7FD8D4D1	Random access heterogeneous MIMO networks	2011	44B13001	SIGCOMM
+80ED00D9	Seamless network-wide IGP migrations	2011	44B13001	SIGCOMM
+79E5BD06	Strider: automatic rate adaptation and collision handling	2011	44B13001	SIGCOMM
+7EA43DD1	The evolution of layered protocol stacks leads to an hourglass-shaped architecture	2011	44B13001	SIGCOMM
+7FC98C38	The power of prediction: cloud bandwidth and cost reduction	2011	44B13001	SIGCOMM
+762586EF	They can hear your heartbeats: non-invasive security for implantable medical devices	2011	44B13001	SIGCOMM
+7DE9FB29	Towards predictable datacenter networks	2011	44B13001	SIGCOMM
+7EC6F8C1	Understanding network failures in data centers: measurement, analysis, and implications	2011	44B13001	SIGCOMM
+780589C0	Understanding the impact of video quality on user engagement	2011	44B13001	SIGCOMM
+7F2671AA	What's the difference?: efficient set reconciliation without prior context	2011	44B13001	SIGCOMM
+7B6409FC	A case for a coordinated internet video control plane	2012	44B13001	SIGCOMM
+80920973	A smart pre-classifier to reduce power consumption of TCAMs for multi-dimensional packet classification	2012	44B13001	SIGCOMM
+801AC063	Abstractions for network update	2012	44B13001	SIGCOMM
+79A015B7	Anatomy of a large european IXP	2012	44B13001	SIGCOMM
+76F26A11	CarSpeak: a content-centric network for autonomous driving	2012	44B13001	SIGCOMM
+7D5AEC51	DeTail: reducing the flow completion time tail in datacenter networks	2012	44B13001	SIGCOMM
+7DB7C607	Deadline-aware datacenter tcp (D2TCP)	2012	44B13001	SIGCOMM
+7D79F4EC	Efficient and reliable low-power backscatter networks	2012	44B13001	SIGCOMM
+75800DFF	FairCloud: sharing the network in cloud computing	2012	44B13001	SIGCOMM
+7D525CB5	Finishing flows quickly with preemptive scheduling	2012	44B13001	SIGCOMM
+81553E96	Flashback: decoupled lightweight wireless control	2012	44B13001	SIGCOMM
+7F848749	HyperDex: a distributed, searchable key-value store	2012	44B13001	SIGCOMM
+7EA64EF8	Inferring visibility: who's (not) talking to whom?	2012	44B13001	SIGCOMM
+7735263F	It's not easy being green	2012	44B13001	SIGCOMM
+8112CB90	JMB: scaling wireless capacity with user demands	2012	44B13001	SIGCOMM
+7E324EAB	LIFEGUARD: practical repair of persistent route failures	2012	44B13001	SIGCOMM
+7FBB2A71	Making middleboxes someone else's problem: network processing as a cloud service	2012	44B13001	SIGCOMM
+7D2A8298	Measuring and fingerprinting click-spam in ad networks	2012	44B13001	SIGCOMM
+7FBEE7B1	Mirror mirror on the ceiling: flexible wireless links for data centers	2012	44B13001	SIGCOMM
+7DFA3BD3	Multi-resource fair queueing for packet processing	2012	44B13001	SIGCOMM
+7FCD45A0	NetPilot: automating datacenter network failure mitigation	2012	44B13001	SIGCOMM
+802C3238	On-chip networks from a networking perspective: congestion and scalability in many-core interconnects	2012	44B13001	SIGCOMM
+809760CB	Optimizing cost and performance for content multihoming	2012	44B13001	SIGCOMM
+78706FB3	Perspectives on network calculus: no free lunch, but still good value	2012	44B13001	SIGCOMM
+79CEA425	Picasso: flexible RF and spectrum slicing	2012	44B13001	SIGCOMM
+7D411347	Private and verifiable interdomain routing decisions	2012	44B13001	SIGCOMM
+7F60E4FD	ShadowStream: performance evaluation as a capability in production internet live streaming networks	2012	44B13001	SIGCOMM
+7BAB28CE	Surviving failures in bandwidth-constrained datacenters	2012	44B13001	SIGCOMM
+7D01F82B	TUBE: time-dependent pricing for mobile data	2012	44B13001	SIGCOMM
+7953D0C5	The only constant is change: incorporating time-varying network reservations in data centers	2012	44B13001	SIGCOMM
+80E2C137	A provider-side view of web search response time	2013	44B13001	SIGCOMM
+7D4B5C5E	Achieving high utilization with software-driven WAN	2013	44B13001	SIGCOMM
+7D233D11	Ambient backscatter: wireless communication out of thin air	2013	44B13001	SIGCOMM
+80A397F5	An empirical reexamination of global DNS behavior	2013	44B13001	SIGCOMM
+805FF371	An in-depth study of LTE: effect of network protocol and application behavior on performance	2013	44B13001	SIGCOMM
+7D8C64C5	Ananta: cloud scale load balancing	2013	44B13001	SIGCOMM
+7EC4BE28	B4: experience with a globally-deployed software defined wan	2013	44B13001	SIGCOMM
+7F6BA9BE	BGP security in partial deployment: is the juice worth the squeeze?	2013	44B13001	SIGCOMM
+78E20060	BigStation: enabling scalable real-time signal processingin large mu-mimo systems	2013	44B13001	SIGCOMM
+7E9BC2DA	Bringing cross-layer MIMO to today's wireless LANs	2013	44B13001	SIGCOMM
+7F14E1C0	Compressing IP forwarding tables: towards entropy bounds and beyond	2013	44B13001	SIGCOMM
+8116524A	Developing a predictive model of quality of experience for internet video	2013	44B13001	SIGCOMM
+7FAC5F49	Dhwani: secure peer-to-peer acoustic NFC	2013	44B13001	SIGCOMM
+80A1DAB9	Dude, where's my card?: RFID positioning that works with multipath and non-line of sight	2013	44B13001	SIGCOMM
+75CF2C11	ElasticSwitch: practical work-conserving bandwidth guarantees for cloud computing	2013	44B13001	SIGCOMM
+776906D6	Expressive privacy control with pseudonyms	2013	44B13001	SIGCOMM
+7F6EA615	FCP: a flexible transport framework for accommodating diversity	2013	44B13001	SIGCOMM
+7F3A2DEF	Forwarding metamorphosis: fast programmable match-action processing in hardware for SDN	2013	44B13001	SIGCOMM
+80BF746C	Full duplex radios	2013	44B13001	SIGCOMM
+7F23F539	Got loss? Get zOVN!	2013	44B13001	SIGCOMM
+803FDB55	Integrating microsecond circuit switching into the data center	2013	44B13001	SIGCOMM
+80838AAD	Less pain, most of the gain: incrementally deployable ICN	2013	44B13001	SIGCOMM
+7D2565B0	Leveraging endpoint flexibility in data-intensive clusters	2013	44B13001	SIGCOMM
+7E2EC914	Maple: simplifying SDN programming using algorithmic policies	2013	44B13001	SIGCOMM
+804B49A1	Mosaic: quantifying privacy leakage in mobile networks	2013	44B13001	SIGCOMM
+7B73CECD	Participatory networking: an API for application control of SDNs	2013	44B13001	SIGCOMM
+7F5E50E8	PoiRoot: investigating the root cause of interdomain path changes	2013	44B13001	SIGCOMM
+804A1BA1	Reducing web latency: the virtue of gentle aggression	2013	44B13001	SIGCOMM
+7F5EF9AD	SIMPLE-fying middlebox policy enforcement using SDN	2013	44B13001	SIGCOMM
+7EE6A9C3	See through walls with WiFi!	2013	44B13001	SIGCOMM
+77BA1744	Speeding up distributed request-response workflows	2013	44B13001	SIGCOMM
+75E57DF5	SplitX: high-performance private analytics	2013	44B13001	SIGCOMM
+768D5C93	TCP ex machina: computer-generated congestion control	2013	44B13001	SIGCOMM
+75B85B6A	Towards efficient traffic-analysis resistant anonymity networks	2013	44B13001	SIGCOMM
+7E0DE237	Trinocular: understanding internet reliability through adaptive probing	2013	44B13001	SIGCOMM
+7CF28D57	Verifiable auctions for online ad exchanges	2013	44B13001	SIGCOMM
+7E3C5B20	pFabric: minimal near-optimal datacenter transport	2013	44B13001	SIGCOMM
+80E5DC8C	zUpdate: updating data center networks with zero loss	2013	44B13001	SIGCOMM
+802FDEA4	A "hitchhiker's" guide to fast and efficient data reconstruction in erasure-coded data centers	2014	44B13001	SIGCOMM
+81300488	A buffer-based approach to rate adaptation: evidence from a large video streaming service	2014	44B13001	SIGCOMM
+7FB5BE20	A global name service for a highly mobile internetwork	2014	44B13001	SIGCOMM
+7FCC01BD	A middlebox-cooperative TCP for a non end-to-end internet	2014	44B13001	SIGCOMM
+8174D813	A network-state management service	2014	44B13001	SIGCOMM
+7D7F9BE0	An experimental study of the learnability of congestion control	2014	44B13001	SIGCOMM
+7F638802	Application-driven bandwidth guarantees in datacenters	2014	44B13001	SIGCOMM
+7D25A556	Balancing accountability and privacy in the network	2014	44B13001	SIGCOMM
+80A05108	CONGA: distributed congestion-aware load balancing for datacenters	2014	44B13001	SIGCOMM
+8161691F	Calendaring for wide area networks	2014	44B13001	SIGCOMM
+80079B60	Control-plane protocol interactions in cellular networks	2014	44B13001	SIGCOMM
+7DE77326	DREAM: dynamic resource allocation for software-defined measurement	2014	44B13001	SIGCOMM
+813F92EA	Decentralized task-aware scheduling for data center networks	2014	44B13001	SIGCOMM
+7D1F527F	Diagnosing missing events in distributed systems with negative provenance	2014	44B13001	SIGCOMM
+80B3FDA4	Duet: cloud scale load balancing with hardware and software	2014	44B13001	SIGCOMM
+7F6CA387	Dynamic scheduling of network updates	2014	44B13001	SIGCOMM
+80257868	Efficient coflow scheduling with Varys	2014	44B13001	SIGCOMM
+7EE553EB	FastForward: fast and constructive full duplex relays	2014	44B13001	SIGCOMM
+8023689B	Fastpass: a centralized "zero-queue" datacenter network	2014	44B13001	SIGCOMM
+7EA45A0F	FireFly: a reconfigurable wireless data center fabric using free-space optics	2014	44B13001	SIGCOMM
+7DE5637B	Friends, not foes: synthesizing existing transport strategies for data center networks	2014	44B13001	SIGCOMM
+80510969	From the consent of the routed: improving the transparency of the RPKI	2014	44B13001	SIGCOMM
+8147E85C	Geosphere: consistently turning MIMO capacity into throughput	2014	44B13001	SIGCOMM
+809B19DB	Guarantee IP lookup performance with FIB explosion	2014	44B13001	SIGCOMM
+7E3CBCB8	LTE radio analytics made easy and accessible	2014	44B13001	SIGCOMM
+7D2B6437	Lightweight source authentication and path validation	2014	44B13001	SIGCOMM
+7CF2372C	Measuring IPv6 adoption	2014	44B13001	SIGCOMM
+7DF34065	Millions of little minions: using packets for low latency network programming and visibility	2014	44B13001	SIGCOMM
+7F2BAE5B	Multi-resource packing for cluster schedulers	2014	44B13001	SIGCOMM
+7EBFB216	Network neutrality inference	2014	44B13001	SIGCOMM
+7F84277B	Network stack specialization for performance	2014	44B13001	SIGCOMM
+80E3BA84	One tunnel is (often) enough	2014	44B13001	SIGCOMM
+7E90191E	OpenNF: enabling innovation in network function control	2014	44B13001	SIGCOMM
+7EC4DA68	Planck: millisecond-scale monitoring and control for commodity networks	2014	44B13001	SIGCOMM
+815E4416	Quartz: a new design element for low-latency DCNs	2014	44B13001	SIGCOMM
+7D4C6826	RF-IDraw: virtual touch screen in the air using RF signals	2014	44B13001	SIGCOMM
+7E62FD77	SAX-PAC (Scalable And eXpressive PAcket Classification)	2014	44B13001	SIGCOMM
+802F2A5A	SDX: a software defined internet exchange	2014	44B13001	SIGCOMM
+7F72A71B	Towards a quantitative comparison of location-independent network architectures	2014	44B13001	SIGCOMM
+7FE7336B	Traffic engineering with forward fault correction	2014	44B13001	SIGCOMM
+7FFC39F7	Troubleshooting blackbox SDN control software with minimal causal sequences	2014	44B13001	SIGCOMM
+7F326F9D	Turbocharging ambient backscatter communication	2014	44B13001	SIGCOMM
+7F8F5A0E	Using RDMA efficiently for key-value services	2014	44B13001	SIGCOMM
+7E8C1904	Vidyut: exploiting power line infrastructure for enterprise wireless networks	2014	44B13001	SIGCOMM
+7DBCBB20	Wi-fi backscatter: internet connectivity for RF-powered devices	2014	44B13001	SIGCOMM
+75D5C904	A Control-Theoretic Approach for Dynamic Adaptive Video Streaming over HTTP	2015	44B13001	SIGCOMM
+7A0DA38C	A Declarative and Expressive Approach to Control Forwarding Paths in Carrier-Grade Networks	2015	44B13001	SIGCOMM
+764F7376	ASwatch: An AS Reputation System to Expose Bulletproof Hosting ASes	2015	44B13001	SIGCOMM
+7A39AFB9	Adaptive Congestion Control for Unpredictable Cellular Networks	2015	44B13001	SIGCOMM
+76E64815	BackFi: High Throughput WiFi Backscatter	2015	44B13001	SIGCOMM
+7AF3EB27	BlindBox: Deep Packet Inspection over Encrypted Traffic	2015	44B13001	SIGCOMM
+77C2F777	BwE: Flexible, Hierarchical Bandwidth Allocation for WAN Distributed Computing	2015	44B13001	SIGCOMM
+7CD1CD2F	Caraoke: An E-Toll Transponder Network for Smart Cities	2015	44B13001	SIGCOMM
+7CDB2FA4	Central Control Over Distributed Routing	2015	44B13001	SIGCOMM
+77A1C1CC	Condor: Better Topologies Through Declarative Design	2015	44B13001	SIGCOMM
+795AF0C2	Congestion Control for Large-Scale RDMA Deployments	2015	44B13001	SIGCOMM
+7CAA1093	Efficient Coflow Scheduling Without Prior Knowledge	2015	44B13001	SIGCOMM
+760D1235	Enabling End-Host Network Functions	2015	44B13001	SIGCOMM
+76E6297B	Encore: Lightweight Measurement of Web Censorship with Cross-Origin Requests	2015	44B13001	SIGCOMM
+75F92D83	End-User Mapping: Next Generation Request Routing for Content Delivery	2015	44B13001	SIGCOMM
+78813073	Herd: A Scalable, Traffic Analysis Resistant Anonymity Network for VoIP Systems	2015	44B13001	SIGCOMM
+771ED5A7	Hopper: Decentralized Speculation-aware Cluster Scheduling at Scale	2015	44B13001	SIGCOMM
+7C254D22	How to Bid the Cloud	2015	44B13001	SIGCOMM
+7680C45A	Inside the Social Network's (Datacenter) Network	2015	44B13001	SIGCOMM
+77CED071	InterTubes: A Study of the US Long-haul Fiber-optic Infrastructure	2015	44B13001	SIGCOMM
+771E4048	Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google's Datacenter Network	2015	44B13001	SIGCOMM
+769F977E	Laissez-Faire: Fully Asymmetric Backscatter Communication	2015	44B13001	SIGCOMM
+7B48813F	Large-scale Measurements of Wireless Network Behavior	2015	44B13001	SIGCOMM
+75612145	Low Latency Geo-distributed Data Analytics	2015	44B13001	SIGCOMM
+7A568776	Multi-Context TLS (mcTLS): Enabling Secure In-Network Functionality in TLS	2015	44B13001	SIGCOMM
+7BADD07C	Network-Aware Scheduling for Data-Parallel Jobs: Plan When You Can	2015	44B13001	SIGCOMM
+77E24209	PGA: Using Graphs to Express and Automatically Reconcile Network Policies	2015	44B13001	SIGCOMM
+7FE98E54	Packet-Level Telemetry in Large Datacenter Networks	2015	44B13001	SIGCOMM
+76A0CA71	Pingmesh: A Large-Scale System for Data Center Network Latency Measurement and Analysis	2015	44B13001	SIGCOMM
+7CAD7358	Poptrie: A Compressed Trie with Population Count for Fast and Scalable Software IP Routing Table Lookup	2015	44B13001	SIGCOMM
+7983DA6F	Practical, Real-time Centralized Control for CDN-based Live Video Delivery	2015	44B13001	SIGCOMM
+7F3FD4C3	Presto: Edge-based Load Balancing for Fast Datacenter Networks	2015	44B13001	SIGCOMM
+7F3A7CD6	R2C2: A Network Stack for Rack-scale Computers	2015	44B13001	SIGCOMM
+79060864	Rollback-Recovery for Middleboxes	2015	44B13001	SIGCOMM
+7530B80A	Scaling Up Clustered Network Appliances with ScaleBricks	2015	44B13001	SIGCOMM
+7765D62A	Silo: Predictable Message Latency in the Cloud	2015	44B13001	SIGCOMM
+81712843	Spatiotemporal Traffic Matrix Synthesis	2015	44B13001	SIGCOMM
+7636C660	SpotFi: Decimeter Level Localization Using WiFi	2015	44B13001	SIGCOMM
+75525948	TIMELY: RTT-based Congestion Control for the Datacenter	2015	44B13001	SIGCOMM

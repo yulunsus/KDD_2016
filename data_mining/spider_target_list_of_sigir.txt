@@ -1,0 +1,29 @@
+Conference on Information and Knowledge Management
+Conference on Image and Video Retrieval
+Cloud Data Management
+Data Warehousing and OLAP
+Data-Intensive Software Management and Mining
+Data and Text Mining in Biomedical Informatics
+Data-driven User Behavioral Modelling and Mining from Social Media
+Document Engineering
+Exploiting Semantic Annotations in Information Retrieval
+Forum for Information Retrieval Evaluation
+Geographic Information Retrieval
+Hypertext and hypermedia
+Large-Scale Distributed Systems for Information Retrieval
+Ph.D. Students in Information and Knowledge Management
+Politics, Elections and Data
+Privacy and Secuirty of Big Data
+Patent Information Retrieval
+Recommender Systems
+Information Retrieval
+Search and Mining Entity-Relationship Data
+Search and Mining User-generated Contents
+Search in Social Media
+Social Web Search and Mining
+Social Media Retrieval and Analysis
+Very Large Data Bases
+Information Credibility on the Web
+Web Information and Data Management
+Web Search and Data Mining
+Web-scale Knowledge Representation, Retrieval and Reasoning

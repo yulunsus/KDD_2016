@@ -1,0 +1,774 @@
+Yahoo
+763
+University of Glasgow
+667
+University of Massachusetts Amherst
+659
+Carnegie Mellon University
+600
+University of Illinois at Urbana Champaign
+546
+Tsinghua University
+537
+University of Amsterdam
+474
+Pennsylvania State University
+466
+National University of Singapore
+446
+Microsoft
+436
+University of Maryland College Park
+383
+Nanyang Technological University
+371
+Virginia Tech
+347
+Peking University
+317
+Zhejiang University
+311
+Texas A M University
+305
+Chinese Academy of Sciences
+298
+University of North Carolina at Chapel Hill
+293
+The Chinese University of Hong Kong
+284
+University of Waterloo
+277
+Cornell University
+262
+Stanford University
+252
+RMIT University
+232
+University of California Berkeley
+230
+Indiana University Bloomington
+227
+Google
+224
+University of Melbourne
+212
+Rutgers University
+208
+Dublin City University
+202
+University of Sheffield
+202
+Hong Kong University of Science and Technology
+198
+National Taiwan University
+192
+University of Minnesota
+189
+Columbia University
+182
+Fudan University
+180
+Arizona State University
+178
+IBM
+178
+Drexel University
+175
+University of Illinois at Chicago
+175
+University of Waikato
+174
+Purdue University
+173
+University of Arizona
+173
+Shanghai Jiao Tong University
+171
+University College London
+168
+Georgia Institute of Technology
+167
+University of Texas at Austin
+165
+University of Twente
+161
+University of Michigan
+156
+University of Science and Technology of China
+153
+University of California Santa Barbara
+150
+University of Pittsburgh
+148
+Florida International University
+144
+Queensland University of Technology
+139
+Illinois Institute of Technology
+135
+Technion Israel Institute of Technology
+135
+University College Dublin
+135
+Emory University
+134
+University of California Los Angeles
+133
+University of Toronto
+133
+Ecole Polytechnique Federale de Lausanne
+132
+University of Tampere
+129
+Nippon Telegraph and Telephone
+127
+Old Dominion University
+126
+Istituto di Scienza e Tecnologie dell Informazione
+125
+Northeastern University
+124
+Kyoto University
+122
+Renmin University of China
+122
+Delft University of Technology
+119
+Leibniz University of Hanover
+119
+University of Southern California
+119
+Worcester Polytechnic Institute
+117
+Norwegian University of Science and Technology
+109
+University of Colorado Boulder
+108
+Aalborg University
+107
+Hong Kong Polytechnic University
+105
+Universite de Montreal
+104
+New Jersey Institute of Technology
+101
+Syracuse University
+100
+Vienna University of Technology
+100
+Pohang University of Science and Technology
+99
+University of Texas at Arlington
+99
+Simon Fraser University
+97
+Technical University of Berlin
+97
+University of Southampton
+97
+University of Hong Kong
+95
+University of Padua
+93
+University of Washington
+92
+University of Delaware
+91
+Northwestern University
+90
+University of California Santa Cruz
+90
+National Institute of Informatics
+88
+Massachusetts Institute of Technology
+87
+University of New South Wales
+87
+Korea University
+86
+University of Tokyo
+86
+Harbin Institute of Technology
+85
+University of Strathclyde
+85
+Bilkent University
+84
+Commonwealth Scientific and Industrial Research Organisation
+84
+City University of Hong Kong
+83
+Free University of Bozen Bolzano
+83
+Shandong University
+83
+University of Cambridge
+82
+Queen Mary University of London
+81
+Autonomous university of madrid
+81
+University of California San Diego
+80
+Lehigh University
+79
+University of British Columbia
+79
+Ben Gurion University of the Negev
+77
+DePaul University
+77
+University of California Irvine
+77
+University of Alberta
+76
+University of Iowa
+76
+Open University
+75
+Singapore Management University
+75
+Ludwig Maximilian University of Munich
+74
+University of Tsukuba
+74
+York University
+73
+FX Palo Alto Laboratory
+72
+University at Buffalo
+72
+University of Queensland
+71
+RWTH Aachen University
+70
+sapienza university of rome
+70
+University of Technology Sydney
+70
+Michigan State University
+69
+Beijing University of Posts and Telecommunications
+68
+polytechnic university of catalonia
+68
+University of Lugano
+68
+New York University
+67
+University of Potsdam
+67
+Academia Sinica
+66
+Tufts University
+66
+katholieke universiteit leuven
+65
+University of Florida
+65
+University of Lisbon
+65
+Seoul National University
+64
+University of Edinburgh
+64
+University of Kansas
+63
+Australian National University
+62
+National Technical University of Athens
+62
+Ohio State University
+62
+Technische Universitat Darmstadt
+61
+University of Patras
+61
+Beihang University
+60
+Philips
+60
+University of Bologna
+59
+University of Helsinki
+59
+University of Southern California
+57
+Georgetown University
+56
+Hanyang University
+56
+Johns Hopkins University
+56
+Dartmouth College
+55
+Indian Institute of Technology Hyderabad
+55
+Johannes Kepler University of Linz
+55
+Nankai University
+55
+National University of Ireland Galway
+55
+Alcatel Lucent
+54
+Radboud University Nijmegen
+54
+Robert Gordon University
+54
+Wuhan University
+54
+University of Stuttgart
+53
+Indian Institute of Technology Kharagpur
+52
+NICTA
+52
+pierre and marie curie university
+52
+Utah State University
+52
+eBay
+52
+Aalto University
+51
+Concordia University
+51
+Federal University of Amazonas
+51
+fraunhofer society
+51
+Telefonica
+51
+Huazhong University of Science and Technology
+50
+University of Virginia
+50
+Brown University
+49
+Eindhoven University of Technology
+49
+State University of Campinas
+49
+Siemens
+49
+Brigham Young University
+47
+NEC
+47
+University of Adelaide
+46
+Qatar Computing Research institute
+45
+University of California Riverside
+45
+Stony Brook University
+44
+University of Sydney
+44
+Hong Kong Baptist University
+43
+Soochow University
+43
+University of Hildesheim
+43
+Princeton University
+42
+University of Milan
+42
+Hewlett Packard
+41
+Monash University
+41
+University of Erlangen Nuremberg
+41
+University of Pisa
+41
+University of Porto
+41
+saarland university
+41
+Aristotle University of Thessaloniki
+40
+Fujitsu
+40
+George Mason University
+40
+Ghent University
+40
+Tianjin University
+40
+University of Oxford
+40
+Bar Ilan University
+39
+Dalian University of Technology
+39
+University of Konstanz
+39
+Wayne State University
+39
+City college of New York
+38
+Indian Statistical Institute
+38
+Karlsruhe Institute of Technology
+38
+University of Duisburg Essen
+38
+University of Freiburg
+38
+Hebrew University of Jerusalem
+37
+MITRE Corporation
+36
+University of California Davis
+36
+University of Ioannina
+36
+Kent State University
+35
+National Tsing Hua University
+35
+Technical University of Crete
+35
+Aarhus University
+35
+University of Trento
+35
+Athens University of Economics and Business
+34
+Lawrence Berkeley National Laboratory
+34
+North Carolina State University
+34
+Oregon State University
+34
+University of Pennsylvania
+34
+McGill University
+33
+University of North Carolina at Charlotte
+33
+University of Paris Sud
+33
+University of Utah
+33
+centre national de la recherche scientifique
+32
+Imperial College London
+32
+University of Toulouse
+32
+University of Mannheim
+32
+University of Sao Paulo
+32
+Xi An Jiaotong University
+32
+Rutgers Newark
+31
+University of Western Ontario
+31
+Tokyo Institute of Technology
+31
+University of Chicago
+31
+University of Rochester
+31
+University of Udine
+31
+AT&T Labs
+30
+Beijing Institute of Technology
+30
+Graz University of Technology
+30
+Kyungpook National University
+30
+University of Modena and Reggio Emilia
+30
+Case Western Reserve University
+29
+ecole polytechnique federale de lausanne
+29
+Florida State University
+29
+Thomson Reuters
+29
+charles iii university of madrid
+29
+polytechnic university of valencia
+29
+University of Auckland
+29
+University of Calabria
+29
+University of Turin
+29
+University of Zurich
+29
+german research centre for artificial intelligence
+28
+Indian Institute of Technology Bombay
+28
+indiana university purdue university indianapolis
+28
+Osaka University
+28
+TELECOM ParisTech
+28
+dresden university of technology
+28
+university of lyon
+28
+University of Wisconsin Madison
+28
+Duke University
+27
+Portland State University
+27
+university of chile
+27
+University of Basel
+27
+University of Victoria
+27
+Keio University
+26
+pompeu fabra university
+26
+University of Central Florida
+26
+east china normal university
+25
+Rensselaer Polytechnic Institute
+25
+Rice University
+25
+Southeast University
+25
+University of Massachusetts boston
+25
+Federal University of Pernambuco
+24
+Indian Institute of Science
+24
+University of Haifa
+24
+leipzig university
+24
+University of Regensburg
+24
+University of Tennessee
+24
+Xidian University
+24
+Harvard University
+23
+Indian Institute of Technology Delhi
+23
+Oracle Corporation
+23
+University of Bonn
+23
+Iowa State University
+22
+Mayo Clinic
+22
+University of Essex
+22
+Boston University
+21
+Indian Institute of Technology Madras
+21
+heidelberg university
+21
+Xerox
+21
+AT&T
+20
+Lawrence Livermore National Laboratory
+20
+Louisiana State University
+20
+National Chiao Tung University
+20
+university of marburg
+20
+SRI International
+20
+university of bordeaux
+20
+University of Copenhagen
+20
+Utrecht University
+20
+Temple University
+19
+paul sabatier university
+19
+University of Cincinnati
+19
+University of Fribourg
+19
+University of Geneva
+19
+University of Michigan
+19
+University of Texas at Dallas
+19
+BBN Technologies
+18
+Intel
+18
+Linkoping University
+18
+Max Planck Institute for Software Systems
+18
+Nanjing University
+18
+Sun Yat Sen University
+18
+University of Crete
+18
+kaiserslautern university of technology
+18
+Vanderbilt University
+18
+washington university in st louis
+18
+netherlands organisation for applied scientific research
+17
+technische universitat munchen
+17
+Tel Aviv University
+17
+University of Augsburg
+17
+University of Miami
+17
+university of milano bicocca
+17
+University of Ottawa
+17
+University of Salerno
+17
+University of Washington
+17
+university of bremen
+16
+Humboldt University of Berlin
+16
+southern illinois university carbondale
+16
+Tongji University
+16
+University of Massachusetts Lowell
+16
+Alpen Adria Universitat Klagenfurt
+15
+ge global research
+15
+Ionian University
+15
+Jet Propulsion Laboratory
+15
+King Abdullah University of Science and Technology
+15
+Johns Hopkins University
+15
+University of Notre Dame
+15
+VTT Technical Research Centre of Finland
+15
+Dalian Maritime University
+14
+Free University of Berlin
+14
+Hungarian Academy of Sciences
+14
+Leiden University
+14
+Santa Clara University
+14
+Swinburne University of Technology
+14
+University of Warwick
+14
+vu university amsterdam
+14
+Chalmers University of Technology
+13
+National Cheng Kung University
+13
+naval postgraduate school
+13
+Poznan University of Technology
+13
+Wright State University
+13
+Xiamen University
+13
+Alcatel Lucent
+12
+George Washington University
+12
+indraprastha institute of information technology
+12
+Instituto Superior Tecnico
+12
+Kyoto Sangyo University
+12
+university at albany suny
+12
+Stevens Institute of Technology
+12
+University of Georgia
+12
+University of Oregon
+12
+University of Paderborn
+12
+Deakin University
+11
+Guangdong University of Technology
+11
+Hefei University of Technology
+11
+Huawei
+11
+Moscow State University
+11
+Oxford Brookes University
+11
+Sorbonne
+11
+University of Saskatchewan
+11
+universite de sherbrooke
+11
+University of Yamanashi
+11
+University of York
+11
+weizmann institute of science
+11
+Yale University
+11
+Charles University in Prague
+10
+Pacific Northwest National Laboratory
+10
+Royal Institute of Technology
+10
+Technicolor
+10
+Tokyo Denki University
+10
+University of Antwerp
+10
+University of Piraeus
+10
+Colorado State University
+9

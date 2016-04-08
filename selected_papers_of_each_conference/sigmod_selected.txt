@@ -1,0 +1,422 @@
+7C9D2379	A latency and fault-tolerance optimizer for online parallel query plans	2011	460A7036	SIGMOD
+7CFF6065	A memory efficient reachability data structure through bit vector compression	2011	460A7036	SIGMOD
+80A99664	A new approach for processing ranked subsequence matching based on ranked union	2011	460A7036	SIGMOD
+7E6E0F63	A platform for scalable one-pass analytics using MapReduce	2011	460A7036	SIGMOD
+7CC4C408	ATLAS: a probabilistic algorithm for high dimensional similarity search	2011	460A7036	SIGMOD
+75836D3B	Advancing data clustering via projective clustering ensembles	2011	460A7036	SIGMOD
+76339E3B	Apples and oranges: a comparison of RDF benchmarks and real RDF datasets	2011	460A7036	SIGMOD
+7B49723E	ArrayStore: a storage manager for complex parallel array processing	2011	460A7036	SIGMOD
+7BFE4D8C	Assessing and ranking structural correlations in graphs	2011	460A7036	SIGMOD
+78E995D6	Attribute domain discovery for hidden web databases	2011	460A7036	SIGMOD
+7E97CE80	Automatic discovery of attributes in relational databases	2011	460A7036	SIGMOD
+786E4A09	BE-tree: an index structure to efficiently match boolean expressions over high-dimensional discrete space	2011	460A7036	SIGMOD
+7EFEE83F	Changing flights in mid-air: a model for safely modifying continuous queries	2011	460A7036	SIGMOD
+81168136	Collective spatial keyword querying	2011	460A7036	SIGMOD
+7B98B0C5	Context-sensitive ranking for document retrieval	2011	460A7036	SIGMOD
+813B4422	CrowdDB: answering queries with crowdsourcing	2011	460A7036	SIGMOD
+803E8FF5	Data generation using declarative constraints	2011	460A7036	SIGMOD
+7D0B1E65	Design and evaluation of main memory hash join algorithms for multi-core CPUs	2011	460A7036	SIGMOD
+7D475627	Designing and refining schema mappings via data examples	2011	460A7036	SIGMOD
+7A2A6694	Differentially private data cubes: optimizing noise sources and consistency	2011	460A7036	SIGMOD
+7744DF4D	E-Cube: multi-dimensional event sequence analysis using hierarchical pattern query sharing	2011	460A7036	SIGMOD
+791561F0	Effective data co-reduction for multimedia similarity search	2011	460A7036	SIGMOD
+75252B27	Efficient and generic evaluation of ranked queries	2011	460A7036	SIGMOD
+7B5AE8CE	Efficient auditing for complex SQL queries	2011	460A7036	SIGMOD
+76F738C0	Efficient diversity-aware search	2011	460A7036	SIGMOD
+7D33D1FC	Efficient exact edit similarity query processing with the asymmetric signature scheme	2011	460A7036	SIGMOD
+7EA5014F	Efficient parallel skyline processing using hyperplane projections	2011	460A7036	SIGMOD
+77502F11	Efficient query answering in probabilistic RDF graphs	2011	460A7036	SIGMOD
+7E1C88D1	Entangled queries: enabling declarative data-driven coordination	2011	460A7036	SIGMOD
+76CD619E	Exact indexing for support vector machines	2011	460A7036	SIGMOD
+7FD1C0DE	Facet discovery for structured web search: a query-log mining approach	2011	460A7036	SIGMOD
+7F88A190	Faerie: efficient filtering algorithms for approximate dictionary-based entity extraction	2011	460A7036	SIGMOD
+77FBEE13	Fast checkpoint recovery algorithms for frequently consistent applications	2011	460A7036	SIGMOD
+7EEE9799	Fast personalized PageRank on MapReduce	2011	460A7036	SIGMOD
+7CFF2DEF	Finding semantics in time series	2011	460A7036	SIGMOD
+77ACCCFB	Finding shortest path on land surface	2011	460A7036	SIGMOD
+761D582C	Flexible aggregate similarity search	2011	460A7036	SIGMOD
+7F65AF92	Graph cube: on warehousing and OLAP multidimensional networks	2011	460A7036	SIGMOD
+7E60D87A	How soccer players would do stream joins	2011	460A7036	SIGMOD
+80393B69	Hybrid in-database inference for declarative information extraction	2011	460A7036	SIGMOD
+7FB3D2CF	Incremental graph pattern matching	2011	460A7036	SIGMOD
+8004E818	Interaction between record matching and data repairing	2011	460A7036	SIGMOD
+7EC47FE9	Jigsaw: efficient optimization over uncertain enterprise data	2011	460A7036	SIGMOD
+7CCC1FED	Joint unsupervised structure discovery and information extraction	2011	460A7036	SIGMOD
+7717DACC	Keyword search over relational databases: a metadata approach	2011	460A7036	SIGMOD
+80339896	Labeling recursive workflow executions on-the-fly	2011	460A7036	SIGMOD
+77DD8E1A	Latent OLAP: data cubes over latent variables	2011	460A7036	SIGMOD
+80673B45	LazyFTL: a page-level flash translation layer optimized for NAND flash memory	2011	460A7036	SIGMOD
+760903C6	Leveraging query logs for schema mapping generation in U-MAP	2011	460A7036	SIGMOD
+80E85534	Llama: leveraging columnar storage for scalable join processing in the MapReduce framework	2011	460A7036	SIGMOD
+7A8B17A6	Local graph sparsification for scalable clustering	2011	460A7036	SIGMOD
+81075B0A	Location-aware type ahead search on spatial databases: semantics and efficiency	2011	460A7036	SIGMOD
+7866BC69	MaSM: efficient online updates in data warehouses	2011	460A7036	SIGMOD
+79CD5597	Mining a search engine's corpus: efficient yet unbiased sampling and aggregate estimation	2011	460A7036	SIGMOD
+7DFBA9B7	More efficient datalog queries: subsumptive tabling beats magic sets	2011	460A7036	SIGMOD
+761EDB69	Nearest keyword search in XML documents	2011	460A7036	SIGMOD
+7870C827	Neighborhood based fast graph search in large networks	2011	460A7036	SIGMOD
+76B419D5	Neighborhood-privacy protected shortest distance computing in cloud	2011	460A7036	SIGMOD
+7A7BA003	No free lunch in data privacy	2011	460A7036	SIGMOD
+7B879CA2	On k-skip shortest paths	2011	460A7036	SIGMOD
+7DBE6BC8	Operation-aware buffer management in flash-based systems	2011	460A7036	SIGMOD
+77D07466	Performance prediction for concurrent database workloads	2011	460A7036	SIGMOD
+780E084A	Predicting cost amortization for query services	2011	460A7036	SIGMOD
+7AE18BCA	Processing theta-joins using MapReduce	2011	460A7036	SIGMOD
+799E7701	Query optimization techniques for partitioned tables	2011	460A7036	SIGMOD
+78FB244E	Querying contract databases based on temporal behavior	2011	460A7036	SIGMOD
+7FE2E90B	Querying uncertain data with aggregate constraints	2011	460A7036	SIGMOD
+7C11CEDF	Ranking with uncertain scoring functions: semantics and sensitivity measures	2011	460A7036	SIGMOD
+8072FB67	Reverse spatial and textual k nearest neighbor search	2011	460A7036	SIGMOD
+78374280	Sampling based algorithms for quantile computation in sensor networks	2011	460A7036	SIGMOD
+7E4E1486	Scalable query rewriting: a graph-based approach	2011	460A7036	SIGMOD
+7E55E585	Schedule optimization for data processing flows on the cloud	2011	460A7036	SIGMOD
+7733DDCB	Schema-as-you-go: on probabilistic tagging and querying of wide tables	2011	460A7036	SIGMOD
+7DAC352D	Score-consistent algebraic optimization of full-text search queries with GRAFT	2011	460A7036	SIGMOD
+7E43C2D2	Sensitivity analysis and explanations for robust query evaluation in probabilistic databases	2011	460A7036	SIGMOD
+80E12490	Sharing work in keyword search over databases	2011	460A7036	SIGMOD
+801EEA6D	SkimpyStash: RAM space skimpy key-value store on flash-based storage	2011	460A7036	SIGMOD
+7FDE56A3	Skyline query processing over joins	2011	460A7036	SIGMOD
+7BC577D5	TI: an efficient indexing mechanism for real-time search on tweets	2011	460A7036	SIGMOD
+7E1080F8	Tracing data errors with view-conditioned causality	2011	460A7036	SIGMOD
+79B6A261	TrustedDB: a trusted hardware based database with privacy and data confidentiality	2011	460A7036	SIGMOD
+7DE4158D	WHAM: a high-throughput sequence alignment method	2011	460A7036	SIGMOD
+7858D4EF	Warding off the dangers of data corruption with amulet	2011	460A7036	SIGMOD
+77B1C39D	We challenge you to certify your updates	2011	460A7036	SIGMOD
+803C8411	Workload-aware database monitoring and consolidation	2011	460A7036	SIGMOD
+7D3C9B2C	Zephyr: live migration in shared nothing databases for elastic cloud platforms	2011	460A7036	SIGMOD
+7F1F7582	iReduct: differential privacy with reduced relative errors	2011	460A7036	SIGMOD
+77929ED3	A highway-centric labeling approach for answering distance queries on large sparse graphs	2012	460A7036	SIGMOD
+7DD81FC3	A model-based approach to attributed graph clustering	2012	460A7036	SIGMOD
+814B31DF	Advanced partitioning techniques for massively distributed computation	2012	460A7036	SIGMOD
+7D212C3A	Aggregate suppression for enterprise search engines	2012	460A7036	SIGMOD
+75D0BA27	Authenticating location-based services without compromising location privacy	2012	460A7036	SIGMOD
+7ACFD53F	Calvin: fast distributed transactions for partitioned database systems	2012	460A7036	SIGMOD
+7E700186	Can we beat the prefix filtering?: an adaptive framework for similarity join and search	2012	460A7036	SIGMOD
+78ED4EB1	CrowdScreen: algorithms for filtering data with humans	2012	460A7036	SIGMOD
+789EFDEE	Declarative error management for robust data-intensive applications	2012	460A7036	SIGMOD
+765637F7	Divergent physical design tuning for replicated databases	2012	460A7036	SIGMOD
+7B241648	Effective caching of shortest paths for location-based services	2012	460A7036	SIGMOD
+7B4DDBD5	Efficient external-memory bisimulation on DAGs	2012	460A7036	SIGMOD
+7CF31018	Efficient processing of distance queries in large graphs: a vertex cover approach	2012	460A7036	SIGMOD
+7CD2929F	Efficient spatial sampling of large geographical tables	2012	460A7036	SIGMOD
+7DABC63F	GUPT: privacy preserving data analysis made easy	2012	460A7036	SIGMOD
+7E916891	High-performance complex event processing over XML streams	2012	460A7036	SIGMOD
+7C5FE201	Holistic optimization by prefetching query results	2012	460A7036	SIGMOD
+770042B6	InfoGather: entity augmentation and attribute discovery by holistic matching with web tables	2012	460A7036	SIGMOD
+7D6BB85E	Interactive regret minimization	2012	460A7036	SIGMOD
+7DC2B485	Local structure and determinism in probabilistic databases	2012	460A7036	SIGMOD
+7FCEE5DB	Locality-sensitive hashing scheme based on dynamic collision counting	2012	460A7036	SIGMOD
+79FCC8F5	MCJoin: a memory-constrained join for column-store main-memory databases	2012	460A7036	SIGMOD
+80C3359C	Managing large dynamic graphs efficiently	2012	460A7036	SIGMOD
+7E353A60	MaskIt: privately releasing user context streams for personalized mobile applications	2012	460A7036	SIGMOD
+7824E7A6	Materialized view selection for XQuery workloads	2012	460A7036	SIGMOD
+7D5C65B8	NoDB: efficient query execution on raw data files	2012	460A7036	SIGMOD
+7C4EB3FE	Online windowed subsequence matching over probabilistic sequences	2012	460A7036	SIGMOD
+75A024A9	Optimal top-k generation of attribute combinations based on ranked lists	2012	460A7036	SIGMOD
+814258CB	Optimizing index for taxonomy keyword search	2012	460A7036	SIGMOD
+7C826659	Parallel main-memory indexing for moving-object query and update workloads	2012	460A7036	SIGMOD
+7C67A593	Prediction-based geometric monitoring over distributed data streams	2012	460A7036	SIGMOD
+7F788627	Probase: a probabilistic taxonomy for text understanding	2012	460A7036	SIGMOD
+808F7E00	Processing a large number of continuous preference top- k queries	2012	460A7036	SIGMOD
+7D2D795C	Query preserving graph compression	2012	460A7036	SIGMOD
+787AFC71	SCARAB: scaling reachability computation on large graphs	2012	460A7036	SIGMOD
+7CF559DA	Sample-driven schema mapping	2012	460A7036	SIGMOD
+7FD70B0F	Skeleton automata for FPGAs: reconfiguring without reconstructing	2012	460A7036	SIGMOD
+80300640	Skew-aware automatic database partitioning in shared-nothing, parallel OLTP systems	2012	460A7036	SIGMOD
+7F9595BD	SkewTune: mitigating skew in mapreduce applications	2012	460A7036	SIGMOD
+7D08B33D	Skimmer: rapid scrolling of relational query results	2012	460A7036	SIGMOD
+75B14F26	So who won?: dynamic max discovery with the crowd	2012	460A7036	SIGMOD
+7A1F310A	Tiresias: the database oracle for how-to queries	2012	460A7036	SIGMOD
+7D0ACFAA	Top-k bounded diversification	2012	460A7036	SIGMOD
+7C9FD7E7	Towards a unified architecture for in-RDBMS analytics	2012	460A7036	SIGMOD
+7AF76155	Towards effective partition management for large graphs	2012	460A7036	SIGMOD
+7C71BEE2	TreeSpan: efficiently computing similarity all-matching	2012	460A7036	SIGMOD
+7956DA8C	bLSM: a general purpose log structured merge tree	2012	460A7036	SIGMOD
+7D0EE8A7	A direct mining approach to efficient constrained graph pattern discovery	2013	460A7036	SIGMOD
+80482239	A scalable lock manager for multicores	2013	460A7036	SIGMOD
+802FC609	An efficient query indexing mechanism for filtering geo-textual data	2013	460A7036	SIGMOD
+7C55D255	An online cost sensitive decision-making method in crowdsourcing systems	2013	460A7036	SIGMOD
+7C0C7978	Automatic synthesis of out-of-core algorithms	2013	460A7036	SIGMOD
+7A88A293	BitWeaving: fast scans for main memory data processing	2013	460A7036	SIGMOD
+7D165FAC	Bolt-on causal consistency	2013	460A7036	SIGMOD
+792028EC	Branch-and-bound algorithm for reverse top-k queries	2013	460A7036	SIGMOD
+78EBC3AB	Building an efficient RDF store over a relational database	2013	460A7036	SIGMOD
+79F28C75	CS2: a new database synopsis for query estimation	2013	460A7036	SIGMOD
+7B83D540	Calibrating trajectory data for similarity-based analysis	2013	460A7036	SIGMOD
+7D350D66	Characterizing tenant behavior for placement and crisis mitigation in multitenant DBMSs	2013	460A7036	SIGMOD
+76AE3773	Collective spatial keyword queries: a distance owner-driven approach	2013	460A7036	SIGMOD
+7DEDC781	Column imprints: a secondary index structure	2013	460A7036	SIGMOD
+761DA33E	Controlled lock violation	2013	460A7036	SIGMOD
+7B0BBA7F	Cumulon: optimizing statistical data analysis in the cloud	2013	460A7036	SIGMOD
+7C6879D1	DBMS metrology: measuring query time	2013	460A7036	SIGMOD
+76B66652	DeltaNI: an efficient labeling scheme for versioned hierarchical data	2013	460A7036	SIGMOD
+7C1F476D	Determining the relative accuracy of attributes	2013	460A7036	SIGMOD
+7D8F0DD9	Discovering XSD keys from XML data	2013	460A7036	SIGMOD
+7C86C19C	Don't be SCAREd: use SCalable Automatic REpairing with maximal likelihood and bounded changes	2013	460A7036	SIGMOD
+7800C1EE	EBM: an entropy-based model to infer social strength from spatiotemporal data	2013	460A7036	SIGMOD
+7A21B35F	Efficient ad-hoc search for personalized PageRank	2013	460A7036	SIGMOD
+7E0C4893	Efficient sentiment correlation for large-scale demographics	2013	460A7036	SIGMOD
+8094C432	Efficient top-k algorithms for approximate substring matching	2013	460A7036	SIGMOD
+7FD323D8	Efficiently computing k-edge connected components via graph decomposition	2013	460A7036	SIGMOD
+77904C24	Fast exact shortest-path distance queries on large networks by pruned landmark labeling	2013	460A7036	SIGMOD
+7898CC84	Finding time period-based most frequent path in big trajectory data	2013	460A7036	SIGMOD
+79B57C82	Fine-grained disclosure control for app ecosystems	2013	460A7036	SIGMOD
+7AA3A9EF	Generalized scale independence through incremental precomputation	2013	460A7036	SIGMOD
+80A49553	I/O efficient: computing SCCs in massive graphs	2013	460A7036	SIGMOD
+8163C19A	Improving regular-expression matching on strings using negative factors	2013	460A7036	SIGMOD
+7B17151D	Indexing for subtree similarity-search using edit distance	2013	460A7036	SIGMOD
+7DD980CE	Indexing methods for moving object databases: games and other applications	2013	460A7036	SIGMOD
+7D6925CB	InfoGather+: semantic matching and annotation of numeric and time-varying attributes in web tables	2013	460A7036	SIGMOD
+7A8316CA	Information preservation in statistical privacy and bayesian estimation of unattributed histograms	2013	460A7036	SIGMOD
+804D6E32	Integrating scale out and fault tolerance in stream processing using operator state management	2013	460A7036	SIGMOD
+7A306B3E	Inter-media hashing for large-scale retrieval from heterogeneous data sources	2013	460A7036	SIGMOD
+75D24AE6	Latch-free data structures for DBMS: design, implementation, and evaluation	2013	460A7036	SIGMOD
+80ED8D96	Leveraging transitive relations for crowdsourced joins	2013	460A7036	SIGMOD
+7531F5A0	Lightweight authentication of linear algebraic queries on data streams	2013	460A7036	SIGMOD
+7649D40B	MESSIAH: missing element-conscious SLCA nodes search in XML data	2013	460A7036	SIGMOD
+77573256	Massive graph triangulation	2013	460A7036	SIGMOD
+7F8BE5B3	Mind the gap: large-scale frequent sequence mining	2013	460A7036	SIGMOD
+75B4588D	Minimal MapReduce algorithms	2013	460A7036	SIGMOD
+79F80AB0	NADEEF: a commodity data cleaning system	2013	460A7036	SIGMOD
+77F6668A	ODYS: an approach to building a massively-parallel search engine using a DB-IR tightly-integrated parallel DBMS for higher-level functionality	2013	460A7036	SIGMOD
+7C533711	On optimal worst-case matching	2013	460A7036	SIGMOD
+7CB40EB0	On the correct and complete enumeration of the core search space	2013	460A7036	SIGMOD
+79719903	Online search of overlapping communities	2013	460A7036	SIGMOD
+7D6AC05D	Optimal splitters for temporal and multi-version databases	2013	460A7036	SIGMOD
+7DE6D098	Parallel analytics as a service	2013	460A7036	SIGMOD
+7B668811	Performance and resource modeling in highly-concurrent OLTP workloads	2013	460A7036	SIGMOD
+7E048A41	Photon: fault-tolerant and scalable joining of continuous data streams	2013	460A7036	SIGMOD
+7D371439	PrivGene: differentially private model fitting using genetic algorithms	2013	460A7036	SIGMOD
+7E10520B	Provenance-based dictionary refinement in information extraction	2013	460A7036	SIGMOD
+7B4DAEFE	Quality and efficiency for kernel density estimates in large data	2013	460A7036	SIGMOD
+7CDCA8A1	Quantiles over data streams: an experimental study	2013	460A7036	SIGMOD
+7F9A4496	RTP: robust tenant placement for elastic in-memory database clusters	2013	460A7036	SIGMOD
+7840BF99	Recursive mechanism: towards node differential privacy and unrestricted joins	2013	460A7036	SIGMOD
+7D1FDB61	Reverse engineering complex join queries	2013	460A7036	SIGMOD
+7F7FA858	Shark: SQL and rich analytics at scale	2013	460A7036	SIGMOD
+7C16B8A5	Shortest path and distance queries on road networks: towards bridging theory and practice	2013	460A7036	SIGMOD
+7D263243	Simulation of database-valued markov chains using SimSQL	2013	460A7036	SIGMOD
+79D77473	String similarity measures and joins with synonyms	2013	460A7036	SIGMOD
+758842D6	TF-Label: a topological-folding labeling scheme for reachability querying in a large graph	2013	460A7036	SIGMOD
+802FB76F	TOUCH: in-memory spatial join by hierarchical data-oriented partitioning	2013	460A7036	SIGMOD
+7BFD98D6	Toward practical query pricing with QueryMarket	2013	460A7036	SIGMOD
+7C0CBFE7	Towards high-throughput gibbs sampling at scale: a study across storage managers	2013	460A7036	SIGMOD
+80C5FF94	Trinity: a distributed graph engine on a memory cloud	2013	460A7036	SIGMOD
+794E4A0E	Turbo iso : towards ultrafast and robust subgraph isomorphism search in large graph databases	2013	460A7036	SIGMOD
+7CD30DDB	Utility-maximizing event stream suppression	2013	460A7036	SIGMOD
+7DF34DD9	Value invention in data exchange	2013	460A7036	SIGMOD
+7675B7D5	X-FTL: transactional FTL for SQLite databases	2013	460A7036	SIGMOD
+764EB88D	ε-Matching: event processing over noisy sequences in real time	2013	460A7036	SIGMOD
+7833B198	A comparison of platforms for implementing and running very large scale machine learning algorithms	2014	460A7036	SIGMOD
+77999119	A comprehensive study of main-memory partitioning and its application to large-scale comparison- and radix-sort	2014	460A7036	SIGMOD
+78B085A7	A formal approach to finding explanations for database queries	2014	460A7036	SIGMOD
+76AEEDBA	A pivotal prefix based filtering algorithm for string similarity search	2014	460A7036	SIGMOD
+7F18858A	A probabilistic model for linking named entities in web text with heterogeneous information networks	2014	460A7036	SIGMOD
+75BAED9D	A sample-and-clean framework for fast and accurate query processing on dirty data	2014	460A7036	SIGMOD
+76F7D6B9	A software-defined networking based approach for performance management of analytical queries on distributed data stores	2014	460A7036	SIGMOD
+77D59678	A temporal context-aware model for user behavior modeling in social media systems	2014	460A7036	SIGMOD
+7B063FF5	Aggregate estimation over a microblog platform	2014	460A7036	SIGMOD
+76E396D7	An application-specific instruction set for accelerating set-oriented database primitives	2014	460A7036	SIGMOD
+7E232848	Answering top-k representative queries on graph databases	2014	460A7036	SIGMOD
+751153C5	Anti-combining for MapReduce	2014	460A7036	SIGMOD
+7A68CC17	Approximation schemes for many-objective query optimization	2014	460A7036	SIGMOD
+7BD81C47	AutoPlait: automatic mining of co-evolving time sequences	2014	460A7036	SIGMOD
+7907E234	Blowfish privacy: tuning privacy-utility trade-offs using policies	2014	460A7036	SIGMOD
+75F6B2FF	Characterizing and selecting fresh data sources	2014	460A7036	SIGMOD
+7BC3AE64	Complete yet practical search for minimal query reformulations under constraints	2014	460A7036	SIGMOD
+7CF8CACE	Complex event analytics: online aggregation of stream sequence patterns	2014	460A7036	SIGMOD
+7DA504D5	Corleone: hands-off crowdsourcing for entity matching	2014	460A7036	SIGMOD
+78061E37	CrowdFill: collecting structured data from the crowd	2014	460A7036	SIGMOD
+796ADB04	DSH: data sensitive hashing for high-dimensional k-nnsearch	2014	460A7036	SIGMOD
+7EEB5449	Density-based place clustering in geo-social networks	2014	460A7036	SIGMOD
+79910A3B	Descriptive and prescriptive data cleaning	2014	460A7036	SIGMOD
+7AA32B17	Discovering queries based on example tuples	2014	460A7036	SIGMOD
+7C72F765	Dynamically optimizing queries over large scale data platforms	2014	460A7036	SIGMOD
+7C8BA427	EAGr: supporting continuous ego-centric aggregate queries over large dynamic graphs	2014	460A7036	SIGMOD
+7E6695E4	Efficient algorithms for optimal location queries in road networks	2014	460A7036	SIGMOD
+7B696D4C	Efficient cohesive subgraphs detection in parallel	2014	460A7036	SIGMOD
+78AD5911	Efficient location-aware influence maximization	2014	460A7036	SIGMOD
+7A84FB94	Efficient summarization framework for multi-attribute uncertain data	2014	460A7036	SIGMOD
+7C82FA56	Explainable security for relational databases	2014	460A7036	SIGMOD
+7D387757	Explore-by-example: an automatic query steering framework for interactive data exploration	2014	460A7036	SIGMOD
+75E657BB	Fast and unified local search for random walk based k-nearest-neighbor query in large graphs	2014	460A7036	SIGMOD
+7622BD59	Fine-grained partitioning for aggressive data skipping	2014	460A7036	SIGMOD
+7D9A274E	Fusing data with correlations	2014	460A7036	SIGMOD
+79B5A970	Global immutable region computation	2014	460A7036	SIGMOD
+81649920	H2O: a hands-free adaptive store	2014	460A7036	SIGMOD
+7A82148B	HYDRA: large-scale social identity linkage via heterogeneous behavior modeling	2014	460A7036	SIGMOD
+7EF98C4E	Histograms as a side effect of data movement for big data	2014	460A7036	SIGMOD
+7A5B2BBE	Hypersphere dominance: an optimal approach	2014	460A7036	SIGMOD
+7EC8488D	In search of influential event organizers in online social networks	2014	460A7036	SIGMOD
+76EF7655	Incremental elasticity for array databases	2014	460A7036	SIGMOD
+77131E7B	Indexing for interactive exploration of big data series	2014	460A7036	SIGMOD
+7F1FF601	Influence maximization: near-optimal time complexity meets practical efficiency	2014	460A7036	SIGMOD
+76B221C2	InsightNotes: summary-based annotation management in relational databases	2014	460A7036	SIGMOD
+77C04217	Interactive data exploration using semantic windows	2014	460A7036	SIGMOD
+75406049	JECB: a join-extension, code-based approach to OLTP data partitioning	2014	460A7036	SIGMOD
+77602CC2	Knowing when you're wrong: building fast and reliable approximate query processing systems	2014	460A7036	SIGMOD
+7D3C6013	Knowledge expansion over probabilistic knowledge bases	2014	460A7036	SIGMOD
+75A534B8	LINVIEW: incremental view maintenance for complex analytical queries	2014	460A7036	SIGMOD
+767F9272	Lazy evaluation of transactions in database systems	2014	460A7036	SIGMOD
+764F3B2E	Local search of communities in large graphs	2014	460A7036	SIGMOD
+7669CBD9	Localizing anomalous changes in time-evolving graphs	2014	460A7036	SIGMOD
+79B319B3	MISO: souping up big data query processing with a multistore system	2014	460A7036	SIGMOD
+7ED1B5C1	Matching heterogeneous event data	2014	460A7036	SIGMOD
+7D1DC4BA	Materialization optimizations for feature selection workloads	2014	460A7036	SIGMOD
+78F3B4A9	Mining statistically significant connected subgraphs in vertex labeled graphs	2014	460A7036	SIGMOD
+77FF385B	Modeling entity evolution for temporal record matching	2014	460A7036	SIGMOD
+7D1CBF40	Morsel-driven parallelism: a NUMA-aware query evaluation framework for the many-core age	2014	460A7036	SIGMOD
+77F2D001	NLyze: interactive programming by natural language for spreadsheet data analysis and manipulation	2014	460A7036	SIGMOD
+77EC9358	Natural language question answering over RDF: a graph data driven approach	2014	460A7036	SIGMOD
+7AE9C4BE	Navigating the maze of graph analytics frameworks using massive graph datasets	2014	460A7036	SIGMOD
+76E7306A	OASSIS: query driven crowd mining	2014	460A7036	SIGMOD
+7CA06033	OPT: a new framework for overlapped and parallel triangulation in large-scale graphs	2014	460A7036	SIGMOD
+77C81AA4	On complexity and optimization of expensive queries in complex event processing	2014	460A7036	SIGMOD
+775D3848	On-the-fly token similarity joins in relational databases	2014	460A7036	SIGMOD
+7C1256C2	Online optimization and fair costing for dynamic data sharing in a cloud data market	2014	460A7036	SIGMOD
+7CC6CAA4	Opportunistic physical design for big data analytics	2014	460A7036	SIGMOD
+79229E86	Overlap interval partition join	2014	460A7036	SIGMOD
+7BCCFDCE	PLANET: making progress with commit processing in unpredictable environments	2014	460A7036	SIGMOD
+80D8D05B	Parallel data analysis directly on scientific file formats	2014	460A7036	SIGMOD
+7A3CE3D5	Parallel in-situ data processing with speculative loading	2014	460A7036	SIGMOD
+75E6E55C	Parallel subgraph listing in a large-scale graph	2014	460A7036	SIGMOD
+77966912	Partial results in database systems	2014	460A7036	SIGMOD
+7D5A8D18	Patience is a virtue: revisiting merge and sort on modern processors	2014	460A7036	SIGMOD
+76C40ED8	Plan bouquets: query processing without selectivity estimation	2014	460A7036	SIGMOD
+7CFAAE5F	PriView: practical differentially private release of marginal contingency tables	2014	460A7036	SIGMOD
+810DAE31	PrivBayes: private data release via bayesian networks	2014	460A7036	SIGMOD
+78E9EBD7	Query shredding: efficient relational evaluation of queries over nested multisets	2014	460A7036	SIGMOD
+7EC62DE1	Querying big graphs within bounded resources	2014	460A7036	SIGMOD
+7EB69562	Querying k-truss community in large and dynamic graphs	2014	460A7036	SIGMOD
+77F34426	Querying virtual hierarchies using virtual prefix-based numbers	2014	460A7036	SIGMOD
+790834C6	Re-evaluating designs for multi-tenant OLTP workloads on SSD-basedI/O subsystems	2014	460A7036	SIGMOD
+767689D8	Reachability queries on large dynamic graphs: a total order approach	2014	460A7036	SIGMOD
+7C5C22FF	Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation	2014	460A7036	SIGMOD
+76C545D5	Resource-oriented approximation for frequent itemset mining from bursty data streams	2014	460A7036	SIGMOD
+78C7447A	Robust set reconciliation	2014	460A7036	SIGMOD
+76EE76E2	Scalable atomic visibility with RAMP transactions	2014	460A7036	SIGMOD
+76CE1C9E	Scalable big graph processing in MapReduce	2014	460A7036	SIGMOD
+78819548	Scalable similarity search for SimRank	2014	460A7036	SIGMOD
+7BA915CC	Schema-free SQL	2014	460A7036	SIGMOD
+7833320D	Secure query processing with data interoperability in a cloud database environment	2014	460A7036	SIGMOD
+76EFE64C	Similarity joins for uncertain strings	2014	460A7036	SIGMOD
+77E85D62	Sinew: a SQL system for multi-structured data	2014	460A7036	SIGMOD
+7B550E96	Sloth: being lazy is a virtue (when issuing database queries)	2014	460A7036	SIGMOD
+7B44C4F1	Stratified-sampling over social networks using mapreduce	2014	460A7036	SIGMOD
+79E7B860	The PH-tree: a space-efficient storage structure and multi-dimensional index	2014	460A7036	SIGMOD
+7DC998DB	The analytical bootstrap: a new method for fast error estimation in approximate query processing	2014	460A7036	SIGMOD
+7F5A35C0	The pursuit of a good possible world: extracting representative instances of uncertain graphs	2014	460A7036	SIGMOD
+7BDDC942	Towards dependable data repairing with fixing rules	2014	460A7036	SIGMOD
+77AAF7E4	Towards indexing functions: answering scalar product queries	2014	460A7036	SIGMOD
+803133A7	Towards unified ad-hoc data processing	2014	460A7036	SIGMOD
+76CE396E	Track join: distributed joins with minimal network traffic	2014	460A7036	SIGMOD
+7915C2C7	Tracking set correlations at large scale	2014	460A7036	SIGMOD
+7C0F6AB7	TriAD: a distributed shared-nothing RDF engine based on asynchronous message passing	2014	460A7036	SIGMOD
+7A6F0881	Tripartite graph clustering for dynamic sentiment analysis on social media	2014	460A7036	SIGMOD
+78B2C068	Which concepts are worth extracting?	2014	460A7036	SIGMOD
+76AFAA1E	A Padded Encoding Scheme to Accelerate Scans by Leveraging Skew	2015	460A7036	SIGMOD
+7B66B3E1	ALEX: Automatic Link Exploration in Linked Data	2015	460A7036	SIGMOD
+7992A058	An Incremental Anytime Algorithm for Multi-Objective Query Optimization	2015	460A7036	SIGMOD
+756D113D	Authenticated Online Data Integration Services	2015	460A7036	SIGMOD
+78863C3D	Automatic Enforcement of Data Use Policies with DataLawyer	2015	460A7036	SIGMOD
+8172A6FC	BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs	2015	460A7036	SIGMOD
+7AC9BC63	Bayesian Differential Privacy on Correlated Data	2015	460A7036	SIGMOD
+75D28BDE	BigDansing: A System for Big Data Cleansing	2015	460A7036	SIGMOD
+80F3341B	ByteSlice: Pushing the Envelop of Main Memory Data Processing with a New Storage Layout	2015	460A7036	SIGMOD
+8132EC41	COMMIT: A Scalable Approach to Mining Communication Motifs from Dynamic Networks	2015	460A7036	SIGMOD
+7B354A29	Cache-Efficient Aggregation: Hashing Is Sorting	2015	460A7036	SIGMOD
+7890D907	Chiaroscuro: Transparency and Privacy for Massive Personal Time-Series Clustering	2015	460A7036	SIGMOD
+7B1FA7B1	CliffGuard: A Principled Framework for Finding Robust Database Designs	2015	460A7036	SIGMOD
+808190E5	Collaborative Access Control in WebdamLog	2015	460A7036	SIGMOD
+7581ABA2	Community Level Diffusion Extraction	2015	460A7036	SIGMOD
+77C7D340	Cost-based Fault-tolerance for Parallel Data Processing	2015	460A7036	SIGMOD
+7C0B5866	Crowd-Based Deduplication: An Adaptive Approach	2015	460A7036	SIGMOD
+7CBD94C0	DBSCAN Revisited: Mis-Claim, Un-Fixability, and Approximation	2015	460A7036	SIGMOD
+7741EE50	Data X-Ray: A Diagnostic Tool for Data Errors	2015	460A7036	SIGMOD
+767A7CE1	Distributed Online Tracking	2015	460A7036	SIGMOD
+79BE7D6A	Distributed Outlier Detection using Compressive Sensing	2015	460A7036	SIGMOD
+792C1184	Diverse and Proportional Size-l Object Summaries for Keyword Search	2015	460A7036	SIGMOD
+76E8B669	Diversity-Aware Top-k Publish/Subscribe for Text Stream	2015	460A7036	SIGMOD
+78AF7C34	Divide & Conquer: I/O Efficient Depth-First Search	2015	460A7036	SIGMOD
+76FC66D6	ENKI: Access Control for Encrypted Query Processing	2015	460A7036	SIGMOD
+7954C858	Efficient Algorithms for Answering the m-Closest Keywords Query	2015	460A7036	SIGMOD
+75B73106	Efficient Enumeration of Maximal k-Plexes	2015	460A7036	SIGMOD
+79704EE5	Efficient Route Planning on Public Transportation Networks: A Labelling Approach	2015	460A7036	SIGMOD
+76AB714B	Efficient Similarity Join and Search on Multi-Attribute Data	2015	460A7036	SIGMOD
+7AE9F6FD	Exact Top-k Nearest Keyword Search in Large Networks	2015	460A7036	SIGMOD
+7532DB88	Exploiting Correlations for Expensive Predicate Evaluation	2015	460A7036	SIGMOD
+756A29EE	Exploiting Matrix Dependency for Efficient Distributed Matrix Computation	2015	460A7036	SIGMOD
+773ADA07	FOEDUS: OLTP Engine for a Thousand Cores and NVRAM	2015	460A7036	SIGMOD
+7868BB92	Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems	2015	460A7036	SIGMOD
+7A5E1A9E	Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity	2015	460A7036	SIGMOD
+7AEC76C5	From Group Recommendations to Group Formation	2015	460A7036	SIGMOD
+75A74E40	From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System	2015	460A7036	SIGMOD
+7777AB8A	GetReal: Towards Realistic Selection of Influence Maximization Strategies in Competitive Networks	2015	460A7036	SIGMOD
+7B457230	Graph-Aware, Workload-Adaptive SPARQL Query Caching	2015	460A7036	SIGMOD
+78482078	Holistic Indexing in Main-memory Column-stores	2015	460A7036	SIGMOD
+7866506E	How to Build Templates for RDF Question/Answering: An Uncertain Graph Similarity Join Approach	2015	460A7036	SIGMOD
+78514740	Identifying the Extent of Completeness of Query Answers over Partially Complete Databases	2015	460A7036	SIGMOD
+75717F5A	Implicit Parallelism through Deep Language Embedding	2015	460A7036	SIGMOD
+7606E041	Index-based Optimal Algorithms for Computing Steiner Components with Maximum Connectivity	2015	460A7036	SIGMOD
+7F617232	Indexing Metric Uncertain Data for Range Queries	2015	460A7036	SIGMOD
+794E27BC	Influence Maximization in Near-Linear Time: A Martingale Approach	2015	460A7036	SIGMOD
+76C2D2AE	KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing	2015	460A7036	SIGMOD
+7AA62B5B	LASH: Large-Scale Sequence Mining with Hierarchies	2015	460A7036	SIGMOD
+75D75723	LEMP: Fast Retrieval of Large Entries in a Matrix Product	2015	460A7036	SIGMOD
+7929B0FA	Learning Generalized Linear Models Over Normalized Data	2015	460A7036	SIGMOD
+7CE94E35	Left Bit Right : For SPARQL Join Queries with OPTIONAL Patterns (Left-outer-joins)	2015	460A7036	SIGMOD
+768B7A2F	Let's Talk About Storage & Recovery Methods for Non-Volatile Memory Database Systems	2015	460A7036	SIGMOD
+789F7C75	Lineage-driven Fault Injection	2015	460A7036	SIGMOD
+79BD6149	Linking Temporal Records for Profiling Entities	2015	460A7036	SIGMOD
+77344EF4	Local Filtering: Improving the Performance of Approximate Queries on String Collections	2015	460A7036	SIGMOD
+75889454	Locality-aware Partitioning in Parallel Database Systems	2015	460A7036	SIGMOD
+75E70387	Location-Aware Pub/Sub System: When Continuous Moving Queries Meet Dynamic Event Streams	2015	460A7036	SIGMOD
+7CCA6B8D	Madeus: Database Live Migration Middleware under Heavy Workloads for Cloud Environment	2015	460A7036	SIGMOD
+7A78ED4A	Microblog Entity Linking with Social Temporal Context	2015	460A7036	SIGMOD
+76269FD3	Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores	2015	460A7036	SIGMOD
+7BA2EFA8	Minimizing Efforts in Validating Crowd Answers	2015	460A7036	SIGMOD
+7A84B859	Minimum Spanning Trees in Temporal Graphs	2015	460A7036	SIGMOD
+8032D69E	Mining Quality Phrases from Massive Text Corpora	2015	460A7036	SIGMOD
+773D7FFA	Mining Subjective Properties on the Web	2015	460A7036	SIGMOD
+7550035F	Modular Order-Preserving Encryption, Revisited	2015	460A7036	SIGMOD
+76D72F71	On the Design and Scalability of Distributed Shared-Data Databases	2015	460A7036	SIGMOD
+77D8DE90	Online Video Recommendation in Sharing Community	2015	460A7036	SIGMOD
+76E918B7	Optimal Spatial Dominance: An Effective Search of Nearest Neighbor Candidates	2015	460A7036	SIGMOD
+75C489E8	Optimizing Optimistic Concurrency Control for Tree-Structured, Log-Structured Databases	2015	460A7036	SIGMOD
+7694C8F0	Output-sensitive Evaluation of Prioritized Skyline Queries	2015	460A7036	SIGMOD
+75863D85	Persistent Data Sketching	2015	460A7036	SIGMOD
+7EB345B4	Private Release of Graph Statistics using Ladder Functions	2015	460A7036	SIGMOD
+79336372	Proactive Annotation Management in Relational Databases	2015	460A7036	SIGMOD
+7B9083E3	QASCA: A Quality-Aware Task Assignment System for Crowdsourcing Applications	2015	460A7036	SIGMOD
+7A65FB7D	Query-Oriented Data Cleaning with Oracles	2015	460A7036	SIGMOD
+77CD4D80	RBench: Application-Specific RDF Benchmarking	2015	460A7036	SIGMOD
+78576C1C	Rack-Scale In-Memory Join Processing using RDMA	2015	460A7036	SIGMOD
+752DC198	Real-Time Multi-Criteria Social Graph Partitioning: A Game Theoretic Approach	2015	460A7036	SIGMOD
+75FDCE08	Resource Elasticity for Large-Scale Machine Learning	2015	460A7036	SIGMOD
+7C64C17A	Rethinking SIMD Vectorization for In-Memory Databases	2015	460A7036	SIGMOD
+77A55732	S4: Top-k Spreadsheet-Style Search for Query Discovery	2015	460A7036	SIGMOD
+7F02C350	SCREEN: Stream Data Cleaning under Speed Constraints	2015	460A7036	SIGMOD
+79DB2DB3	SEMROD: Secure and Efficient MapReduce Over HybriD Clouds	2015	460A7036	SIGMOD
+779203DA	SMiLer: A Semi-Lazy Time Series Prediction System for Sensors	2015	460A7036	SIGMOD
+79351B10	SQLGraph: An Efficient Relational-Based Property Graph Store	2015	460A7036	SIGMOD
+77BD336E	Scalable Distributed Stream Join Processing	2015	460A7036	SIGMOD
+7BB8DBD4	Self-Tuning, GPU-Accelerated Kernel Density Models for Multidimensional Selectivity Estimation	2015	460A7036	SIGMOD
+77DF6723	Skew-Aware Join Optimization for Array Databases	2015	460A7036	SIGMOD
+7605E139	Squall: Fine-Grained Live Reconfiguration for Partitioned Main Memory Databases	2015	460A7036	SIGMOD
+77E194E3	Supporting Data Uncertainty in Array Databases	2015	460A7036	SIGMOD
+7591E344	TEGRA: Table Extraction by Global Record Alignment	2015	460A7036	SIGMOD
+79AFDC5C	THERMAL-JOIN: A Scalable Spatial Join for Dynamic Workloads	2015	460A7036	SIGMOD
+761F909C	The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis	2015	460A7036	SIGMOD
+7A769D12	The Importance of Being Expert: Efficient Max-Finding in Crowdsourcing	2015	460A7036	SIGMOD
+7BE32609	The Minimum Wiener Connector Problem	2015	460A7036	SIGMOD
+75D04793	The TagAdvisor: Luring the Lurkers to Review Web Items	2015	460A7036	SIGMOD
+7734538D	Twister Tries: Approximate Hierarchical Agglomerative Clustering for Average Distance in Linear Time	2015	460A7036	SIGMOD
+76FEAA68	Updating Graph Indices with a One-Pass Algorithm	2015	460A7036	SIGMOD
+760441A2	Utility-Aware Social Event-Participant Planning	2015	460A7036	SIGMOD
+789824D7	Utilizing IDs to Accelerate Incremental View Maintenance	2015	460A7036	SIGMOD
+7BF52C0F	Weighted Coverage based Reviewer Assignment	2015	460A7036	SIGMOD
+77F6E21C	iCrowd: An Adaptive Crowdsourcing Framework	2015	460A7036	SIGMOD
+77635099	k-Hit Query: Top-k Query with Probabilistic Utility Function	2015	460A7036	SIGMOD
+797258F4	k-Shape: Efficient and Accurate Clustering of Time Series	2015	460A7036	SIGMOD
+7BF88A95	sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms	2015	460A7036	SIGMOD
+7753BFBB	tDP: An Optimal-Latency Budget Allocation Strategy for Crowdsourced MAXIMUM Operations	2015	460A7036	SIGMOD

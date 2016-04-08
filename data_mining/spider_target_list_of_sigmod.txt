@@ -1,0 +1,79 @@
+Data Mining and Audience Intelligence for Advertising
+Bioinformatics
+Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
+Cross Domain Knowledge Discover in Web and Social Network Mining
+COMPUTE
+CyberSecurity and Intelligence Informatics
+Context Discovery and Data Mining
+Data Mining & Knowledge Discovery with Crowdsourcing
+Databases and Social Networks
+Testing Database Systems
+Distributed Event-Based Systems
+Digital Health
+Digital Libraries
+Data Mining and Intelligent Knowledge Management
+Research Issues in Data Mining and Knowledge Discovery
+Data Mining for Medicine and Healthcare
+Data Mining using Matrices and Tensors
+Data-Intensive Software Management and Mining
+Data Management on New Hardware
+Data analytics in the Cloud
+Dynamic Networks Management and Mining
+Euro American Conference on Telematics and Information Systems
+Exploiting Semantic Annotations in Information Retrieval
+Databases and the Web
+Foundations of Digital Games
+Graph Data management Experiences and Systems
+Managing and Mining Enriched Geo-Spatial Data
+Hypertext and hypermedia
+Hot Topics on Interdisciplinary Social Networks Research
+International Conference on Ubiquitous Information Management and Communication
+Innovative Database Research
+Interactive Data Exploration and Analytics
+International Workshop on Information Integration on the Web
+Intelligent Narrative Technologies
+Information Quality in Information Systems
+ACM SIGKDD Workshop on Intelligence and Security Informatics
+Knowledge Discovery and Data Mining
+KDD Cup Workshop
+ACM SIGKDD International Conference Tutorials
+Data Mining for Service and Maintenance
+Knowledge Discovery, Modeling and Simulation
+Keyword Search on Structured Data
+Large-scale Data Mining: Theory and Applications
+Mobile Data Management
+Multimedia Data Mining
+Middleware Doctoral Symposium
+Mining and Learning with Graphs
+Multimedia
+Mobile Computing
+Data Engineering for Wireless and Mobile Access
+Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering
+Large-Scale Recommender Systems and the Netflix Prize Competition
+Outlier Detection and Description
+Procedural Content Generation in Games
+Predictive Markup Language Modeling
+Principles of Database Systems
+PhD Symposium
+Data Description, Access and Control
+Management of Data
+Social Network Mining and Analysis
+Social Media Analytics
+Scalable Workflow Enactment Engines and Technologies
+Semantic Web Information Management
+Knowledge Discovery from Sensor Data
+Cloud Computing
+Software Mining
+Statistical and Relational Learning in Bioinformatics
+Novel Data Stream Pattern Mining Techniques
+Knowledge Discovery from Uncertain Data
+Useful Patterns
+Urban Computing
+Visual Analytics and Knowledge Discovery
+Very Large Data Bases
+Workshop on Issues of Sentiment Discovery and Opinion Mining
+Web Search and Data Mining
+Web and Databases
+Workflow Approaches to New Data-centric Science
+Web Mining and Social Network Analysis
+

@@ -1,0 +1,282 @@
+78EBDD53	"Seeing" ENF: natural time stamp for digital video via optical sensing and signal processing	2011	43AA5802	MM
+7708501F	3D cinematography principles and their applications to stereoscopic media processing	2011	43AA5802	MM
+756236EF	Active query sensing for mobile location search	2011	43AA5802	MM
+771A2567	Affect-based adaptive presentation of home videos	2011	43AA5802	MM
+7D86D827	An empirical evaluation of battery power consumption for streaming data transmission to mobile devices	2011	43AA5802	MM
+77C850A6	Audio-visual grouplet: temporal audio-visual interactions for general video concept classification	2011	43AA5802	MM
+75869B44	Automatic tag generation and ranking for sensor-rich outdoor videos	2011	43AA5802	MM
+7889440B	Bilinear deep learning for image classification	2011	43AA5802	MM
+77AFAB99	BlueStreaming: towards power-efficient internet P2P streaming to mobile devices	2011	43AA5802	MM
+7DB54F6D	Can computers learn from humans to see better?: inferring scene semantics from viewers' eye movements	2011	43AA5802	MM
+7B66A99B	Celerity: a low-delay multi-party conferencing solution	2011	43AA5802	MM
+78B20A19	Cloud download: using cloud utilities to achieve high-quality content distribution for unpopular videos	2011	43AA5802	MM
+760DCA5E	Coached active learning for interactive video search	2011	43AA5802	MM
+77D43F54	Color-plus-depth level-of-detail in 3D tele-immersive video: a psychophysical approach	2011	43AA5802	MM
+75C66B50	Colorizing tags in tag cloud: a novel query-by-tag music search system	2011	43AA5802	MM
+7BB6933E	Combining content-based analysis and crowdsourcing to improve user interaction with zoomable video	2011	43AA5802	MM
+7B07BFF1	Contextual image search	2011	43AA5802	MM
+7D5EFB9B	Contextual synonym dictionary for visual object retrieval	2011	43AA5802	MM
+7CAA3D88	Creating personalized memories from social events: community-based support for multi-camera recordings of school concerts	2011	43AA5802	MM
+7A29D7FB	Cross media hyperlinking for search topic browsing	2011	43AA5802	MM
+76B2A592	Example-based video remixing support system	2011	43AA5802	MM
+789659BC	Exploiting the entire feature space with sparsity for automatic image annotation	2011	43AA5802	MM
+81392304	Flicker effects in adaptive video streaming to handheld devices	2011	43AA5802	MM
+75BD0E8C	Generating story variants with constrained video recombination	2011	43AA5802	MM
+764CB4E7	Implementation of the discrete wavelet transform and multiresolution analysis in the encrypted domain	2011	43AA5802	MM
+765642BA	Implicit experiences as a determinant of perceptual quality and aesthetic appreciation	2011	43AA5802	MM
+79DC90C8	JIGSAW: interactive mobile visual search with multimodal queries	2011	43AA5802	MM
+7728848F	Learning concept bundles for video search with complex queries	2011	43AA5802	MM
+7A514F05	Learning heterogeneous data for hierarchical web video classification	2011	43AA5802	MM
+782807DA	Learning to judge image search results	2011	43AA5802	MM
+75B9F45D	MUSIZ: a generic framework for music resizing with stretching and cropping	2011	43AA5802	MM
+7CE27CCD	Modeling 3D articulated motions with conformal geometry videos (CGVs)	2011	43AA5802	MM
+7853AE24	Modeling social strength in social media community via kernel-based learning	2011	43AA5802	MM
+75402373	Motor learning using a kinematic-vibrotactile mapping targeting fundamental movements	2011	43AA5802	MM
+7BC3546C	Multi-modal constraint propagation for heterogeneous image clustering	2011	43AA5802	MM
+7B3F9E1E	Multiple feature hashing for real-time large scale near-duplicate video retrieval	2011	43AA5802	MM
+77533D28	News contextualization with geographic and visual information	2011	43AA5802	MM
+782DE62E	Peer-assisted texture streaming in metaverses	2011	43AA5802	MM
+7E2C10BC	Personalized travel recommendation by mining people attributes from community-contributed photos	2011	43AA5802	MM
+7E1015EF	Personalizing automated image annotation using cross-entropy	2011	43AA5802	MM
+752B2EAA	Prediction of the inter-observer visual congruency (IOVC) and application to image ranking	2011	43AA5802	MM
+7F7F1FE8	Random partial paired comparison for subjective video quality assessment via hodgerank	2011	43AA5802	MM
+7632F454	Reading between the tags to predict real-world size-class for visually depicted objects in images	2011	43AA5802	MM
+7ADC0592	Reliving on demand: a total viewer experience	2011	43AA5802	MM
+7E502AFF	Retrieval-based face annotation by weak label regularized local coordinate coding	2011	43AA5802	MM
+77681686	Robust visual reranking via sparsity and ranking constraints	2011	43AA5802	MM
+75B01795	Saving bitrate vs. pleasing users: where is the break-even point in mobile video quality?	2011	43AA5802	MM
+78BB301D	Searching the past: an improved shape descriptor to retrieve maya hieroglyphs	2011	43AA5802	MM
+7CF025B5	Shedding light on shadow: real-time interactive artworks based on cast shadows or silhouettes	2011	43AA5802	MM
+7D95E12C	Tennis real play: an interactive tennis game with models from real videos	2011	43AA5802	MM
+7BDECEAF	The director's lens: an intelligent assistant for virtual cinematography	2011	43AA5802	MM
+7E337E49	The role of attractiveness in web image search	2011	43AA5802	MM
+7833DF15	Towards low bit rate mobile visual search with multiple-channel coding	2011	43AA5802	MM
+76E638F2	Towards multi-semantic image annotation with graph regularized exclusive group lasso	2011	43AA5802	MM
+7904659C	Towards peer-assisted rendering in networked virtual environments	2011	43AA5802	MM
+75552779	Using graphics rendering contexts to enhance the real-time video coding for mobile cloud gaming	2011	43AA5802	MM
+80E35219	Visual memes in social media: tracking real-world news in YouTube videos	2011	43AA5802	MM
+7617A6E6	Why did the prime minister resign?: generation of event explanations from large news repositories	2011	43AA5802	MM
+7BA3840B	A bag-of-objects retrieval model for web image search	2012	43AA5802	MM
+78FF60AF	A multimedia analytics framework for browsing image collections in digital forensics	2012	43AA5802	MM
+7BC03C29	A smile can reveal your age: enabling facial dynamics in age estimation	2012	43AA5802	MM
+7F4A831E	Accelerating SURF detector on mobile devices	2012	43AA5802	MM
+7BB71F92	Action recognition for human-marionette interaction	2012	43AA5802	MM
+7E05ED19	An interactive system of stereoscopic video conversion	2012	43AA5802	MM
+80EA48C7	Annotating web images using NOVA: NOn-conVex group spArsity	2012	43AA5802	MM
+7961E896	Constraint-optimized keypoint inhibition/insertion attack: security threat to scale-space image feature extraction	2012	43AA5802	MM
+7A24C3A0	Context-aware mobile music recommendation for daily activities	2012	43AA5802	MM
+7B92B73A	Control of distributed servers for quality-fair delivery of multiple video streams	2012	43AA5802	MM
+7FE13D4F	Controlling urban lighting by human motion patterns results from a full scale experiment	2012	43AA5802	MM
+753ED907	Correlated attribute transfer with multi-task graph-guided fusion	2012	43AA5802	MM
+81783234	Dinner of Luciérnaga: an interactive play with iPhone app in theater	2012	43AA5802	MM
+782718BD	Discovering areas of interest with geo-tagged images and check-ins	2012	43AA5802	MM
+7EBE4BF8	Discovering informative social subgraphs and predicting pairwise relationships from group photos	2012	43AA5802	MM
+78C2087D	Don't ask me what i'm like, just watch and listen	2012	43AA5802	MM
+759E7F80	Efficient image annotation for automatic sentence generation	2012	43AA5802	MM
+7938869A	El-pincel: a painter cloud service for greener web pages	2012	43AA5802	MM
+7C40CAA1	Embedding spatial context information into inverted filefor large-scale image retrieval	2012	43AA5802	MM
+7AFE0B5B	Enabling 'togetherness' in high-quality domestic video	2012	43AA5802	MM
+7C5E70FD	Exploiting visual word co-occurrence for image retrieval	2012	43AA5802	MM
+7BB99697	Exploratory search of long surveillance videos	2012	43AA5802	MM
+76234CA9	Finding perfect rendezvous on the go: accurate mobile visual localization and its applications to routing	2012	43AA5802	MM
+7D52D360	GreenTube: power optimization for mobile videostreaming via dynamic cache management	2012	43AA5802	MM
+7666E845	Harvesting visual concepts for image search with complex queries	2012	43AA5802	MM
+7F55F843	Hi, magic closet, tell me what to wear!	2012	43AA5802	MM
+791E194C	Hybrid social media network	2012	43AA5802	MM
+75E6F7E7	IMShare: instantly sharing your mobile landmark images by search-based reconstruction	2012	43AA5802	MM
+7C5B99B3	Image annotation by semantic sparse recoding of visual content	2012	43AA5802	MM
+76664E99	Image colorization using similar images	2012	43AA5802	MM
+76731107	In the eye of the beholder: employing statistical analysis and eye tracking for analyzing abstract paintings	2012	43AA5802	MM
+7DB68443	Interactive data-driven discovery of temporal behavior models from events in media streams	2012	43AA5802	MM
+7612ABDA	Jetway: minimizing costs on inter-datacenter video traffic	2012	43AA5802	MM
+7D17A7F1	Joint statistical analysis of images and keywords with applications in semantic image enhancement	2012	43AA5802	MM
+7B926027	Knowledge adaptation for ad hoc multimedia event detection with few exemplars	2012	43AA5802	MM
+75F8E6E6	Leveraging high-level and low-level features for multimedia event detection	2012	43AA5802	MM
+7B39DE67	Leveraging social network concepts for efficient peer-to-peer live streaming systems	2012	43AA5802	MM
+75F977D5	Low bitrate source-filter model based compression of vibrotactile texture signals in haptic teleoperation	2012	43AA5802	MM
+7F61452A	MOGAT: mobile games with auditory training for children with cochlear implants	2012	43AA5802	MM
+7955C72E	Mining in-class social networks for large-scale pedagogical analysis	2012	43AA5802	MM
+7B5C8C41	MoViMash: online mobile video mashup	2012	43AA5802	MM
+7B72F359	Modeling the qoe of rate changes in SKYPE/SILK VoIP calls	2012	43AA5802	MM
+80C21D2A	Multi-view learning from imperfect tagging	2012	43AA5802	MM
+8059A359	MusicScore: mobile music composition for practice and fun	2012	43AA5802	MM
+7C54EB48	On shape and the computability of emotions	2012	43AA5802	MM
+80313307	Online crowdsourcing subjective image quality assessment	2012	43AA5802	MM
+790A37B4	PaperVideo: interacting with videos on multiple paper-like displays	2012	43AA5802	MM
+7E48DBDF	Propagation-based social-aware replication for social video contents	2012	43AA5802	MM
+77E44148	Query-adaptive shape topic mining for hand-drawn sketch recognition	2012	43AA5802	MM
+7E72DBBB	Query-driven iterated neighborhood graph search for large scale indexing	2012	43AA5802	MM
+80411E59	Right buddy makes the difference: an early exploration of social relation analysis in multimedia applications	2012	43AA5802	MM
+751AE69D	Scalable mining of small visual objects	2012	43AA5802	MM
+7B4448EA	Scalar quantization for large scale image search	2012	43AA5802	MM
+7B09C798	Semi-automated magazine layout using content-based image features	2012	43AA5802	MM
+75AEC423	Sense beauty via face, dressing, and/or voice	2012	43AA5802	MM
+8039C152	Snap-and-ask: answering multimodal question by naming visual instance	2012	43AA5802	MM
+7946F2BE	SocialTransfer: cross-domain transfer learning from social streams for media applications	2012	43AA5802	MM
+79F3262A	Spatial pooling of heterogeneous features for image applications	2012	43AA5802	MM
+7FD2F204	Submodular video hashing: a unified framework towards video pooling and indexing	2012	43AA5802	MM
+79EB31CE	SymCity: feature selection by symmetry for large scale image retrieval	2012	43AA5802	MM
+804C6AAE	The acoustic emotion gaussians model for emotion-based music annotation and retrieval	2012	43AA5802	MM
+7E530BEA	Understanding screen contents for building a high performance, real time screen sharing system	2012	43AA5802	MM
+7B9F9A3E	Unsupervised face-name association via commute distance	2012	43AA5802	MM
+7BD18DD5	Vibrotactile feedback of motor performance errors for enhancing motor learning	2012	43AA5802	MM
+769372B5	Visual knowledge transfer among multiple cameras for people counting with occlusion handling	2012	43AA5802	MM
+78990199	When video search goes wrong: predicting query failure using search engine logs and visual search results	2012	43AA5802	MM
+7B21EC60	"Wow! you are so beautiful today!"	2013	43AA5802	MM
+783F9C89	An efficient image homomorphic encryption scheme with small ciphertext expansion	2013	43AA5802	MM
+76BC8702	Analysis and forecasting of trending topics in online media streams	2013	43AA5802	MM
+8025D0AB	Annotation for free: video tagging by mining user search behavior	2013	43AA5802	MM
+78E52C8E	Attribute-augmented semantic hierarchy: towards bridging semantic gap and intention gap in image retrieval	2013	43AA5802	MM
+7C531C38	Automatic generation of social media snippets for mobile browsing	2013	43AA5802	MM
+7B0426C3	Building holistic descriptors for scene recognition: a multi-objective genetic programming approach	2013	43AA5802	MM
+7C5A2033	Competitive affective gaming: winning with a smile	2013	43AA5802	MM
+7F1C27F8	Cross-media semantic representation via bi-directional learning to rank	2013	43AA5802	MM
+7D8CE850	Early event-driven (EED) RTCP feedback for rapid IDMS	2013	43AA5802	MM
+77295728	Enabling low bitrate mobile visual recognition: a performance versus bandwidth evaluation	2013	43AA5802	MM
+77BF7D9B	Exploring discriminative pose sub-patterns for effective action classification	2013	43AA5802	MM
+7C771505	Facilitating fashion camouflage art	2013	43AA5802	MM
+76DBC9D5	FlashStream: a multi-tiered storage architecture for adaptive HTTP streaming	2013	43AA5802	MM
+7F7538A2	GIANT: geo-informative attributes for location recognition and exploration	2013	43AA5802	MM
+77F390CE	Human activities recognition using depth images	2013	43AA5802	MM
+797B6F94	Human vs machine: establishing a human baseline for multimodal location estimation	2013	43AA5802	MM
+797A3B7F	Hybrid robotic/virtual pan-tilt-zom cameras for autonomous event recording	2013	43AA5802	MM
+79AB6ECE	Joserlin: joint request and service scheduling for peer-to-peer non-linear media access	2013	43AA5802	MM
+7BA593A5	Large-scale multimedia content analysis using scientific workflows	2013	43AA5802	MM
+7B7C1823	Learning latent spatio-temporal compositional model for human action recognition	2013	43AA5802	MM
+7A158FC7	Learning with limited and noisy tagging	2013	43AA5802	MM
+80B56DBC	Linear cross-modal hashing for efficient multimedia search	2013	43AA5802	MM
+7A2EDFA4	Listen, look, and gotcha: instant video search with mobile phones by layered audio-video indexing	2013	43AA5802	MM
+78E3C2F8	Non-reference audio quality assessment for online live music recordings	2013	43AA5802	MM
+7831E9D1	One-man-band: a touch screen interface for producing live multi-camera sports broadcasts	2013	43AA5802	MM
+813E1045	Online human gesture recognition from motion data streams	2013	43AA5802	MM
+7CE7DA80	Online multimodal deep similarity learning with application to image retrieval	2013	43AA5802	MM
+79AA4E83	Orchestration: tv-like mixing grammars applied to video-communication for social groups	2013	43AA5802	MM
+7C8D4437	Order preserving hashing for approximate nearest neighbor search	2013	43AA5802	MM
+7C17F577	Parallel field alignment for cross media retrieval	2013	43AA5802	MM
+7B5F210B	Physical modelling and supervised training of a virtual string quartet	2013	43AA5802	MM
+7C11FD31	Picture tags and world knowledge: learning tag relations from visual semantic sources	2013	43AA5802	MM
+765C1E9D	Robust evaluation for quality of experience in crowdsourcing	2013	43AA5802	MM
+787491D5	Scale based region growing for scene text detection	2013	43AA5802	MM
+7860C4FA	Size does matter: how image size affects aesthetic perception?	2013	43AA5802	MM
+7CA24386	Static saliency vs. dynamic saliency: a comparative study	2013	43AA5802	MM
+7B27B438	Tele echo tube: beyond cultural and imaginable boundaries	2013	43AA5802	MM
+7B2F9D98	Temporal encoded F-formation system for social interaction detection	2013	43AA5802	MM
+772351C4	Topology preserving hashing for similarity search	2013	43AA5802	MM
+7C89E22A	Towards efficient sparse coding for scalable image annotation	2013	43AA5802	MM
+793D89FE	Tracking-based interaction for object creation in mobile augmented reality	2013	43AA5802	MM
+7589CD55	Using quadratic programming to estimate feature relevance in structural analyses of music	2013	43AA5802	MM
+79BECFF3	Visual interestingness in image sequences	2013	43AA5802	MM
+76660667	We are not equally negative: fine-grained labeling for multimedia event detection	2013	43AA5802	MM
+7DD6CB54	Why not, WINE?: towards answering why-not questions in social image search	2013	43AA5802	MM
+7599553E	eHeritage of shadow puppetry: creation and manipulation	2013	43AA5802	MM
+7945EB91	"Sheldon speaking, Bonjour!": Leveraging Multilingual Tracks for (Weakly) Supervised Speaker Identification	2014	43AA5802	MM
+765EA002	3D Human Activity Recognition with Reconfigurable Convolutional Neural Networks	2014	43AA5802	MM
+7AA47BE5	3D Interest Maps From Simultaneous Video Recordings	2014	43AA5802	MM
+7E2B77AA	ADVISOR: Personalized Video Soundtrack Recommendation by Late Fusion with Heuristic Rankings	2014	43AA5802	MM
+789661E4	Acceptability-based QoE Management for User-centric Mobile Video Delivery: A Field Study Evaluation	2014	43AA5802	MM
+78F84CCE	An Event Driven Fusion Approach for Enjoyment Recognition in Real-time	2014	43AA5802	MM
+7CE80C52	An Objective Quality of Experience (QoE) Assessment Index for Retargeted Images	2014	43AA5802	MM
+79BC2EDC	Anahita: A System for 3D Video Streaming with Depth Customization	2014	43AA5802	MM
+76FAEEF2	Analysis/synthesis approaches for creatively processing video signals	2014	43AA5802	MM
+775C2252	Correlating Speaker Gestures in Political Debates with Audience Engagement Measured via EEG	2014	43AA5802	MM
+751162B4	Cross-modal Retrieval with Correspondence Autoencoder	2014	43AA5802	MM
+78A94694	Crowdsourcing a Reverberation Descriptor Map	2014	43AA5802	MM
+7CF3235D	Daily Stress Recognition from Mobile Phone Data, Weather Conditions and Individual Traits	2014	43AA5802	MM
+7E8DE81F	Deep Learning for Content-Based Image Retrieval: A Comprehensive Study	2014	43AA5802	MM
+7BEE5AF2	Dynamic Background Learning through Deep Auto-encoder Networks	2014	43AA5802	MM
+76EB623A	Easy Samples First: Self-paced Reranking for Zero-Example Multimedia Search	2014	43AA5802	MM
+80C96DCD	Error-Driven Incremental Learning in Deep Convolutional Neural Network for Large-Scale Image Classification	2014	43AA5802	MM
+7B5CD8E6	Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification	2014	43AA5802	MM
+7BA42ABB	Exploring Principles-of-Art Features For Image Emotion Recognition	2014	43AA5802	MM
+76E5C3ED	Fashion Parsing with Video Context	2014	43AA5802	MM
+7BED01C2	From Writing to Painting: A Kinect-Based Cross-Modal Chinese Painting Generation System	2014	43AA5802	MM
+7731E2B2	Fused one-vs-all mid-level features for fine-grained visual categorization	2014	43AA5802	MM
+7A57F140	Gibber: Abstractions for Creative Multimedia Programming	2014	43AA5802	MM
+756FABA8	Impact of Ultra High Definition on Visual Attention	2014	43AA5802	MM
+7A1C09D0	Improving Content-based and Hybrid Music Recommendation using Deep Learning	2014	43AA5802	MM
+7BEC631C	Interactive Line Drawing Recognition and Vectorization with Commodity Camera	2014	43AA5802	MM
+75FEFBFB	Iterative Multi-View Hashing for Cross Media Indexing	2014	43AA5802	MM
+7ABB7800	Latent Tensor Transfer Learning for RGB-D Action Recognition	2014	43AA5802	MM
+7EE7CC55	LiveRender: A Cloud Gaming System Based on Compressed Graphics Streaming	2014	43AA5802	MM
+79898CE2	Media Experience of Complementary Information and Tweets on a Second Screen	2014	43AA5802	MM
+786895CA	Mining Cross-network Association for YouTube Video Promotion	2014	43AA5802	MM
+7684F07E	Multi-modal Mutual Topic Reinforce Modeling for Cross-media Retrieval	2014	43AA5802	MM
+7B9BCA5B	Multiple Features But Few Labels?: A Symbiotic Solution Exemplified for Video Analysis	2014	43AA5802	MM
+7C2F82AC	Music Emotion Recognition by Multi-label Multi-layer Multi-instance Multi-view Learning	2014	43AA5802	MM
+77763AB5	Object-Based Visual Sentiment Concept Analysis and Application	2014	43AA5802	MM
+76EE861A	One of a Kind: User Profiling by Social Curation	2014	43AA5802	MM
+7B304794	Optimized Distances for Binary Code Ranking	2014	43AA5802	MM
+7634572C	Perception-Guided Multimodal Feature Fusion for Photo Aesthetics Assessment	2014	43AA5802	MM
+784F7219	Quality-adaptive Prefetching for Interactive Branched Video using HTTP-based Adaptive Streaming	2014	43AA5802	MM
+77C94405	RAPID: Rating Pictorial Aesthetics using Deep Learning	2014	43AA5802	MM
+79EAEA13	Rescue Tail Queries: Learning to Image Search Re-rank via Click-wise Multimodal Fusion	2014	43AA5802	MM
+7632749F	Say Cheese vs. Smile: Reducing Speech-Related Variability for Facial Emotion Recognition	2014	43AA5802	MM
+7CDF93FD	Scalable Visual Instance Mining with Threads of Features	2014	43AA5802	MM
+7A65AECF	Self-Organized Inter-Destination Multimedia Synchronization For Adaptive Media Streaming	2014	43AA5802	MM
+78540BBC	Social Embedding Image Distance Learning	2014	43AA5802	MM
+766EF58F	Song Recommendation for Social Singing Community	2014	43AA5802	MM
+80994CB7	Start from Scratch: Towards Automatically Identifying, Modeling, and Naming Visual Attributes	2014	43AA5802	MM
+8022837A	Towards Efficient Privacy-preserving Image Feature Extraction in Cloud Computing	2014	43AA5802	MM
+7E794148	User-level psychological stress detection from social media using deep neural network	2014	43AA5802	MM
+7B1F2F70	Validating an iOS-based Rhythmic Auditory Cueing Evaluation (iRACE) for Parkinson's Disease	2014	43AA5802	MM
+77A82F3C	VideoStory: A New Multimedia Embedding for Few-Example Recognition and Translation of Events	2014	43AA5802	MM
+776FE9B0	We are not All Equal: Personalizing Models for Facial Expression Analysis with Transductive Parameter Transfer	2014	43AA5802	MM
+79E44526	Weakly-Supervised Image Parsing via Constructing Semantic Graphs and Hypergraphs	2014	43AA5802	MM
+786FEBF4	What Videos Are Similar with You?: Learning a Common Attributed Representation for Video Recommendation	2014	43AA5802	MM
+80035FAF	What's Making that Sound?	2014	43AA5802	MM
+760BA0BE	A Distributed Theatre Experiment with Shakespeare	2015	43AA5802	MM
+7B71E10F	A Multimodal Predictive Model of Successful Debaters or How I Learned to Sway Votes	2015	43AA5802	MM
+79859EA3	An Affordable Solution for Binocular Eye Tracking and Calibration in Head-mounted Displays	2015	43AA5802	MM
+75A6FE9B	Analyzing Free-standing Conversational Groups: A Multimodal Approach	2015	43AA5802	MM
+7AFE2C56	Automatic Image Dataset Construction from Click-through Logs Using Deep Neural Network	2015	43AA5802	MM
+75ECDD6C	Bandwidth-aware Prefetching for Proactive Multi-video Preloading and Improved HAS Performance	2015	43AA5802	MM
+75AB23D7	Beyond Doctors: Future Health Prediction from Multimedia and Multimodal Observations	2015	43AA5802	MM
+7AADC645	Biologically Inspired Media Quality Modeling	2015	43AA5802	MM
+79F4BF8E	Coherent Motion Detection with Collective Density Clustering	2015	43AA5802	MM
+796236D4	Collaborative Fashion Recommendation: A Functional Tensor Factorization Approach	2015	43AA5802	MM
+75CF73A0	Cross-Domain Collaborative Learning in Social Multimedia	2015	43AA5802	MM
+7AA79C21	Dancing with Turks	2015	43AA5802	MM
+7A6CBC02	Deep Compositional Cross-modal Learning to Rank via Local-Global Alignment	2015	43AA5802	MM
+7BD49F7D	DeepFont: Identify Your Font from An Image	2015	43AA5802	MM
+77CAD164	Dependency-Aware Unequal Error Protection for Layered Video Coding	2015	43AA5802	MM
+7778CB40	Distributed Optimal Datacenter Bandwidth Allocation for Dynamic Adaptive Video Streaming	2015	43AA5802	MM
+7C4C4DD9	Effective Multi-Query Expansions: Robust Landmark Retrieval	2015	43AA5802	MM
+7A5BD7F4	Efficient Activity Retrieval through Semantic Graph Queries	2015	43AA5802	MM
+76D2A508	Enhancing the Quality of Interactive Multimedia Services by Proactive Monitoring and Failure Prediction	2015	43AA5802	MM
+7954E7ED	EventNet: A Large Scale Structured Concept Library for Complex Event Detection in Video	2015	43AA5802	MM
+75313859	Exploring QoE for Power Efficiency: A Field Study on Mobile Videos with LCD Displays	2015	43AA5802	MM
+7AFF6BF4	Eye of the Dragon: Exploring Discriminatively Minimalist Sketch-based Abstractions for Object Categories	2015	43AA5802	MM
+78E87C41	Fast and Accurate Content-based Semantic Search in 100M Internet Videos	2015	43AA5802	MM
+78B36388	Gradient-based 2D-to-3D Conversion for Soccer Videos	2015	43AA5802	MM
+76D6C02F	HTTP/2-Based Methods to Improve the Live Experience of Adaptive Streaming	2015	43AA5802	MM
+7AFB5387	HiFi: A Hierarchical Filtering Algorithm for Caching of Online Video	2015	43AA5802	MM
+7812E42F	HyperMeeting: Supporting Asynchronous Meetings with Hypervideo	2015	43AA5802	MM
+7CA61AE0	If You Can't Beat Them, Join Them: Learning with Noisy Data	2015	43AA5802	MM
+7568D288	Image Profiling for History Events on the Fly	2015	43AA5802	MM
+79FD4D96	Image2Scene: Transforming Style of 3D Room	2015	43AA5802	MM
+78630298	Interactive Scene Flow Editing for Improved Image-based Rendering and Virtual Spacetime Navigation	2015	43AA5802	MM
+789DEAA6	Learning Socially Embedded Visual Representation from Scratch	2015	43AA5802	MM
+7BACF5F4	MMToC: A Multimodal Method for Table of Content Creation in Educational Videos	2015	43AA5802	MM
+77A50B76	Modeling Perspective Effects in Photographic Composition	2015	43AA5802	MM
+80D6DDEC	Modeling Spatial-Temporal Clues in a Hybrid Deep Learning Framework for Video Classification	2015	43AA5802	MM
+7685DF55	Modelling Human Factors in Perceptual Multimedia Quality: On The Role of Personality and Culture	2015	43AA5802	MM
+79FC0E75	Multi-View Visual Recognition of Imperfect Testing Data	2015	43AA5802	MM
+79026615	Multi-sensor Self-Quantification of Presentations	2015	43AA5802	MM
+78EFC3FC	Predicting and Understanding Urban Perception with Convolutional Neural Networks	2015	43AA5802	MM
+7646BBFC	QoE Modelling for VP9 and H.265 Videos on Mobile Devices	2015	43AA5802	MM
+762EA228	SINGA: Putting Deep Learning in the Hands of Multimedia Users	2015	43AA5802	MM
+7B1F1C1A	Searching Persuasively: Joint Event Detection and Evidence Recounting with Limited Supervision	2015	43AA5802	MM
+7C21D0AC	Single Image Spectral Reconstruction for Multimedia Applications	2015	43AA5802	MM
+7B9883DE	SkyStitch: A Cooperative Multi-UAV-based Real-time Video Surveillance System with Stitching	2015	43AA5802	MM
+7AEC21D4	Smart Beholder: An Open-Source Smart Lens for Mobile Photography	2015	43AA5802	MM
+7B43CA8F	Spatial-aware Multimodal Location Estimation for Social Images	2015	43AA5802	MM
+79386B35	Temporal Localization of Fine-Grained Actions in Videos by Domain Transfer from Web Images	2015	43AA5802	MM
+79513134	Temporal Matching Kernel with Explicit Feature Maps	2015	43AA5802	MM
+75233BCE	Towards Solving the Bottleneck of Pitch-based Singing Voice Separation	2015	43AA5802	MM
+788148FD	Ubii: Towards Seamless Interaction between Digital and Physical Worlds	2015	43AA5802	MM
+77095175	Video Killed The Data Store: Extending the n-Dimensional Display Interface for Full Screen Video	2015	43AA5802	MM
+796966DA	Visual Affect Around the World: A Large-scale Multilingual Visual Sentiment Ontology	2015	43AA5802	MM
+7A45DADE	Visual Coding in a Semantic Hierarchy	2015	43AA5802	MM
+7A369967	Weakly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation	2015	43AA5802	MM
+78236AB9	What are Popular: Exploring Twitter Features for Event Detection, Tracking and Visualization	2015	43AA5802	MM
+7A447B61	Who's Afraid of Itten: Using the Art Theory of Color Combination to Analyze Emotions in Abstract Paintings	2015	43AA5802	MM

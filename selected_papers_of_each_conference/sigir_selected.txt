@@ -1,0 +1,431 @@
+7D38AD73	A boosting approach to improving pseudo-relevance feedback	2011	43FD776C	SIGIR
+773C2B4B	A cascade ranking model for efficient ranked retrieval	2011	43FD776C	SIGIR
+7A282CFE	A novel corpus-based stemming algorithm using co-occurrence statistics	2011	43FD776C	SIGIR
+7AA31F68	A site oriented method for segmenting web pages	2011	43FD776C	SIGIR
+7A656885	A unified framework for recommendations based on quaternary semantic analysis	2011	43FD776C	SIGIR
+78C1DD42	Active learning to maximize accuracy vs. effort in interactive information retrieval	2011	43FD776C	SIGIR
+7BE0B487	An event-centric model for multilingual document similarity	2011	43FD776C	SIGIR
+79699A30	Associative tag recommendation exploiting multiple textual features	2011	43FD776C	SIGIR
+76BF78B7	Authorship classification: a discriminative syntactic tree mining approach	2011	43FD776C	SIGIR
+7CFCA4CB	Automatic boolean query suggestion for professional search	2011	43FD776C	SIGIR
+7CD21E9A	Bagging gradient-boosted trees for high precision, low variance ranking models	2011	43FD776C	SIGIR
+77CB1A72	CLR: a collaborative location recommendation framework based on co-clustering	2011	43FD776C	SIGIR
+79472C4B	CRTER: using cross terms to enhance probabilistic information retrieval	2011	43FD776C	SIGIR
+7F890DC8	Clickthrough-based latent semantic models for web search	2011	43FD776C	SIGIR
+79C74677	Cluster-based fusion of retrieved lists	2011	43FD776C	SIGIR
+777CA3F3	Collaborative competitive filtering: learning recommender using context of user choice	2011	43FD776C	SIGIR
+7C4BB8D8	Collective entity linking in web text: a graph-based method	2011	43FD776C	SIGIR
+77BAD69E	Competition-based user expertise score estimation	2011	43FD776C	SIGIR
+80E7B9E9	Composite hashing with multiple information sources	2011	43FD776C	SIGIR
+7B713D2B	Cross-language web page classification via dual knowledge transfer using nonnegative matrix tri-factorization	2011	43FD776C	SIGIR
+755D6B9C	CrowdLogging: distributed, private, and anonymous search logging	2011	43FD776C	SIGIR
+75FC84B0	Crowdsourcing for book search evaluation: impact of hit design on comparative system ranking	2011	43FD776C	SIGIR
+80A14184	DOM based content extraction via text density	2011	43FD776C	SIGIR
+797FCA0E	Detecting outlier sections in us congressional legislation	2011	43FD776C	SIGIR
+7F0DB5A2	Document clustering with universum	2011	43FD776C	SIGIR
+78839DC0	Effective sentiment stream analysis with self-augmenting training and demand-driven projection	2011	43FD776C	SIGIR
+76292F2C	Efficient manifold ranking for image retrieval	2011	43FD776C	SIGIR
+76B9C412	Efficiently collecting relevance information from clickthroughs for web retrieval system evaluation	2011	43FD776C	SIGIR
+816ABC78	Energy-price-driven query processing in multi-center web search engines	2011	43FD776C	SIGIR
+809A4321	Enhanced results for web search	2011	43FD776C	SIGIR
+7827FC24	Enhancing ad-hoc relevance weighting using probability density estimation	2011	43FD776C	SIGIR
+7BDD9A5B	Enhancing multi-label music genre classification through ensemble techniques	2011	43FD776C	SIGIR
+7A40012F	Enriching document representation via translation for improved monolingual information retrieval	2011	43FD776C	SIGIR
+7662BE97	Estimation methods for ranking recent information	2011	43FD776C	SIGIR
+7AB41FD1	Evaluating diversified search results using per-intent graded relevance	2011	43FD776C	SIGIR
+772D1BA5	Evaluating multi-query sessions	2011	43FD776C	SIGIR
+7C419DA6	Evaluating the synergic effect of collaboration in information seeking	2011	43FD776C	SIGIR
+75E42143	Evolutionary timeline summarization: a balanced optimization framework via iterative substitution	2011	43FD776C	SIGIR
+7C6FAA73	Exploiting geographical influence for collaborative point-of-interest recommendation	2011	43FD776C	SIGIR
+7760D5B8	Fast context-aware recommendations with factorization machines	2011	43FD776C	SIGIR
+79177302	Faster temporal range queries over versioned text	2011	43FD776C	SIGIR
+7609A82D	Faster top-k document retrieval using block-max indexes	2011	43FD776C	SIGIR
+7FDD92AF	Filtering semi-structured documents based on faceted feedback	2011	43FD776C	SIGIR
+77B37B29	Find it if you can: a game for modeling different types of web search success using interaction data	2011	43FD776C	SIGIR
+80DB6310	From one tree to a forest: a unified solution for structured web data extraction	2011	43FD776C	SIGIR
+7850F5E7	Functional matrix factorizations for cold-start recommendation	2011	43FD776C	SIGIR
+7D134239	Handling data sparsity in collaborative filtering using emotion and semantic based features	2011	43FD776C	SIGIR
+751A9236	Hypergeometric language models for republished article finding	2011	43FD776C	SIGIR
+774DCD13	ILDA: interdependent LDA model for learning latent aspects and their ratings from online product reviews	2011	43FD776C	SIGIR
+78EB5B35	Identifying points of interest by self-tuning clustering	2011	43FD776C	SIGIR
+756EBBC5	Improved video categorization from text metadata and user comments	2011	43FD776C	SIGIR
+7FFBA13F	Improving local search ranking through external logs	2011	43FD776C	SIGIR
+785A7DE3	Incremental diversification for very large sets: a streaming-based approach	2011	43FD776C	SIGIR
+8055961B	Indexing strategies for graceful degradation of search quality	2011	43FD776C	SIGIR
+7ED3A320	Inferring and using location metadata to personalize web search	2011	43FD776C	SIGIR
+78C47E0F	Integrating hierarchical feature selection and classifier training for multi-label image annotation	2011	43FD776C	SIGIR
+78C902A8	Intent-aware search result diversification	2011	43FD776C	SIGIR
+7F712AE8	Intentions and attention in exploratory health search	2011	43FD776C	SIGIR
+801F3C15	Inverted indexes for phrases and strings	2011	43FD776C	SIGIR
+7EA5A561	Learning online discussion structures by conditional random fields	2011	43FD776C	SIGIR
+7FE29149	Learning relevance from heterogeneous social network and its application in online targeting	2011	43FD776C	SIGIR
+7FCA2DBB	Learning search tasks in queries and web pages via graph regularization	2011	43FD776C	SIGIR
+7897DA66	Learning to rank for freshness and relevance	2011	43FD776C	SIGIR
+7EA7DA0D	Measuring improvement in user search performance resulting from optimal search tips	2011	43FD776C	SIGIR
+8035E060	Mining tags using social endorsement networks	2011	43FD776C	SIGIR
+79AD1983	Mining topics on participations for community discovery	2011	43FD776C	SIGIR
+760BA165	Mining weakly labeled web facial images for search-based face annotation	2011	43FD776C	SIGIR
+7D6C64F1	Modeling and analysis of cross-session search tasks	2011	43FD776C	SIGIR
+7E6F1D38	Multifaceted toponym recognition for streaming news	2011	43FD776C	SIGIR
+78C9C753	Multimedia answering: enriching text QA with media information	2011	43FD776C	SIGIR
+76147B2B	No free lunch: brute force vs. locality-sensitive hashing for cross-lingual pairwise similarity	2011	43FD776C	SIGIR
+7520ECC0	On theme location discovery for travelogue services	2011	43FD776C	SIGIR
+780362B6	Out of sight, not out of mind: on the effect of social and physical detachment on information need	2011	43FD776C	SIGIR
+7821306B	Parameterized concept weighting in verbose queries	2011	43FD776C	SIGIR
+80A59814	People searching for people: analysis of a people search engine log	2011	43FD776C	SIGIR
+7C72448F	Picasso - to sing, you must close your eyes and draw	2011	43FD776C	SIGIR
+75C6155A	Post-ranking query suggestion by diversifying search results	2011	43FD776C	SIGIR
+7FA0FD36	Posting list intersection on multicore architectures	2011	43FD776C	SIGIR
+77351C41	Predicting web searcher satisfaction with existing community-based answers	2011	43FD776C	SIGIR
+7B3E1F66	Probabilistic factor models for web site recommendation	2011	43FD776C	SIGIR
+80BEB1EF	Pseudo test collections for learning web search ranking functions	2011	43FD776C	SIGIR
+7CD92B05	Quantifying test collection quality based on the consistency of relevance judgements	2011	43FD776C	SIGIR
+78847A07	Query by document via a decomposition-based two-level retrieval approach	2011	43FD776C	SIGIR
+7EA61A91	Query suggestions in the absence of query logs	2011	43FD776C	SIGIR
+7D229F55	Ranking related news predictions	2011	43FD776C	SIGIR
+76D11B75	Recommending ephemeral items at web scale	2011	43FD776C	SIGIR
+75B05739	Regularized latent semantic indexing	2011	43FD776C	SIGIR
+776B3335	Relevant knowledge helps in choosing right teacher: active query selection for ranking adaptation	2011	43FD776C	SIGIR
+7F866F4E	Repeatable and reliable search system evaluation using crowdsourcing	2011	43FD776C	SIGIR
+7DCAD12B	SCENE: a scalable two-stage personalized news recommendation system	2011	43FD776C	SIGIR
+7D73A79D	Scalable multi-dimensional user intent identification using tree structured distributions	2011	43FD776C	SIGIR
+80D6BFE7	Seeding simulated queries with user-study data for personal search evaluation	2011	43FD776C	SIGIR
+765834BA	Social annotation in query expansion: a machine learning approach	2011	43FD776C	SIGIR
+7B4F557D	Social context summarization	2011	43FD776C	SIGIR
+7890944B	Summarizing the differences in multilingual news	2011	43FD776C	SIGIR
+7AF08BBF	Synthesizing high utility suggestions for rare web search queries	2011	43FD776C	SIGIR
+7EF66160	System effectiveness, user models, and user utility: a conceptual framework for investigation	2011	43FD776C	SIGIR
+807B729F	Temporal index sharding for space-time efficiency in archive search	2011	43FD776C	SIGIR
+7F38FB03	The economics in interactive information retrieval	2011	43FD776C	SIGIR
+7D9009C6	Timestamp-based result cache invalidation for web search engines	2011	43FD776C	SIGIR
+78389224	UPS: efficient privacy protection in personalized web search	2011	43FD776C	SIGIR
+76B8EE38	Understanding re-finding behavior in naturalistic email interaction logs	2011	43FD776C	SIGIR
+7F0122C1	Unsupervised query segmentation using clickthrough for information retrieval	2011	43FD776C	SIGIR
+7C93E0B4	User behavior in zero-recall ecommerce queries	2011	43FD776C	SIGIR
+7EBF04C1	Utilizing marginal net utility for recommendation in e-commerce	2011	43FD776C	SIGIR
+8117FEA8	ViewSer: enabling large-scale remote user studies of web search examination and interaction	2011	43FD776C	SIGIR
+7D44BB70	Who should share what?: item-level social influence prediction for users and posts ranking	2011	43FD776C	SIGIR
+813C7F2A	Why searchers switch: understanding and predicting engine switching rationales	2011	43FD776C	SIGIR
+7EA944DD	A generalized hidden Markov model with discriminative training for query spelling correction	2012	43FD776C	SIGIR
+804F7E71	A semi-supervised approach to modeling web search satisfaction	2012	43FD776C	SIGIR
+7DBBB444	A subjunctive exploratory search interface to support media studies researchers	2012	43FD776C	SIGIR
+7DDDD048	A utility-theoretic ranking method for semi-automated text classification	2012	43FD776C	SIGIR
+8060D2BC	Adaptation of the concept hierarchy model with search logs for query recommendation on intranets	2012	43FD776C	SIGIR
+80486981	Adaptive context features for toponym resolution in streaming news	2012	43FD776C	SIGIR
+801620DF	Adaptive diversification of recommendation results via latent factor portfolio	2012	43FD776C	SIGIR
+7E21A11B	Adaptive query suggestion for difficult queries	2012	43FD776C	SIGIR
+78CC4DA9	An IR-based evaluation framework for web search query segmentation	2012	43FD776C	SIGIR
+79CA025C	An exploration of ranking heuristics in mobile local search	2012	43FD776C	SIGIR
+7B28D381	An uncertainty-aware query selection model for evaluation of IR systems	2012	43FD776C	SIGIR
+7CAD42CB	AspecTiles: tile-based visualization of diversified web search results	2012	43FD776C	SIGIR
+75654B23	Automatic refinement of patent queries using concept importance predictors	2012	43FD776C	SIGIR
+7DC8A540	Automatic suggestion of query-rewrite rules for enterprise search	2012	43FD776C	SIGIR
+7AC991BE	Automatic term mismatch diagnosis for selective query expansion	2012	43FD776C	SIGIR
+7D541762	Boosting multi-kernel locality-sensitive hashing for scalable image retrieval	2012	43FD776C	SIGIR
+80D45CB4	Category hierarchy maintenance: a data-driven approach	2012	43FD776C	SIGIR
+754F54CA	Cognos: crowdsourcing search for topic experts in microblogs	2012	43FD776C	SIGIR
+7A19C16B	Collaborative personalized tweet recommendation	2012	43FD776C	SIGIR
+80EFD175	Combining implicit and explicit topic representations for result diversification	2012	43FD776C	SIGIR
+8139BD67	Combining inverted indices and structured search for ad-hoc object retrieval	2012	43FD776C	SIGIR
+7E5B58FC	Confidence-aware graph regularization with heterogeneous pairwise features	2012	43FD776C	SIGIR
+797AE556	Content-based retrieval for heterogeneous domains: domain adaptation by relative aggregation points	2012	43FD776C	SIGIR
+81026C7A	Detecting quilted web pages at scale	2012	43FD776C	SIGIR
+80972F0D	Diversity by proportionality: an election-based approach to search result diversification	2012	43FD776C	SIGIR
+766E62D3	Dual role model for question recommendation in community question answering	2012	43FD776C	SIGIR
+7DD404AA	Efficient in-memory top-k document retrieval	2012	43FD776C	SIGIR
+81259AEF	Efficient query recommendations in the long tail via center-piece subgraphs	2012	43FD776C	SIGIR
+80F6699A	Evaluating aggregated search pages	2012	43FD776C	SIGIR
+7A417E8E	Explanatory semantic relatedness and explicit spatialization for exploratory search	2012	43FD776C	SIGIR
+755DBEC0	Explicit relevance models in intent-oriented information retrieval diversification	2012	43FD776C	SIGIR
+7C02F0F5	Exploring social influence for recommendation: a generative model approach	2012	43FD776C	SIGIR
+7DE5CB2E	Extending BM25 with multiple query operators	2012	43FD776C	SIGIR
+7CA54D6A	Fighting against web spam: a novel propagation method based on click-through data	2012	43FD776C	SIGIR
+7DF78B70	Finding translations in scanned book collections	2012	43FD776C	SIGIR
+80861F2B	Friend or frenemy?: predicting signed ties in social networks	2012	43FD776C	SIGIR
+793B13F3	Generating reformulation trees for complex queries	2012	43FD776C	SIGIR
+80553830	Group matrix factorization for scalable topic modeling	2012	43FD776C	SIGIR
+7A4AE36E	Image ranking based on user browsing behavior	2012	43FD776C	SIGIR
+7A20EFA3	Improving retrieval of short texts through document expansion	2012	43FD776C	SIGIR
+80650A24	Improving searcher models using mouse cursor activity	2012	43FD776C	SIGIR
+7A22CD25	Improving tweet stream classification by detecting changes in word probability	2012	43FD776C	SIGIR
+7B042ED2	Increasing temporal diversity with purchase intervals	2012	43FD776C	SIGIR
+7E0ECC7E	Index maintenance for time-travel text search	2012	43FD776C	SIGIR
+7F104D0A	Language intent models for inferring user browsing behavior	2012	43FD776C	SIGIR
+7918529C	Learning hash codes for efficient content reuse detection	2012	43FD776C	SIGIR
+7F82120D	Learning to predict response times for online query scheduling	2012	43FD776C	SIGIR
+8044B12E	Learning to rank social update streams	2012	43FD776C	SIGIR
+7EE1601A	Learning to suggest: a machine learning framework for ranking query suggestions	2012	43FD776C	SIGIR
+7ADF1A9D	Manhattan hashing for large-scale image retrieval	2012	43FD776C	SIGIR
+7FFD176A	Mining query subtopics from search log data	2012	43FD776C	SIGIR
+7BE3D00D	Mining the web for points of interest	2012	43FD776C	SIGIR
+7510BE93	Mixture model with multiple centralized retrieval algorithms for result merging in federated search	2012	43FD776C	SIGIR
+81164630	Modeling concept dynamics for large scale music search	2012	43FD776C	SIGIR
+7657E43A	Modeling higher-order term dependencies in information retrieval using query hypergraphs	2012	43FD776C	SIGIR
+7F492808	Modeling the impact of short- and long-term behavior on search personalization	2012	43FD776C	SIGIR
+78AFDD8A	Modeling user posting behavior on social media	2012	43FD776C	SIGIR
+7BEDC192	Multi-aspect query summarization by composite query	2012	43FD776C	SIGIR
+772B615F	On per-topic variance in IR evaluation	2012	43FD776C	SIGIR
+76F65C74	Online result cache invalidation for real-time web search	2012	43FD776C	SIGIR
+7C97319D	Optimizing positional index structures for versioned document collections	2012	43FD776C	SIGIR
+7B0E0168	Personalization of search results using interaction behaviors in search sessions	2012	43FD776C	SIGIR
+799BDC74	Personalized click shaping through lagrangian duality for online recommendation	2012	43FD776C	SIGIR
+75539C3B	Personalized diversification of search results	2012	43FD776C	SIGIR
+76722C47	Placing images on the world map: a microblog-based enrichment approach	2012	43FD776C	SIGIR
+7A67B79E	Predicting quality flaws in user-generated content: the case of wikipedia	2012	43FD776C	SIGIR
+77FCFF44	Predicting the ratings of multimedia items for making personalized recommendations	2012	43FD776C	SIGIR
+7BC0845F	Prefetching query results and its impact on search engines	2012	43FD776C	SIGIR
+79B45619	Privacy-aware image classification and search	2012	43FD776C	SIGIR
+7A2B3B54	Proximity-based rocchio's model for pseudo relevance	2012	43FD776C	SIGIR
+7D016FB5	Quality through flow and immersion: gamifying crowdsourced relevance assessments	2012	43FD776C	SIGIR
+7BA938F8	Reactive index replication for distributed search engines	2012	43FD776C	SIGIR
+771BD5CA	Retrieving similar discussion forum threads: a structure based approach	2012	43FD776C	SIGIR
+7ED1247E	Rhetorical relations for information retrieval	2012	43FD776C	SIGIR
+7DB723A6	Robust ranking models via risk-sensitive optimization	2012	43FD776C	SIGIR
+7F93B827	Search, interrupted: understanding and predicting search task continuation	2012	43FD776C	SIGIR
+80C3A980	See-to-retrieve: efficient processing of spatio-visual keyword queries	2012	43FD776C	SIGIR
+7F552699	SimFusion+: extending simfusion towards efficient estimation on large and dynamic networks	2012	43FD776C	SIGIR
+76DAF942	Social annotations: utility and prediction modeling	2012	43FD776C	SIGIR
+77503F7F	Social-network analysis using topic models	2012	43FD776C	SIGIR
+78ADB7E0	Structural relationships for large-scale learning of answer re-ranking	2012	43FD776C	SIGIR
+7F3DA9AD	Studies of the onset and persistence of medical concerns in search logs	2012	43FD776C	SIGIR
+7C37DB1D	Summarizing highly structured documents for effective search interaction	2012	43FD776C	SIGIR
+7DB5A631	Supporting efficient top-k queries in type-ahead search	2012	43FD776C	SIGIR
+7734E92E	TFMAP: optimizing MAP for top-n context-aware recommendation	2012	43FD776C	SIGIR
+7BCACF6E	Task complexity, vertical display and user interaction in aggregated search	2012	43FD776C	SIGIR
+75DB3911	Time drives interaction: simulating sessions in diverse searching environments	2012	43FD776C	SIGIR
+78F0396A	Time-based calibration of effectiveness measures	2012	43FD776C	SIGIR
+78DC1EB0	Time-sensitive query auto-completion	2012	43FD776C	SIGIR
+7A86EFD7	To index or not to index: time-space trade-offs in search engines with positional ranking functions	2012	43FD776C	SIGIR
+7B81EE77	Top-k learning to rank: labeling, ranking and evaluation	2012	43FD776C	SIGIR
+79F72777	TwiNER: named entity recognition in targeted twitter stream	2012	43FD776C	SIGIR
+78FAFF3A	User evaluation of query quality	2012	43FD776C	SIGIR
+7F37DA63	Using preference judgments for novel document retrieval	2012	43FD776C	SIGIR
+7AE77C3F	Vote calibration in community question-answering systems	2012	43FD776C	SIGIR
+80D8B8C3	What reviews are satisfactory: novel features for automatic helpfulness voting	2012	43FD776C	SIGIR
+785E18E6	When web search fails, searchers become askers: understanding the transition	2012	43FD776C	SIGIR
+7A672F31	Where is who: large-scale photo retrieval by facial attributes and canvas layout	2012	43FD776C	SIGIR
+7628D3FE	A candidate filtering mechanism for fast top-k query processing on modern cpus	2013	43FD776C	SIGIR
+7A4685AE	A general evaluation measure for document organization tasks	2013	43FD776C	SIGIR
+7BC574F9	A location-based news article recommendation with explicit localized semantic analysis	2013	43FD776C	SIGIR
+79801244	A low rank structural large margin method for cross-modal ranking	2013	43FD776C	SIGIR
+7B3B6998	A mutual information-based framework for the analysis of information retrieval systems	2013	43FD776C	SIGIR
+77C7F73C	A novel TF-IDF weighting scheme for effective ranking	2013	43FD776C	SIGIR
+7DAFFB9C	Addressing cold-start in app recommendation: latent user models constructed from twitter followers	2013	43FD776C	SIGIR
+807DDCCF	Aggregated search interface preferences in multi-session search tasks	2013	43FD776C	SIGIR
+7849B842	An effective implicit relevance feedback technique using affective, physiological and behavioural features	2013	43FD776C	SIGIR
+76116DA7	An experimental study on implicit social recommendation	2013	43FD776C	SIGIR
+7C92DFC3	An incremental approach to efficient pseudo-relevance feedback	2013	43FD776C	SIGIR
+7898A077	An information-theoretic account of static index pruning	2013	43FD776C	SIGIR
+7B33F417	An unsupervised topic segmentation model incorporating word order	2013	43FD776C	SIGIR
+80B2DE42	Beliefs and biases in web search	2013	43FD776C	SIGIR
+7AA74CF2	Cache-conscious performance optimization for similarity search	2013	43FD776C	SIGIR
+759693FE	Click model-based information retrieval metrics	2013	43FD776C	SIGIR
+79B15C25	Compact query term selection using topically related text	2013	43FD776C	SIGIR
+788DA5AD	Competence-based song recommendation	2013	43FD776C	SIGIR
+77878F06	Copulas for information retrieval	2013	43FD776C	SIGIR
+76936FC5	Deciding on an adjustment for multiplicity in IR experiments	2013	43FD776C	SIGIR
+7CF867A2	Document identifier reassignment and run-length-compressed inverted indexes for improved search performance	2013	43FD776C	SIGIR
+77F448B2	Efficient query construction for large scale data	2013	43FD776C	SIGIR
+7D7DDC2B	Emerging topic detection for organizations from microblogs	2013	43FD776C	SIGIR
+7A3929B8	Exploiting hybrid contexts for Tweet segmentation	2013	43FD776C	SIGIR
+75BA4DC4	Exploiting user feedback to learn to rank answers in q&a forums: a case study with stack overflow	2013	43FD776C	SIGIR
+806EA7CF	Extracting query facets from search results	2013	43FD776C	SIGIR
+79A4F072	Fast document-at-a-time query processing using two-tier indexes	2013	43FD776C	SIGIR
+785DB1AD	Faster and smaller inverted indices with treaps	2013	43FD776C	SIGIR
+7CDD1C32	Faster upper bounding of intersection sizes	2013	43FD776C	SIGIR
+7BEC2D16	Fighting search engine amnesia: reranking repeated results	2013	43FD776C	SIGIR
+759B6CFD	How do users respond to voice input errors?: lexical and phonetic query reformulation in voice search	2013	43FD776C	SIGIR
+7E0D7776	How query cost affects search behavior	2013	43FD776C	SIGIR
+7A435EA8	Improve collaborative filtering through bordered block diagonal form matrices	2013	43FD776C	SIGIR
+796776E1	Improving search result summaries by using searcher behavior data	2013	43FD776C	SIGIR
+75BF90F4	Incorporating popularity in topic models for social network analysis	2013	43FD776C	SIGIR
+7CF51B9F	Incorporating vertical results into search click models	2013	43FD776C	SIGIR
+77D7BD93	Learning latent friendship propagation networks with interest awareness for link prediction	2013	43FD776C	SIGIR
+7E5ACD32	Learning to name faces: a multimodal learning scheme for search-based face annotation	2013	43FD776C	SIGIR
+7CC46613	Learning to personalize query auto-completion	2013	43FD776C	SIGIR
+7C67E844	Leveraging conceptual lexicon: query disambiguation using proximity information for patent retrieval	2013	43FD776C	SIGIR
+7534F3C1	Looking ahead: query preview in exploratory search	2013	43FD776C	SIGIR
+79CB8B65	Mining touch interaction data on mobile devices to predict web search result relevance	2013	43FD776C	SIGIR
+7BBA26CE	Modeling click-through based word-pairs for web search	2013	43FD776C	SIGIR
+80C557E0	Modeling term dependencies with quantum language models for IR	2013	43FD776C	SIGIR
+781706A8	Modeling user's receptiveness over time for recommendation	2013	43FD776C	SIGIR
+76D40C87	News vertical search: when and what to display to users	2013	43FD776C	SIGIR
+7F508BA1	On the measurement of test collection reliability	2013	43FD776C	SIGIR
+781EE4A1	Opportunity model for e-commerce recommendation: right product; right time	2013	43FD776C	SIGIR
+7E85247A	Personalized ranking model adaptation for web search	2013	43FD776C	SIGIR
+7D4D7CB7	Personalized time-aware tweets summarization	2013	43FD776C	SIGIR
+79F605D4	Preference based evaluation measures for novelty and diversity	2013	43FD776C	SIGIR
+7EC2B7C8	Pseudo test collections for training and tuning microblog rankers	2013	43FD776C	SIGIR
+808C0AD8	Query expansion using path-constrained random walks	2013	43FD776C	SIGIR
+7951C63F	Query representation for cross-temporal information retrieval	2013	43FD776C	SIGIR
+7D393968	Ranking document clusters using markov random fields	2013	43FD776C	SIGIR
+79416B7E	Retrieving documents with mathematical content	2013	43FD776C	SIGIR
+79465DF8	Search engine switching detection based on user personal preferences and behavior patterns	2013	43FD776C	SIGIR
+7CF32436	Search result diversification in resource selection for federated search	2013	43FD776C	SIGIR
+772E678B	Semantic hashing using tags and topic modeling	2013	43FD776C	SIGIR
+7B665064	Sentiment diversification with different biases	2013	43FD776C	SIGIR
+78E92197	Sumblr: continuous summarization of evolving tweet streams	2013	43FD776C	SIGIR
+7D8D2D9A	Summaries, ranked retrieval and sessions: a unified framework for information access evaluation	2013	43FD776C	SIGIR
+7E1EAE95	Taily: shard selection using the tail of score distributions	2013	43FD776C	SIGIR
+76BEEC16	Task-aware query recommendation	2013	43FD776C	SIGIR
+800D7E3B	Term level search result diversification	2013	43FD776C	SIGIR
+7B77C2EA	The effect of threshold priming and need for cognition on relevance calibration and assessment	2013	43FD776C	SIGIR
+7E418727	The impact of solid state drive on search engine cache management	2013	43FD776C	SIGIR
+7B8FABB8	Time-aware point-of-interest recommendation	2013	43FD776C	SIGIR
+76E9629C	Topic hierarchy construction for the organization of multi-source user generated contents	2013	43FD776C	SIGIR
+7DF2F244	Toward self-correcting search engines: using underperforming queries to improve search	2013	43FD776C	SIGIR
+8129B87C	Toward whole-session relevance: exploring intrinsic diversity in web search	2013	43FD776C	SIGIR
+767F05C9	User model-based metrics for offline query suggestion evaluation	2013	43FD776C	SIGIR
+7F6E3D6D	Utilizing query change for session search	2013	43FD776C	SIGIR
+7B8327ED	A mathematics retrieval system for formulae in layout presentations	2014	43FD776C	SIGIR
+7EEAD48F	A simple term frequency transformation model for effective pseudo relevance feedback	2014	43FD776C	SIGIR
+77E32563	A two-dimensional click model for query auto-completion	2014	43FD776C	SIGIR
+7E7956A3	Active hashing with joint data example and tag selection	2014	43FD776C	SIGIR
+8067658C	Addressing cold start in recommender systems: a semi-supervised co-training algorithm	2014	43FD776C	SIGIR
+7A100273	An adaptive teleportation random walk model for learning social tag relevance	2014	43FD776C	SIGIR
+7AB140C2	Bundle recommendation in ecommerce	2014	43FD776C	SIGIR
+7B80FA34	CTSUM: extracting more certain summaries for news articles	2014	43FD776C	SIGIR
+7B720EBC	Characterizing multi-click search behavior and the risks and opportunities of changing results during use	2014	43FD776C	SIGIR
+7C935B66	Circumlocution in diagnostic medical queries	2014	43FD776C	SIGIR
+7EA18E5C	CiteSight: supporting contextual citation recommendation using differential search	2014	43FD776C	SIGIR
+7567BA62	Click-through-based cross-view learning for image search	2014	43FD776C	SIGIR
+7A6D3A23	Coarse-to-fine review selection via supervised joint aspect and sentiment model	2014	43FD776C	SIGIR
+7F6BAD5A	Cohort modeling for enhanced personalized search	2014	43FD776C	SIGIR
+7AA26CF5	Collaborative personalized Twitter search with topic-language models	2014	43FD776C	SIGIR
+7F67FE5C	Context-aware web search abandonment prediction	2014	43FD776C	SIGIR
+75D7BFD8	Continuous word embeddings for detecting local text reuses at the semantic level	2014	43FD776C	SIGIR
+75DB58CA	Cross-domain and cross-category emotion tagging for comments of online news	2014	43FD776C	SIGIR
+795C4848	Cross-language context-aware citation recommendation in scientific articles	2014	43FD776C	SIGIR
+79BA6F77	Discrimination between tasks with user activity patterns during information search	2014	43FD776C	SIGIR
+76FBE5E0	Discriminative coupled dictionary hashing for fast cross-media retrieval	2014	43FD776C	SIGIR
+7715DB2B	Does product recommendation meet its waterloo in unexplored categories?: no, price comes to help	2014	43FD776C	SIGIR
+7BEE7305	Economically-efficient sentiment stream analysis	2014	43FD776C	SIGIR
+773BDCBE	Entity query feature expansion using knowledge base links	2014	43FD776C	SIGIR
+7719EE98	Estimating global statistics for unstructured P2P search in the presence of adversarial peers	2014	43FD776C	SIGIR
+78F13AC2	Evaluation of machine-learning protocols for technology-assisted review in electronic discovery	2014	43FD776C	SIGIR
+8047B915	Explicit factor models for explainable recommendation based on phrase-level sentiment analysis	2014	43FD776C	SIGIR
+758F7FD3	Fine-grained location extraction from tweets with temporal awareness	2014	43FD776C	SIGIR
+7733EFB0	Fusion helps diversification	2014	43FD776C	SIGIR
+75A2FE90	Gaussian process factorization machines for context-aware recommendations	2014	43FD776C	SIGIR
+75C31616	Hierarchical multi-label classification of social text streams	2014	43FD776C	SIGIR
+7C65E2DF	Hypothesis testing for the risk-sensitive evaluation of retrieval systems	2014	43FD776C	SIGIR
+7E0DA477	IMRank: influence maximization via finding self-consistent ranking	2014	43FD776C	SIGIR
+7923E601	Impact of response latency on user behavior in web search	2014	43FD776C	SIGIR
+7BD7B7C2	Injecting user models and time into precision via Markov chains	2014	43FD776C	SIGIR
+769B5412	Interactions between health searchers and search engines	2014	43FD776C	SIGIR
+7C40F949	Investigating users' query formulations for cognitive search intents	2014	43FD776C	SIGIR
+7C6473EA	Latent semantic sparse hashing for cross-modal similarity search	2014	43FD776C	SIGIR
+7A0F0310	Learning for search result diversification	2014	43FD776C	SIGIR
+78A80AD6	Learning similarity functions for topic detection in online reputation monitoring	2014	43FD776C	SIGIR
+7D492189	Learning temporal-dependent ranking models	2014	43FD776C	SIGIR
+7912F02C	Learning to personalize trending image search suggestion	2014	43FD776C	SIGIR
+790DFFD6	Learning user reformulation behavior for query auto-completion	2014	43FD776C	SIGIR
+7B09C43D	Leveraging knowledge across media for spammer detection in microblogging	2014	43FD776C	SIGIR
+77CD736A	Load balancing for partition-based similarity search	2014	43FD776C	SIGIR
+802026A2	Modeling action-level satisfaction for search task satisfaction prediction	2014	43FD776C	SIGIR
+7545A5B1	Modelling interaction with economic models of search	2014	43FD776C	SIGIR
+76FEFE10	Multidimensional relevance modeling via psychometrics and crowdsourcing	2014	43FD776C	SIGIR
+7967B635	New and improved: modeling versions to improve app recommendation	2014	43FD776C	SIGIR
+7BAF2011	On measuring social friend interest similarities in recommender systems	2014	43FD776C	SIGIR
+7ACF7A3C	PRISM: concept-preserving social image search results summarization	2014	43FD776C	SIGIR
+7C8A90C5	Partitioned Elias-Fano indexes	2014	43FD776C	SIGIR
+7B8F6870	Predicting term-relevance from brain signals	2014	43FD776C	SIGIR
+795EC833	Predicting the popularity of web 2.0 items based on user comments	2014	43FD776C	SIGIR
+80EDAF78	Predicting trending messages and diffusion participants in microblogging network	2014	43FD776C	SIGIR
+813927DD	Predictive parallelization: taming tail latencies in web search	2014	43FD776C	SIGIR
+757DEFC9	Preference preserving hashing for efficient recommendation	2014	43FD776C	SIGIR
+7EBA2935	Principled dictionary pruning for low-memory corpus compression	2014	43FD776C	SIGIR
+7B34A358	Processing spatial keyword query as a top-k aggregation query	2014	43FD776C	SIGIR
+7C8EC351	QUADS: question answering for decision support	2014	43FD776C	SIGIR
+8028C53F	Query expansion for mixed-script information retrieval	2014	43FD776C	SIGIR
+7C6EA9E8	Query log driven web search results clustering	2014	43FD776C	SIGIR
+78AADC4B	Query-performance prediction: setting the expectations straight	2014	43FD776C	SIGIR
+8104705D	ReQ-ReC: high recall retrieval with query pooling and interactive classification	2014	43FD776C	SIGIR
+7D801BAA	Recommending social media content to community owners	2014	43FD776C	SIGIR
+779A20AC	Retrieval of similar chess positions	2014	43FD776C	SIGIR
+782E017B	SearchPanel: framing complex search needs	2014	43FD776C	SIGIR
+811285DC	Searching, browsing, and clicking in a search session: changes in user behavior by task and over time	2014	43FD776C	SIGIR
+7C460DED	Skewed partial bitvectors for list intersection	2014	43FD776C	SIGIR
+7706D5A7	Supervised hashing with latent factor models	2014	43FD776C	SIGIR
+7FE9C7FA	Temporal feedback for tweet search with non-parametric density estimation	2014	43FD776C	SIGIR
+7BE1D32D	The knowing camera 2: recognizing and annotating places-of-interest in smartphone photos	2014	43FD776C	SIGIR
+7A592819	Time-critical search	2014	43FD776C	SIGIR
+7CC0316C	Topic labeled text classification: a weakly supervised approach	2014	43FD776C	SIGIR
+75A2C887	Towards better measurement of attention and satisfaction in mobile search	2014	43FD776C	SIGIR
+7BEBE7D8	User-driven system-mediated collaborative information retrieval	2014	43FD776C	SIGIR
+7605FED9	Using information scent and need for cognition to understand online search behavior	2014	43FD776C	SIGIR
+789E131C	Utilizing relevance feedback in fusion-based retrieval	2014	43FD776C	SIGIR
+7F4D4223	Web page segmentation with structured prediction and its application in web page classification	2014	43FD776C	SIGIR
+7B1E9647	Who is the barbecue king of texas?: a geo-spatial approach to finding local experts on twitter	2014	43FD776C	SIGIR
+7A7CEDF8	Win-win search: dual-agent stochastic game in session search	2014	43FD776C	SIGIR
+79F1B027	Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction	2014	43FD776C	SIGIR
+7874F072	A Probabilistic Model for Information Retrieval Based on Maximum Value Distribution	2015	43FD776C	SIGIR
+77032616	A Random Walk Model for Optimization of Search Impact in Web Frontier Ranking	2015	43FD776C	SIGIR
+75353110	A Similarity Measure for Weaving Patterns in Textiles	2015	43FD776C	SIGIR
+7524DD80	An Efficient and Scalable MetaFeature-based Document Classification Approach based on Massively Parallel Computing	2015	43FD776C	SIGIR
+77391E24	An Entity Class-Dependent Discriminative Mixture Model for Cumulative Citation Recommendation	2015	43FD776C	SIGIR
+78AEC9D2	An Eye-Tracking Study of Query Reformulation	2015	43FD776C	SIGIR
+7BFACC91	Analyzing User's Sequential Behavior in Query Auto-Completion via Markov Processes	2015	43FD776C	SIGIR
+75DC91D5	Assessor Differences and User Preferences in Tweet Timeline Generation	2015	43FD776C	SIGIR
+777622EC	BROOF: Exploiting Out-of-Bag Errors, Boosting and Random Forests for Effective Automated Classification	2015	43FD776C	SIGIR
+7BEA607E	Bayesian Ranker Comparison Based on Historical User Interactions	2015	43FD776C	SIGIR
+79F16E7A	Context- and Content-aware Embeddings for Query Rewriting in Sponsored Search	2015	43FD776C	SIGIR
+76804BD0	Differences in the Use of Search Assistance for Tasks of Varying Complexity	2015	43FD776C	SIGIR
+76260937	Different Users, Different Opinions: Predicting Search Satisfaction with Mouse Movement Information	2015	43FD776C	SIGIR
+76F635AE	Dynamic Query Modeling for Related Content Finding	2015	43FD776C	SIGIR
+77352E62	Effective Latent Models for Binary Feedback in Recommender Systems	2015	43FD776C	SIGIR
+75253619	Evaluating Streams of Evolving News Events	2015	43FD776C	SIGIR
+7FBE952E	Exploring Session Context using Distributed Representations of Queries and Reformulations	2015	43FD776C	SIGIR
+7A29687A	Fielded Sequential Dependence Model for Ad-Hoc Entity Retrieval in the Web of Data	2015	43FD776C	SIGIR
+7A7F3B26	From Queries to Cards: Re-ranking Proactive Card Recommendations Based on Reactive Search History	2015	43FD776C	SIGIR
+7C41A668	GeoSoCa: Exploiting Geographical, Social and Categorical Correlations for Point-of-Interest Recommendations	2015	43FD776C	SIGIR
+774371BB	HSpam14: A Collection of 14 Million Tweets for Hashtag-Oriented Spam Research	2015	43FD776C	SIGIR
+75533955	High Quality Graph-Based Similarity Search	2015	43FD776C	SIGIR
+78813C8C	How many results per page?: A Study of SERP Size, Search Behavior and User Experience	2015	43FD776C	SIGIR
+78DCB980	Image-Based Recommendations on Styles and Substitutes	2015	43FD776C	SIGIR
+7CD21CF3	Impact of Surrogate Assessments on High-Recall Retrieval	2015	43FD776C	SIGIR
+75C0C047	In Situ Insights	2015	43FD776C	SIGIR
+7ED443D9	Incorporating Non-sequential Behavior into Click Models	2015	43FD776C	SIGIR
+7D69C360	Inferring Searcher Attention by Jointly Modeling User Interactions and Content Salience	2015	43FD776C	SIGIR
+7603021E	Influence of Vertical Result in Web Search Examination	2015	43FD776C	SIGIR
+79884D5F	Information Retrieval as Card Playing: A Formal Model for Optimizing Interactive Retrieval Interface	2015	43FD776C	SIGIR
+78205A01	Islands in the Stream: A Study of Item Recommendation within an Enterprise Social Stream	2015	43FD776C	SIGIR
+765DBCCD	Learning Hierarchical Representation Model for NextBasket Recommendation	2015	43FD776C	SIGIR
+7A1144CC	Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures	2015	43FD776C	SIGIR
+7677E4F4	Learning by Example: Training Users with High-quality Query Suggestions	2015	43FD776C	SIGIR
+7AE3F61D	Learning to Extract Local Events from the Web	2015	43FD776C	SIGIR
+75358C7E	Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks	2015	43FD776C	SIGIR
+759E00D4	Learning to Reweight Terms with Distributed Representations	2015	43FD776C	SIGIR
+7B3F0760	Leveraging Procedural Knowledge for Task-oriented Search	2015	43FD776C	SIGIR
+792C0EDE	Leveraging User Reviews to Improve Accuracy for Mobile App Retrieval	2015	43FD776C	SIGIR
+7C08CBE5	Listwise Collaborative Filtering	2015	43FD776C	SIGIR
+7B363C84	Local Ranking Problem on the BrowseGraph	2015	43FD776C	SIGIR
+79A54107	Mining, Ranking and Recommending Entity Aspects	2015	43FD776C	SIGIR
+7B47B8EC	Monolingual and Cross-Lingual Information Retrieval Models Based on (Bilingual) Word Embeddings	2015	43FD776C	SIGIR
+778BBBEC	Multiple Social Network Learning and Its Application in Volunteerism Tendency Prediction	2015	43FD776C	SIGIR
+7C6DB6FB	Non-Compositional Term Dependence for Information Retrieval	2015	43FD776C	SIGIR
+75B2BA6F	On the Relation Between Assessor's Agreement and Accuracy in Gamified Relevance Assessment	2015	43FD776C	SIGIR
+7AF853CF	Optimal Aggregation Policy for Reducing Tail Latency of Web Search	2015	43FD776C	SIGIR
+7A4B2271	Optimised Scheduling of Online Experiments	2015	43FD776C	SIGIR
+7BC6C319	Parametric and Non-parametric User-aware Sentiment Topic Models	2015	43FD776C	SIGIR
+78F94CC9	Personalized Recommendation via Parameter-Free Contextual Bandits	2015	43FD776C	SIGIR
+7B9D3A00	Personalizing Search on Shared Devices	2015	43FD776C	SIGIR
+782442B3	Predicting Search Intent Based on Pre-Search Context	2015	43FD776C	SIGIR
+7725A380	Predicting Search Satisfaction Metrics with Interleaved Comparisons	2015	43FD776C	SIGIR
+7B66452C	QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees	2015	43FD776C	SIGIR
+79DF3810	Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation	2015	43FD776C	SIGIR
+79EC1E6B	Relevance Scores for Triples from Type-Like Relations	2015	43FD776C	SIGIR
+7D692536	Representative & Informative Query Selection for Learning to Rank using Submodular Functions	2015	43FD776C	SIGIR
+7835F5AA	Retrieval of Relevant Opinion Sentences for New Products	2015	43FD776C	SIGIR
+768C5770	Scientific Information Understanding via Open Educational Resources (OER)	2015	43FD776C	SIGIR
+7CD1FFEC	Semi-supervised Hashing with Semantic Confidence for Large Scale Visual Search	2015	43FD776C	SIGIR
+797B790C	Sequential Testing for Early Stopping of Online Experiments	2015	43FD776C	SIGIR
+79818516	Splitting Water: Precision and Anti-Precision to Reduce Pool Bias	2015	43FD776C	SIGIR
+79F0B6C5	Summarizing Contrastive Themes via Hierarchical Non-Parametric Processes	2015	43FD776C	SIGIR
+7C821A5E	The Benefits of Magnitude Estimation Relevance Assessments for Information Retrieval Evaluation	2015	43FD776C	SIGIR
+7864CB47	Unconscious Physiological Effects of Search Latency on Users and Their Click Behaviour	2015	43FD776C	SIGIR
+79A39192	Uncovering Crowdsourced Manipulation of Online Reviews	2015	43FD776C	SIGIR
+766C9391	Untangling Result List Refinement and Ranking Quality: a Framework for Evaluation and Prediction	2015	43FD776C	SIGIR
+7C9367FA	User Variability and IR System Evaluation	2015	43FD776C	SIGIR
+752A083F	WEMAREC: Accurate and Scalable Recommendation through Weighted and Ensemble Matrix Approximation	2015	43FD776C	SIGIR
+79BC2574	adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback	2015	43FD776C	SIGIR

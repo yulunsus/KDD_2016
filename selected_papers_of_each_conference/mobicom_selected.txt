@@ -1,0 +1,163 @@
+80977572	A cross-layer design for scalable mobile video	2011	42F4F2CC	MOBICOM
+79EEB261	Anonymization of location data does not work: a large-scale measurement study	2011	42F4F2CC	MOBICOM
+80FD9715	Beamforming on mobile devices: a first study	2011	42F4F2CC	MOBICOM
+7B3C886C	CRMA: collision-resistant multiple access	2011	42F4F2CC	MOBICOM
+7EC07454	Detecting driver phone use leveraging car speakers	2011	42F4F2CC	MOBICOM
+77F4D9B3	Distributed spectrum management and relay selection in interference-limited cooperative wireless networks	2011	42F4F2CC	MOBICOM
+7F7DF5DF	E-MiLi: energy-minimizing idle listening in wireless networks	2011	42F4F2CC	MOBICOM
+75950DC1	Enhance & explore: an adaptive algorithm to maximize the utility of wireless networks	2011	42F4F2CC	MOBICOM
+7E2ACCDD	FERMI: a femtocell resource management system forinterference mitigation in OFDMA networks	2011	42F4F2CC	MOBICOM
+8049A987	FLUID: improving throughputs in enterprise wireless lans through flexible channelization	2011	42F4F2CC	MOBICOM
+7ECF58A9	FlexCast: graceful wireless video streaming	2011	42F4F2CC	MOBICOM
+7AC1EABA	Flooding-resilient broadcast authentication for VANETs	2011	42F4F2CC	MOBICOM
+7D017B23	Fundamental relationship between NodeDensity and delay in wireless ad hoc networks with unreliable links	2011	42F4F2CC	MOBICOM
+78DDEC97	Harnessing frequency diversity in wi-fi networks	2011	42F4F2CC	MOBICOM
+80886C62	I am the antenna: accurate outdoor AP location using smartphones	2011	42F4F2CC	MOBICOM
+80736989	MOTA: engineering an operator agnostic mobile service	2011	42F4F2CC	MOBICOM
+80B071F0	No time to countdown: migrating backoff to the frequency domain	2011	42F4F2CC	MOBICOM
+7772E117	Optimal gateway selection in multi-domain wireless networks: a potential game perspective	2011	42F4F2CC	MOBICOM
+7DCF18D7	Overlapping communities in dynamic networks: their detection and mobile applications	2011	42F4F2CC	MOBICOM
+7EE504A4	Practical, real-time, full duplex wireless	2011	42F4F2CC	MOBICOM
+7B7E6CC7	R3: robust replication routing in wireless networks with diverse connectivity characteristics	2011	42F4F2CC	MOBICOM
+7D76227A	REfactor-ing content overhearing to improve wireless performance	2011	42F4F2CC	MOBICOM
+8100C73A	Scoop: decentralized and opportunistic multicasting of information streams	2011	42F4F2CC	MOBICOM
+7895E3F7	SmartVNC: an effective remote computing solution for smartphones	2011	42F4F2CC	MOBICOM
+7E32B730	SociableSense: exploring the trade-offs of adaptive sampling and computation offloading for social sensing	2011	42F4F2CC	MOBICOM
+7F6F212A	Traffic-driven power saving in operational 3G cellular networks	2011	42F4F2CC	MOBICOM
+75BE25D6	Understanding stateful vs stateless communication strategies for ad hoc networks	2011	42F4F2CC	MOBICOM
+7E99FEE4	WiFi-Nano: reclaiming WiFi efficiency through 800 ns slots	2011	42F4F2CC	MOBICOM
+75316DB6	XPRESS: a cross-layer backpressure architecture for wireless multi-hop networks	2011	42F4F2CC	MOBICOM
+79A6BD76	802.11ec: collision avoidance without control messages	2012	42F4F2CC	MOBICOM
+7DD8B802	Achieving high data rates in a distributed MIMO system	2012	42F4F2CC	MOBICOM
+816C0D6D	Argos: practical many-antenna base stations	2012	42F4F2CC	MOBICOM
+7BE2A07E	Asymmetric caching: improved network deduplication for mobile devices	2012	42F4F2CC	MOBICOM
+7F3F1314	AutoMAC: rateless wireless concurrent medium access	2012	42F4F2CC	MOBICOM
+7FD868C3	Building efficient spectrum-agile devices for dummies	2012	42F4F2CC	MOBICOM
+769ADB85	Can we pay for what we get in 3G data access?	2012	42F4F2CC	MOBICOM
+7E8D2E6C	Centaur: locating devices in an office environment	2012	42F4F2CC	MOBICOM
+798A086D	CloudIQ: a framework for processing base stations in a data center	2012	42F4F2CC	MOBICOM
+75775B0D	Crowdsourcing to smartphones: incentive mechanism design for mobile phone sensing	2012	42F4F2CC	MOBICOM
+8068B830	Distinguishing users with capacitive touch communication	2012	42F4F2CC	MOBICOM
+8126241E	Empowering developers to estimate app energy consumption	2012	42F4F2CC	MOBICOM
+7CB7E294	Energy-based rate adaptation for 802.11n	2012	42F4F2CC	MOBICOM
+754EC31E	Every bit counts: fast and scalable RFID estimation	2012	42F4F2CC	MOBICOM
+806CE05D	FLIGHT: clock calibration using fluorescent lighting	2012	42F4F2CC	MOBICOM
+7E936FD8	Faster GPS via the sparse fourier transform	2012	42F4F2CC	MOBICOM
+8015382E	Frame retransmissions considered harmful: improving spectrum efficiency using Micro-ACKs	2012	42F4F2CC	MOBICOM
+76205790	Locating in fingerprint space: wireless indoor localization with little human intervention	2012	42F4F2CC	MOBICOM
+804751CA	MARVEL: multiple antenna based relative vehicle localizer	2012	42F4F2CC	MOBICOM
+7BE0BB79	MIDU: enabling MIMO full duplex	2012	42F4F2CC	MOBICOM
+7A8C29B6	MuVi: a multicast video delivery scheme for 4g cellular networks	2012	42F4F2CC	MOBICOM
+7ACA7AEB	No symbol left behind: a link-layer protocol for rateless codes	2012	42F4F2CC	MOBICOM
+76A3A83E	ParCast: soft video delivery in MIMO-OFDM WLANs	2012	42F4F2CC	MOBICOM
+804EFE4F	ProfileDroid: multi-layer profiling of android applications	2012	42F4F2CC	MOBICOM
+7E04F4EE	Push the limit of WiFi based localization for smartphones	2012	42F4F2CC	MOBICOM
+7F974F21	RadioJockey: mining program execution to optimize cellular radio usage	2012	42F4F2CC	MOBICOM
+7FD36774	Rate adaptation for 802.11 multiuser mimo networks	2012	42F4F2CC	MOBICOM
+7E24DEAE	Searchlight: won't you be my neighbor?	2012	42F4F2CC	MOBICOM
+7E465CD8	SimpleMAC: a jamming-resilient MAC-layer protocol for wireless channel coordination	2012	42F4F2CC	MOBICOM
+75B11C19	Temporal quality assessment for mobile videos	2012	42F4F2CC	MOBICOM
+76AB0A50	Temporal reachability graphs	2012	42F4F2CC	MOBICOM
+811F5845	Zee: zero-effort crowdsourcing for indoor localization	2012	42F4F2CC	MOBICOM
+76E5C92C	A scheduling framework for adaptive video delivery over cellular networks	2013	42F4F2CC	MOBICOM
+804423DB	Adaptive feedback compression for MIMO networks	2013	42F4F2CC	MOBICOM
+7B6D31F8	An information-aware QoE-centric mobile video cache	2013	42F4F2CC	MOBICOM
+7BCDB194	CSpy: finding the best quality channel without probing	2013	42F4F2CC	MOBICOM
+78B925A6	Coordinating cellular background transfers using loadsense	2013	42F4F2CC	MOBICOM
+78BFB170	CorLayer: a transparent link correlation layer for energy efficient broadcast	2013	42F4F2CC	MOBICOM
+794DD03A	Creating secrets out of erasures	2013	42F4F2CC	MOBICOM
+77FE57DD	Exploring indoor white spaces in metropolises	2013	42F4F2CC	MOBICOM
+7B196087	Exploring the potential in practice for opportunistic networks amongst smart mobile devices	2013	42F4F2CC	MOBICOM
+7CAA472A	Fine-grained spectrum adaptation in WiFi networks	2013	42F4F2CC	MOBICOM
+79F62CF6	FluidNet: a flexible cloud-based radio access network for small cells	2013	42F4F2CC	MOBICOM
+77D2F012	How voice calls affect data in operational LTE networks	2013	42F4F2CC	MOBICOM
+76FCD468	Interference alignment by motion	2013	42F4F2CC	MOBICOM
+7550E1B2	Last call for the buffet: economics of cellular networks	2013	42F4F2CC	MOBICOM
+7A494AC3	LightSync: unsynchronized visual communication over screen-camera links	2013	42F4F2CC	MOBICOM
+7E5BED5F	NEMOx: scalable network MIMO for wireless networks	2013	42F4F2CC	MOBICOM
+7B107250	Observing home wireless experience through WiFi APs	2013	42F4F2CC	MOBICOM
+7A32677B	Optimal throughput and delay in delay-tolerant networks with ballistic mobility	2013	42F4F2CC	MOBICOM
+78C8A1CF	ParkSense: a smartphone based sensing system for on-street parking	2013	42F4F2CC	MOBICOM
+7A1401B7	RF-compass: robot object manipulation using RFIDs	2013	42F4F2CC	MOBICOM
+75B948DF	SafeSlinger: easy-to-use and secure public-key exchange	2013	42F4F2CC	MOBICOM
+7A82C2DC	Secure unlocking of mobile touch screen devices by simple gestures: you can see it but you can not do it	2013	42F4F2CC	MOBICOM
+7595AEB5	SecureArray: improving wifi security with fine-grained physical-layer information	2013	42F4F2CC	MOBICOM
+788CB8F1	Symphony: cooperative packet recovery over the wired backbone in enterprise WLANs	2013	42F4F2CC	MOBICOM
+814B0C65	Understanding RFID counting protocols	2013	42F4F2CC	MOBICOM
+77E47199	Using crowd-sourced viewing statistics to save energy in wireless video streaming	2013	42F4F2CC	MOBICOM
+7FA23539	Whole-home gesture recognition using wireless signals	2013	42F4F2CC	MOBICOM
+774C0702	ZIMO: building cross-technology MIMO to harmonize zigbee smog with WiFi flash without intervention	2013	42F4F2CC	MOBICOM
+7DA82F44	A case for enhancing dual radio repeater performance through striping, aggregation, and channel sharing	2014	42F4F2CC	MOBICOM
+75E1A1AE	A practical traffic management system for integrated LTE-WiFi networks	2014	42F4F2CC	MOBICOM
+7D0EFA10	A vehicle-based measurement framework for enhancing whitespace spectrum databases	2014	42F4F2CC	MOBICOM
+7803A0B5	Accurate indoor localization with zero start-up cost	2014	42F4F2CC	MOBICOM
+7C830258	BBN: throughput scaling in dense enterprise WLANs with Bind Beamforming and Nulling	2014	42F4F2CC	MOBICOM
+7C6E6ACF	Caiipa: automated large-scale mobile app testing through contextual fuzzing	2014	42F4F2CC	MOBICOM
+75A01A2B	Combating inter-cell interference in 802.11ac-based multi-user MIMO networks	2014	42F4F2CC	MOBICOM
+7F11D16E	Cutting the cord: a robust wireless facilities network for data centers	2014	42F4F2CC	MOBICOM
+7C099B08	Demo: Luxapose: indoor positioning with mobile phones and visible light	2014	42F4F2CC	MOBICOM
+7D8B3762	Demystifying 60GHz outdoor picocells	2014	42F4F2CC	MOBICOM
+7C527BE6	Discovering fine-grained RRC state dynamics and performance impacts in cellular networks	2014	42F4F2CC	MOBICOM
+817A8C45	E-eyes: device-free location-oriented activity identification using fine-grained WiFi signatures	2014	42F4F2CC	MOBICOM
+754B5AC4	EkhoNet: high speed ultra low-power backscatter for next generation sensors	2014	42F4F2CC	MOBICOM
+7DD8CC32	Enabling instantaneous feedback with full-duplex backscatter	2014	42F4F2CC	MOBICOM
+7558B3B6	Enabling physical analytics in retail stores using smart glasses	2014	42F4F2CC	MOBICOM
+759427FB	Enfold: downclocking OFDM in WiFi	2014	42F4F2CC	MOBICOM
+78419785	Enhancing reliability to boost the throughput over screen-camera links	2014	42F4F2CC	MOBICOM
+79BEF093	Experiencing and handling the diversity in data density and environmental locality in an indoor positioning service	2014	42F4F2CC	MOBICOM
+767C5BA4	Exploring human mobility with multi-source data at extremely large metropolitan scales	2014	42F4F2CC	MOBICOM
+7A87A304	Full-duplex without strings: enabling full-duplex with half-duplex clients	2014	42F4F2CC	MOBICOM
+779FDF38	It starts with iGaze: visual attention driven networking with smart glasses	2014	42F4F2CC	MOBICOM
+7601DF42	Itus: an implicit authentication framework for android	2014	42F4F2CC	MOBICOM
+7C970D40	Jigsaw: indoor floor plan reconstruction via mobile crowdsensing	2014	42F4F2CC	MOBICOM
+7D9B2481	Magnetic MIMO: how to charge your phone in your pocket	2014	42F4F2CC	MOBICOM
+75626D09	Modeling web quality-of-experience on cellular networks	2014	42F4F2CC	MOBICOM
+75E4A060	Phaser: enabling phased array signal processing on commodity WiFi access points	2014	42F4F2CC	MOBICOM
+7CEA5934	Rethink energy accounting with cooperative game theory	2014	42F4F2CC	MOBICOM
+780284EF	Robust network compressive sensing	2014	42F4F2CC	MOBICOM
+7A3C0A3B	Strata: layered coding for scalable visual communication	2014	42F4F2CC	MOBICOM
+7B614B55	Tagoram: real-time tracking of mobile RFID tags to high precision using COTS devices	2014	42F4F2CC	MOBICOM
+7AF9DF79	The case for UHF-band MU-MIMO	2014	42F4F2CC	MOBICOM
+80D2CADB	Travi-Navi: self-deployable indoor navigation system	2014	42F4F2CC	MOBICOM
+7C038DEB	Use it free: instantly knowing your phone attitude	2014	42F4F2CC	MOBICOM
+79F5708B	We can hear you with Wi-Fi!	2014	42F4F2CC	MOBICOM
+7B6B2402	Where are you from?: confusing location distinction using virtual multipath camouflage	2014	42F4F2CC	MOBICOM
+755F2152	Wireless barcodes for tagging infrastructure	2014	42F4F2CC	MOBICOM
+799D8453	ABSENCE: Usage-based Failure Detection in Mobile Networks	2015	42F4F2CC	MOBICOM
+78BC88FA	Acoustic Eavesdropping through Wireless Vibrometry	2015	42F4F2CC	MOBICOM
+78AAF8FF	AirExpress: Enabling Seamless In-band Wireless Multi-hop Transmission	2015	42F4F2CC	MOBICOM
+7D4758E1	CAreDroid: Adaptation Framework for Android Context-Aware Applications	2015	42F4F2CC	MOBICOM
+7B01F6A9	CIDER: Enabling Robustness-Power Tradeoffs on a Computational Eyeglass	2015	42F4F2CC	MOBICOM
+767D4D3A	Come and Be Served: Parallel Decoding for COTS RFID Tags	2015	42F4F2CC	MOBICOM
+7B31DD14	Control Channel Design for Many-Antenna MU-MIMO	2015	42F4F2CC	MOBICOM
+79D5ADDD	Demo: Optimizing Smartphone Power Consumption through Dynamic Resolution Scaling	2015	42F4F2CC	MOBICOM
+75E11BF0	EchoTag: Accurate Infrastructure-Free Indoor Location Tagging with Smartphones	2015	42F4F2CC	MOBICOM
+7AC93C2F	EcoDrive: A Mobile Sensing and Control System for Fuel Efficient Driving	2015	42F4F2CC	MOBICOM
+77B7474C	Experience: Rethinking RRC State Machine Optimization in Light of Recent Advancements	2015	42F4F2CC	MOBICOM
+7C0F2452	Extending Mobile Interaction Through Near-Field Visible Light Sensing	2015	42F4F2CC	MOBICOM
+75F39AE9	FlexiWeb: Network-Aware Compaction for Accelerating Mobile Web Transfers	2015	42F4F2CC	MOBICOM
+79776D7A	FreeBee: Cross-technology Communication via Free Side-channel	2015	42F4F2CC	MOBICOM
+76E54D34	Hekaton: Efficient and Practical Large-Scale MIMO	2015	42F4F2CC	MOBICOM
+7A3529E3	Human Sensing Using Visible Light Communication	2015	42F4F2CC	MOBICOM
+78CEFBBE	Kaleido: You Can Watch It But Cannot Record It	2015	42F4F2CC	MOBICOM
+77DBA331	Keystroke Recognition Using WiFi Signals	2015	42F4F2CC	MOBICOM
+7C7FA184	Last-Mile Navigation Using Smartphones	2015	42F4F2CC	MOBICOM
+7C2266A3	MoLe: Motion Leaks through Smartwatch Sensors	2015	42F4F2CC	MOBICOM
+76DCF5F8	Performance Characterization and Call Reliability Diagnosis Support for Voice over LTE	2015	42F4F2CC	MOBICOM
+7B07618E	Precise Power Delay Profiling with Commodity WiFi	2015	42F4F2CC	MOBICOM
+7AFF3C26	QuickSync: Improving Synchronization Efficiency for Mobile Cloud Storage Services	2015	42F4F2CC	MOBICOM
+7AB2530C	Recitation: Rehearsing Wireless Packet Reception in Software	2015	42F4F2CC	MOBICOM
+7BD1EC9A	Rethinking Energy-Performance Trade-Off in Mobile Web Page Loading	2015	42F4F2CC	MOBICOM
+7901F51A	Reusing 60GHz Radios for Mobile Radar Imaging	2015	42F4F2CC	MOBICOM
+775E2672	SAMPLES: Self Adaptive Mining of Persistent LExical Snippets for Classifying Mobile Application Traffic	2015	42F4F2CC	MOBICOM
+76FAA2EF	See Through Walls with COTS RFID System!	2015	42F4F2CC	MOBICOM
+7E100564	Smartphone Background Activities in the Wild: Origin, Energy Drain, and Optimization	2015	42F4F2CC	MOBICOM
+7E10FB96	Snooping Keystrokes with mm-level Audio Ranging on a Single Phone	2015	42F4F2CC	MOBICOM
+7C5BF7DF	The Design and Implementation of a Wireless Video Surveillance System	2015	42F4F2CC	MOBICOM
+800235D9	ToneTrack: Leveraging Frequency-Agile Radios for Time-Based Indoor Wireless Localization	2015	42F4F2CC	MOBICOM
+7CE535FB	Understanding and Modeling of WiFi Signal Based Human Activity Recognition	2015	42F4F2CC	MOBICOM
+7B5738A1	WiDraw: Enabling Hands-free Drawing in the Air on Commodity WiFi Devices	2015	42F4F2CC	MOBICOM
+80E70F8E	Wireless Power Hotspot that Charges All of Your Devices	2015	42F4F2CC	MOBICOM
+781CD543	mTrack: High-Precision Passive Tracking Using Millimeter Wave Radios	2015	42F4F2CC	MOBICOM
+7B815212	mZig: Enabling Multi-Packet Reception in ZigBee	2015	42F4F2CC	MOBICOM
+7C38E4F4	piStream: Physical Layer Informed Adaptive Video Streaming over LTE	2015	42F4F2CC	MOBICOM

@@ -1,0 +1,717 @@
+7B809115	2D-interval predictions for time series	2011	436976F3	KDD
+80438F9A	A GPU-tailored approach for training kernelized SVMs	2011	436976F3	KDD
+7DEAB4D2	A case study in a recommender system based on purchase data	2011	436976F3	KDD
+785A92C5	A game theoretic framework for heterogenous information network clustering	2011	436976F3	KDD
+79126BBA	A multi-task learning formulation for predicting disease progression	2011	436976F3	KDD
+760F0DEF	A pattern discovery approach to retail fraud detection	2011	436976F3	KDD
+7B06CE87	A simple statistical model and association rule filtering for classification	2011	436976F3	KDD
+7570038D	A time-dependent topic model for multiple text streams	2011	436976F3	KDD
+8171D51B	Active learning for node classification in assortative and disassortative networks	2011	436976F3	KDD
+7784977D	Active learning using on-line algorithms	2011	436976F3	KDD
+79BD377A	Activity analysis based on low sample rate smart meters	2011	436976F3	KDD
+769B0391	Algorithms for speeding up distance-based outlier detection	2011	436976F3	KDD
+7831AF91	Ameliorating buyer's remorse	2011	436976F3	KDD
+77E37A8B	An effective evaluation measure for clustering on evolving data streams	2011	436976F3	KDD
+7E08F1EE	An improved GLMNET for l1-regularized logistic regression	2011	436976F3	KDD
+7BC89778	An information theoretic framework for data mining	2011	436976F3	KDD
+7604AD5E	An iterated graph laplacian approach for ranking on manifolds	2011	436976F3	KDD
+7C8E16AD	Anomaly localization for network data streams with graph joint sparse PCA	2011	436976F3	KDD
+7F41904A	Applying data mining techniques to address disaster information management challenges on mobile devices	2011	436976F3	KDD
+7A0679D4	Approximate kernel k-means: solution to large scale kernel clustering	2011	436976F3	KDD
+7F2FE609	Ask me better questions: active learning queries based on rule induction	2011	436976F3	KDD
+7ABA1201	Automatically tagging email by leveraging other users' folders	2011	436976F3	KDD
+7F949B7D	Axiomatic ranking of network role similarity	2011	436976F3	KDD
+793C4FBA	Benefits of bias: towards better characterization of network sampling	2011	436976F3	KDD
+773EF092	Beyond keyword search: discovering relevant scientific literature	2011	436976F3	KDD
+790EA4E5	Bid landscape forecasting in online ad exchange marketplace	2011	436976F3	KDD
+7A855648	Bounded coordinate-descent for biological sequence classification in high dimensional predictor space	2011	436976F3	KDD
+7C5276DE	Brain effective connectivity modeling for alzheimer's disease by sparse gaussian bayesian network	2011	436976F3	KDD
+7D3E4D05	CHIRP: a new classifier based on composite hypercubes on iterated random projections	2011	436976F3	KDD
+7803CA8B	Classification of functional magnetic resonance imaging data using informative pattern features	2011	436976F3	KDD
+766B0D9A	Classification of proxy labeled examples for marketing segment generation	2011	436976F3	KDD
+7AFD915B	Click shaping to optimize multiple objectives	2011	436976F3	KDD
+78CD10E4	Clustering very large multi-dimensional datasets with MapReduce	2011	436976F3	KDD
+75D1D1A6	Clustering with relative constraints	2011	436976F3	KDD
+7F4D91E8	Collaborative topic modeling for recommending scientific articles	2011	436976F3	KDD
+811B19DA	Collective graph identification	2011	436976F3	KDD
+787A0BCA	Combining file content and file relations for cloud based malware detection	2011	436976F3	KDD
+81784B7A	Common component analysis for multiple covariance matrices	2011	436976F3	KDD
+75333E66	Compression of weighted graphs	2011	436976F3	KDD
+7D288836	Conditional topical coding: an efficient topic model conditioned on rich features	2011	436976F3	KDD
+7A1CECF7	Content-driven trust propagation framework	2011	436976F3	KDD
+80D8449F	Cost-aware travel tour recommendation	2011	436976F3	KDD
+78DE61A7	Data-driven multi-touch attribution models	2011	436976F3	KDD
+78024B48	Democrats, republicans and starbucks afficionados: user classification in twitter	2011	436976F3	KDD
+7942BB92	Density estimation trees	2011	436976F3	KDD
+7D32631E	Detecting adversarial advertisements in the wild	2011	436976F3	KDD
+7DCEBD7C	Detecting bots via incremental LS-SVM learning with dynamic feature adaptation	2011	436976F3	KDD
+77838212	Differentially private data release for data mining	2011	436976F3	KDD
+75FC33F4	Direct local pattern sampling by efficient two-step random procedures	2011	436976F3	KDD
+7B294A1F	Discovering highly reliable subgraphs in uncertain graphs	2011	436976F3	KDD
+767032AE	Discovering shakers from evolving entities via cascading graph inference	2011	436976F3	KDD
+7E3849D2	Discovering spatio-temporal causal interactions in traffic data streams	2011	436976F3	KDD
+81366C54	Display advertising impact: search lift and social influence	2011	436976F3	KDD
+75C61CBD	Diversified ranking on large graphs: an optimization viewpoint	2011	436976F3	KDD
+7CF13BC9	Diversity in ranking via resistive graph centers	2011	436976F3	KDD
+8176B8D9	Driving with knowledge from the physical world	2011	436976F3	KDD
+7D850319	Dual active feature and sample selection for graph classification	2011	436976F3	KDD
+7675C5C0	Enabling fast prediction for ensemble models on data streams	2011	436976F3	KDD
+77973F4D	Enhancing investment decisions in P2P lending: an investor composition perspective	2011	436976F3	KDD
+7B38629A	Entity disambiguation with hierarchical topic models	2011	436976F3	KDD
+806B71D8	Estimating the number of users behind ip addresses for combating abusive traffic	2011	436976F3	KDD
+771E8E77	Experiences with mining temporal event sequences from electronic medical records: initial successes and some challenges	2011	436976F3	KDD
+774A17CE	Exploiting place features in link prediction on location-based social networks	2011	436976F3	KDD
+7751BB60	Exploiting vulnerability to secure user privacy on a social networking site	2011	436976F3	KDD
+766A8B03	Fast approximate similarity search based on degree-reduced neighborhood graphs	2011	436976F3	KDD
+7945C6F6	Fast clustering using MapReduce	2011	436976F3	KDD
+7890246E	Fast coordinate descent methods with variable selection for non-negative matrix factorization	2011	436976F3	KDD
+7C9FA39B	Fast locality-sensitive hashing	2011	436976F3	KDD
+7DD298CE	Friendship and mobility: user movement in location-based social networks	2011	436976F3	KDD
+78F2DA72	From bias to opinion: a transfer-learning approach to real-time sentiment analysis	2011	436976F3	KDD
+79AE5EE0	From market baskets to mole rats: using data mining techniques to analyze RFID data describing laboratory animal behavior	2011	436976F3	KDD
+75BC6D51	GBASE: a scalable and general graph management system	2011	436976F3	KDD
+761D3EF4	High-precision phrase-based document classification on a modern scale	2011	436976F3	KDD
+7D3C5E23	Human mobility, social ties, and link prediction	2011	436976F3	KDD
+76B52B37	I want to answer; who has a question?: Yahoo! answers recommender system	2011	436976F3	KDD
+7C127424	INCONCO: interpretable clustering of numerical and categorical objects	2011	436976F3	KDD
+798BC726	Improving predictions using aggregate information	2011	436976F3	KDD
+7FA715BB	Incorporating SAT solvers into hierarchical clustering algorithms: an efficient and flexible approach	2011	436976F3	KDD
+7849B496	Integrating low-rank and group-sparse structures for robust multi-task learning	2011	436976F3	KDD
+7F1A5710	Interactive learning for efficiently detecting errors in insurance claims	2011	436976F3	KDD
+7749CF84	It's who you know: graph mining using recursive structural features	2011	436976F3	KDD
+7606A5E8	Large-scale matrix factorization with distributed stochastic gradient descent	2011	436976F3	KDD
+785AA954	Latent aspect rating analysis without aspect keyword supervision	2011	436976F3	KDD
+767A3B64	Latent graphical models for quantifying and predicting patent quality	2011	436976F3	KDD
+7EF3908C	Latent topic feedback for information retrieval	2011	436976F3	KDD
+79E2622F	Leakage in data mining: formulation, detection, and avoidance	2011	436976F3	KDD
+7978678B	Learning to trade off between exploration and exploitation in multiclass bandit prediction	2011	436976F3	KDD
+77FFAEE0	Leveraging collaborative tagging for web item design	2011	436976F3	KDD
+7BAA1952	Linear scale semantic mining algorithms in microsoft SQL server's semantic platform	2011	436976F3	KDD
+7F6A6227	Localized factor models for multi-context recommendation	2011	436976F3	KDD
+77E09B97	Logical-shapelets: an expressive primitive for time series classification	2011	436976F3	KDD
+79F2FE8D	Matching unstructured product offers to structured product specifications	2011	436976F3	KDD
+80F1B99F	Meta optimization and its application to portfolio selection	2011	436976F3	KDD
+774BCDCA	Mining closed episodes with simultaneous events	2011	436976F3	KDD
+7C50C56C	Mining frequent closed graphs on evolving data streams	2011	436976F3	KDD
+77A4C1C2	Mining mobility data to minimise travellers' spending on public transport	2011	436976F3	KDD
+7C68D8ED	Mining mobility user profiles for car pooling	2011	436976F3	KDD
+78ED887C	Mining partially annotated images	2011	436976F3	KDD
+76628E17	Model order selection for boolean matrix factorization	2011	436976F3	KDD
+75FCF40B	Multi-source domain adaptation and its application to early detection of fatigue	2011	436976F3	KDD
+7D969A67	Multi-view transfer learning with a large margin approach	2011	436976F3	KDD
+805B07EF	MultiRank: co-ranking for objects and relations in multi-relational data	2011	436976F3	KDD
+7982DA7C	Multiple domain user personalization	2011	436976F3	KDD
+7750C877	NIMBLE: a toolkit for the implementation of parallel data mining and machine learning algorithms on mapreduce	2011	436976F3	KDD
+7C5AEF0E	On dynamic data-driven selection of sensor streams	2011	436976F3	KDD
+79DC72F3	On the privacy of anonymized networks	2011	436976F3	KDD
+7A76DF4C	On the semantic annotation of places in location-based social networks	2011	436976F3	KDD
+7C93A6BD	Online active inference and learning	2011	436976F3	KDD
+7F69055A	Online heterogeneous mixture modeling with marginal and copula selection	2011	436976F3	KDD
+7C1C3F36	Ontology enhancement and concept granularity learning: keeping yourself current and adaptive	2011	436976F3	KDD
+808C88FA	Partially labeled topic models for interpretable text mining	2011	436976F3	KDD
+7BB26E48	Personal privacy vs population privacy: learning to attack anonymization	2011	436976F3	KDD
+7D2D3260	Predictive client-side profiles for personalized advertising	2011	436976F3	KDD
+78C4C238	Privacy-preserving social network publication against friendship attacks	2011	436976F3	KDD
+80966267	Probabilistic topic models with biased propagation on heterogeneous information networks	2011	436976F3	KDD
+786BA16D	Prominent streak discovery in sequence data	2011	436976F3	KDD
+7781AC2F	Protecting location privacy using location semantics	2011	436976F3	KDD
+7AD6264D	Rank aggregation via nuclear norm minimization	2011	436976F3	KDD
+80506FC8	Ranking-based classification of heterogeneous information networks	2011	436976F3	KDD
+79394DAD	Real-time bidding algorithms for performance-based display ad allocation	2011	436976F3	KDD
+7E3D6F36	Refining causality: who copied from whom?	2011	436976F3	KDD
+7848FD5E	Response prediction using collaborative filtering with hierarchies and side-information	2011	436976F3	KDD
+81196185	Revisiting sequential pattern hiding to enhance utility	2011	436976F3	KDD
+7AA3D292	Sampling hidden objects using nearest-neighbor oracles	2011	436976F3	KDD
+7FB47B44	Scalable distributed inference of dynamic user interests for behavioral targeting	2011	436976F3	KDD
+7E8B295B	Scalable kNN search on vertically stored time series	2011	436976F3	KDD
+7D6F75C7	Selecting a comprehensive set of reviews	2011	436976F3	KDD
+75749D92	Selective block minimization for faster convergence of limited memory large-scale linear models	2011	436976F3	KDD
+80544B4F	Semi-supervised ranking on very large graphs with rich metadata	2011	436976F3	KDD
+7A6FD39A	Serendipitous learning: learning beyond the predefined label space	2011	436976F3	KDD
+7B1D372A	Smoothing techniques for adaptive online language models: topic tracking in tweet streams	2011	436976F3	KDD
+76196B82	Sparsification of influence networks	2011	436976F3	KDD
+7A3E891D	Spatially regularized logistic regression for disease mapping on large moving populations	2011	436976F3	KDD
+753CB37E	Stackelberg games for adversarial prediction problems	2011	436976F3	KDD
+753963A3	Supervised learning for provenance-similarity of binaries	2011	436976F3	KDD
+7DD824DF	Tell me what i need to know: succinctly summarizing data with itemsets	2011	436976F3	KDD
+76A8DC37	Temporal multi-hierarchy smoothing for estimating rates of rare events	2011	436976F3	KDD
+80C7F194	ThermoCast: a cyber-physical forecasting model for datacenters	2011	436976F3	KDD
+7E3D033C	Toward personalized care management of patients at risk: the diabetes case study	2011	436976F3	KDD
+7623D8A7	Towards bounding sequential patterns	2011	436976F3	KDD
+7662D395	Tracking trends: incorporating term volume into temporal topic models	2011	436976F3	KDD
+7576D5C8	Trading representability for scalability: adaptive multi-hyperplane machine for nonlinear classification	2011	436976F3	KDD
+77F7AB91	Triangle listing in massive networks and its applications	2011	436976F3	KDD
+7AE2D030	Two-locus association mapping in subquadratic time	2011	436976F3	KDD
+7DB0D363	Unbiased online active learning in data streams	2011	436976F3	KDD
+803F170F	Understanding atrophy trajectories in alzheimer's disease using association rules on MRI images	2011	436976F3	KDD
+791C890D	Unsupervised clustering of multidimensional distributions using earth mover distance	2011	436976F3	KDD
+773F37B6	User reputation in a comment rating environment	2011	436976F3	KDD
+7F434470	User-click modeling for understanding and predicting search-behavior	2011	436976F3	KDD
+7FC449DD	User-level sentiment analysis incorporating social networks	2011	436976F3	KDD
+7B6313E6	Web information extraction using markov logic networks	2011	436976F3	KDD
+7ABBFFC8	k-NN as an implementation of situation testing for discrimination discovery and prevention	2011	436976F3	KDD
+79AFBB48	A near-linear time approximation algorithm for angle-based outlier detection in high-dimensional data	2012	436976F3	KDD
+7B124E2C	A probabilistic model for multimodal hash function learning	2012	436976F3	KDD
+7E921509	A shapelet transform for time series classification	2012	436976F3	KDD
+798974AD	A simple methodology for soft cost-sensitive classification	2012	436976F3	KDD
+7C28DB92	A sparsity-inducing formulation for evolutionary co-clustering	2012	436976F3	KDD
+7DED10F2	A structural cluster kernel for learning on graphs	2012	436976F3	KDD
+7B34B87B	Accelerated singular value thresholding for matrix completion	2012	436976F3	KDD
+7DC22A9A	Active learning for online bayesian matrix factorization	2012	436976F3	KDD
+7A59AFE2	Active sampling for entity matching	2012	436976F3	KDD
+7F0A1023	Active spectral clustering via iterative uncertainty reduction	2012	436976F3	KDD
+7FEC987C	Adversarial support vector machine learning	2012	436976F3	KDD
+7CFDB84B	Aggregating web offers to determine product prices	2012	436976F3	KDD
+7BD3426D	An enhanced relevance criterion for more concise supervised pattern discovery	2012	436976F3	KDD
+761CD995	Anonymizing set-valued data by nonreciprocal recoding	2012	436976F3	KDD
+7D2C8B77	Automatic taxonomy construction from keywords	2012	436976F3	KDD
+77988546	Batch mode active sampling based on marginal probability distribution matching	2012	436976F3	KDD
+79FB731E	Capacitated team formation problem on social networks	2012	436976F3	KDD
+802EF192	Chromatic correlation clustering	2012	436976F3	KDD
+7EC06AFB	Circle-based recommendation in online social networks	2012	436976F3	KDD
+75A82EDC	ComSoc: adaptive transfer of user behaviors over composite social network	2012	436976F3	KDD
+7ECA85C2	Cross-domain collaboration recommendation	2012	436976F3	KDD
+7E830514	DEMON: a local-first discovery method for overlapping communities	2012	436976F3	KDD
+764FE306	Dependency clustering across measurement scales	2012	436976F3	KDD
+7D28A28A	Detecting changes of clustering structures using normalized maximum likelihood coding	2012	436976F3	KDD
+7737946A	Different slopes for different folks: mining for exceptional regression models with cook's distance	2012	436976F3	KDD
+7D2E0BFA	Discovering lag intervals for temporal dependencies	2012	436976F3	KDD
+7F38747B	Discovering value from community activity on focused question answering sites: a case study of stack overflow	2012	436976F3	KDD
+7A92E4EC	Discriminative clustering for market segmentation	2012	436976F3	KDD
+7E0D8CF0	Efficient and domain-invariant competitor mining	2012	436976F3	KDD
+7CD72E11	Efficient evaluation of large sequence kernels	2012	436976F3	KDD
+787D4881	Efficient event pattern matching with match windows	2012	436976F3	KDD
+81789EAA	Efficient frequent item counting in multi-core hardware	2012	436976F3	KDD
+7AA9F3B7	Efficient personalized pagerank with accuracy assurance	2012	436976F3	KDD
+8098DB5B	Estimating entity importance via counting set covers	2012	436976F3	KDD
+7ECF78FA	Event-based social networks: linking the online and offline social worlds	2012	436976F3	KDD
+80E4980E	Factoring past exposure in display advertising targeting	2012	436976F3	KDD
+7BDFC168	Fast algorithms for comprehensive n-point correlation estimates	2012	436976F3	KDD
+750A3C95	Fast algorithms for maximal clique enumeration with limited memory	2012	436976F3	KDD
+7C4A3B13	Fast bregman divergence NMF using taylor expansion and coordinate descent	2012	436976F3	KDD
+7953526B	Fast mining and forecasting of complex time-stamped events	2012	436976F3	KDD
+76F125FA	Feature grouping and selection over an undirected graph	2012	436976F3	KDD
+7F5571DC	Finding minimum representative pattern sets	2012	436976F3	KDD
+7CF9A15F	Finding trendsetters in information networks	2012	436976F3	KDD
+7E508F43	From user comments to on-line conversations	2012	436976F3	KDD
+7D5F3A8F	GigaTensor: scaling tensor analysis up by 100 times - algorithms and discoveries	2012	436976F3	KDD
+7C2DE249	Incorporating heterogeneous information for personalized tag recommendation in social tagging systems	2012	436976F3	KDD
+7B8E9824	Inductive multi-task learning with multiple view data	2012	436976F3	KDD
+7DBDFCF2	Information diffusion and external influence in networks	2012	436976F3	KDD
+7C4C978B	Integrating community matching and outlier detection for mining evolutionary community outliers	2012	436976F3	KDD
+7D17CA80	Integrating meta-path selection with user-guided object clustering in heterogeneous information networks	2012	436976F3	KDD
+8017A590	Intelligible models for classification and regression	2012	436976F3	KDD
+81674DED	Interacting viruses in networks: can both survive?	2012	436976F3	KDD
+7DB33DE9	Intrusion as (anti)social communication: characterization and detection	2012	436976F3	KDD
+80C04A10	Joint optimization of bid and budget allocation in sponsored search	2012	436976F3	KDD
+7789A014	LIEGE:: link entities in web lists with knowledge base	2012	436976F3	KDD
+7994F4CE	Large-scale distributed non-negative sparse coding and sparse dictionary learning	2012	436976F3	KDD
+7FB5DEA5	Large-scale learning of word relatedness with constraints	2012	436976F3	KDD
+7DDF2F57	Latent association analysis of document pairs	2012	436976F3	KDD
+7AC6D873	Learning binary codes for collaborative filtering	2012	436976F3	KDD
+80E9F01A	Learning from crowds in the presence of schools of thought	2012	436976F3	KDD
+7CF680AF	Learning in non-stationary environments with class imbalance	2012	436976F3	KDD
+776DDA18	Learning personal + social latent factor model for social recommendation	2012	436976F3	KDD
+794EA1B5	Linear space direct pattern sampling using coupling from the past	2012	436976F3	KDD
+789261AB	Linear support vector machines via dual cached loops	2012	436976F3	KDD
+7DE27B4F	Locally-scaled spectral clustering using empty region graphs	2012	436976F3	KDD
+78E8AA99	Low rank modeling of signed networks	2012	436976F3	KDD
+77B50100	Magnet community identification on social networks	2012	436976F3	KDD
+77D483C2	Maximum inner-product search using cone trees	2012	436976F3	KDD
+752D911F	Metro maps of science	2012	436976F3	KDD
+777F7B5D	Mining coherent subgraphs in multi-layer graphs with edge labels	2012	436976F3	KDD
+7EBB3E92	Mining contentions from discussions and debates	2012	436976F3	KDD
+7AAF16B8	Mining discriminative components with low-rank and sparsity constraints for face recognition	2012	436976F3	KDD
+7BB6827B	Mining emerging patterns by streaming feature selection	2012	436976F3	KDD
+7E3122B0	Mining event periodicity from incomplete observations	2012	436976F3	KDD
+7E89E87D	Mining large-scale, sparse GPS traces for map inference: comparison of approaches	2012	436976F3	KDD
+80A683BD	Mining recent temporal patterns for event detection in multivariate time series data	2012	436976F3	KDD
+80E0C662	Mining top-K high utility itemsets	2012	436976F3	KDD
+774C82E3	Model mining for robust feature selection	2012	436976F3	KDD
+771D1B0A	Modeling disease progression via fused sparse group lasso	2012	436976F3	KDD
+7F41B3CD	Multi-domain active learning for text classification	2012	436976F3	KDD
+7D213DFA	Multi-label hypothesis reuse	2012	436976F3	KDD
+7ABF46D7	Multi-view clustering using mixture models in subspace projections	2012	436976F3	KDD
+7C36AD50	NASA: achieving lower regrets and faster rates via adaptive stepsizes	2012	436976F3	KDD
+7DC43ABB	On "one of the few" objects	2012	436976F3	KDD
+7D960B31	On nested palindromes in clickstream data	2012	436976F3	KDD
+7A5A3A94	On socio-spatial group query for location-based social networks	2012	436976F3	KDD
+7AD2B9FF	On the separability of structural classes of communities	2012	436976F3	KDD
+7A338F49	Online allocation of display ads with smooth delivery	2012	436976F3	KDD
+7C763582	Online learning to diversify from implicit feedback	2012	436976F3	KDD
+7E948236	Open domain event extraction from twitter	2012	436976F3	KDD
+7BC8F2E2	Optimal exact least squares rank minimization	2012	436976F3	KDD
+7E19FC8F	Overlapping community detection via bounded nonnegative matrix tri-factorization	2012	436976F3	KDD
+809FD34A	Overlapping decomposition for causal graphical modeling	2012	436976F3	KDD
+75E20F04	PageRank on an evolving graph	2012	436976F3	KDD
+814099AC	Parallel field ranking	2012	436976F3	KDD
+76929676	Playlist prediction via metric embedding	2012	436976F3	KDD
+7A72A3FC	Practical collapsed variational bayes inference for hierarchical dirichlet process	2012	436976F3	KDD
+7783AEBA	Random forests for metric learning with implicit pairwise position dependence	2012	436976F3	KDD
+7F6E0765	Rank-loss support instance machines for MIML instance annotation	2012	436976F3	KDD
+79CA0047	RecMax: exploiting recommender systems for fun and profit	2012	436976F3	KDD
+7F5B9B7A	Review spam detection via temporal pattern discovery	2012	436976F3	KDD
+7FA0E29A	Rise and fall patterns of information diffusion: model and implications	2012	436976F3	KDD
+79273448	Robust multi-task feature learning	2012	436976F3	KDD
+7AA5C914	RolX: structural role extraction & mining in large graphs	2012	436976F3	KDD
+79E2C875	SHALE: an efficient algorithm for allocation of guaranteed display advertising	2012	436976F3	KDD
+7FF460DE	SPF-GMKL: generalized multiple kernel learning with a million kernels	2012	436976F3	KDD
+753C348D	Sampling minimal frequent boolean (DNF) patterns	2012	436976F3	KDD
+7D20CF55	Searching and mining trillions of time series subsequences under dynamic time warping	2012	436976F3	KDD
+7D7AD160	Selecting a characteristic set of reviews	2012	436976F3	KDD
+7C737442	Semi-supervised learning with mixed knowledge information	2012	436976F3	KDD
+7C54250E	SeqiBloc: mining multi-time spanning blockmodels in dynamic graphs	2012	436976F3	KDD
+78F27FEA	Stratified k-means clustering over a deep web data source	2012	436976F3	KDD
+7584B263	Streaming graph partitioning for large distributed graphs	2012	436976F3	KDD
+797C8A8B	Subspace correlation clustering: finding locally correlated dimensions in subspace projections of the data	2012	436976F3	KDD
+7FF46803	Summarization-based mining bipartite graphs	2012	436976F3	KDD
+79FDD323	TM-LDA: efficient online modeling of latent topic transitions in social media	2012	436976F3	KDD
+803D1B62	Testing the significance of spatio-temporal teleconnection patterns	2012	436976F3	KDD
+7D72D04B	The contextual focused topic model	2012	436976F3	KDD
+806328ED	The long and the short of it: summarising event sequences with serial episodes	2012	436976F3	KDD
+7668E038	The missing models: a data-driven approach for learning how networks grow	2012	436976F3	KDD
+7738D5D4	The untold story of the clones: content-agnostic factors that impact YouTube video popularity	2012	436976F3	KDD
+7D5ADBBF	Towards heterogeneous temporal clinical event pattern discovery: a convolutional approach	2012	436976F3	KDD
+8131C058	Towards social user profiling: unified and discriminative influence model for inferring home locations	2012	436976F3	KDD
+7A23DADA	Transductive multi-label ensemble classification for protein function prediction	2012	436976F3	KDD
+79C86B52	Transparent user models for personalization	2012	436976F3	KDD
+78F90669	Two approaches to understanding when constraints help clustering	2012	436976F3	KDD
+7FCF8F92	USpan: an efficient algorithm for mining high utility sequential patterns	2012	436976F3	KDD
+7870B6F5	Unsupervised feature selection for linked social media data	2012	436976F3	KDD
+814BBADD	Vertex neighborhoods, low conductance cuts, and good seeds for local community methods	2012	436976F3	KDD
+76EF0A91	Web image prediction using multivariate point processes	2012	436976F3	KDD
+7A1A1B10	eTrust: understanding trust evolution in an online world	2012	436976F3	KDD
+772FDEC1	A data-driven method for in-game decision making in MLB: when to pull a starting pitcher	2013	436976F3	KDD
+753989D5	A general bootstrap performance diagnostic	2013	436976F3	KDD
+77745F1E	A new collaborative filtering approach for increasing the aggregate diversity of recommender systems	2013	436976F3	KDD
+79B03344	A phrase mining framework for recursive construction of a topical hierarchy	2013	436976F3	KDD
+790FDBB8	A space efficient streaming algorithm for triangle counting using the birthday paradox	2013	436976F3	KDD
+791B1465	A time-dependent enhanced support vector machine for time series regression	2013	436976F3	KDD
+7B8AE097	A “semi-lazy” approach to probabilistic path prediction in dynamic environments	2013	436976F3	KDD
+7A01E9B1	Accurate intelligible models with pairwise interactions	2013	436976F3	KDD
+782EF14A	Active learning and search on low-rank matrices	2013	436976F3	KDD
+7B5E806A	Active search on graphs	2013	436976F3	KDD
+7FEE750A	Adaptive collective routing using gaussian process dynamic congestion models	2013	436976F3	KDD
+77BDCB01	An efficient ADMM algorithm for multidimensional anisotropic total variation regularization problems	2013	436976F3	KDD
+7BE7CED2	Approximate graph mining with label costs	2013	436976F3	KDD
+7D523418	Auto-WEKA: combined selection and hyperparameter optimization of classification algorithms	2013	436976F3	KDD
+796E659B	Automatic selection of social media responses to news	2013	436976F3	KDD
+76744675	Beyond myopic inference in big data pipelines	2013	436976F3	KDD
+77310ABF	Big data analytics with small footprint: squaring the cloud	2013	436976F3	KDD
+76C3B73E	Cascading outbreak prediction in networks: a data-driven approach	2013	436976F3	KDD
+75E0F95A	Collaborative boosting for activity classification in microblogs	2013	436976F3	KDD
+78F56564	Collaborative matrix factorization with multiple similarities for predicting drug-target interactions	2013	436976F3	KDD
+7692EFFA	Combining latent factor model with location features for event-based group recommendation	2013	436976F3	KDD
+7898255D	Comparing apples to oranges: a scalable solution with heterogeneous hashing	2013	436976F3	KDD
+7A0295DE	Confluence: conformity influence in large social networks	2013	436976F3	KDD
+760ECA0B	Connecting users across social media sites: a behavioral-modeling approach	2013	436976F3	KDD
+779D91C2	Constrained stochastic gradient descent for large-scale least squares problem	2013	436976F3	KDD
+8053177B	Cost-sensitive online active learning with application to malicious URL detection	2013	436976F3	KDD
+79E5F9BD	Cross-task crowdsourcing	2013	436976F3	KDD
+75F90BA3	DTW-D: time series semi-supervised learning from a single example	2013	436976F3	KDD
+76065173	Debiasing social wisdom	2013	436976F3	KDD
+7E58EF06	Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees	2013	436976F3	KDD
+7FDF1C57	Density-based logistic regression	2013	436976F3	KDD
+77154F05	Direct optimization of ranking measures for learning to rank models	2013	436976F3	KDD
+80FF7C7F	Discovering latent influence in online social activities via shared cascade poisson processes	2013	436976F3	KDD
+797FF4AA	Diversity maximization under matroid constraints	2013	436976F3	KDD
+7631516D	Efficient single-source shortest path and distance queries on large graphs	2013	436976F3	KDD
+7EA5A89D	Estimating sharer reputation via social data calibration	2013	436976F3	KDD
+813A2642	Evaluating the crowd with confidence	2013	436976F3	KDD
+7BB8CF2C	Exact sparse recovery with L0 projections	2013	436976F3	KDD
+791F8CD7	Exploiting user clicks for automatic seed set generation for entity matching	2013	436976F3	KDD
+7BDD64D2	Extracting social events for learning better information diffusion models	2013	436976F3	KDD
+7DB39222	FISM: factored item similarity models for top-N recommender systems	2013	436976F3	KDD
+7FF70F58	Fast and scalable polynomial kernels via explicit feature maps	2013	436976F3	KDD
+7BD566E7	Fast rank-2 nonnegative matrix factorization for hierarchical document clustering	2013	436976F3	KDD
+762B2D04	Fast structure learning in generalized stochastic processes with latent factors	2013	436976F3	KDD
+8164C65F	FeaFiner: biomarker identification from medical data through feature generalization and selection	2013	436976F3	KDD
+785B46F2	Flexible and robust co-regularized multi-domain graph clustering	2013	436976F3	KDD
+78AC98A2	Geo-spotting: mining online location-based services for optimal retail store placement	2013	436976F3	KDD
+80527216	Graph cluster randomization: network exposure to multiple universes	2013	436976F3	KDD
+7F368791	Guided learning for role discovery (GLRD): framework, algorithms, and applications	2013	436976F3	KDD
+81637598	Indexed block coordinate descent for large-scale linear classification with limited memory	2013	436976F3	KDD
+754EE207	Inferring social roles and statuses in social networks	2013	436976F3	KDD
+814D8E23	Information cartography: creating zoomable, large-scale maps of information	2013	436976F3	KDD
+7A9A964D	Information cascade at group scale	2013	436976F3	KDD
+80239089	LCARS: a location-content-aware recommender system	2013	436976F3	KDD
+77CACCE2	Learning geographical preferences for point-of-interest recommendation	2013	436976F3	KDD
+810D4DAD	Learning mixed kronecker product graph models with simulated method of moments	2013	436976F3	KDD
+8118C76C	Learning to question: leveraging user preferences for shopping advice	2013	436976F3	KDD
+81519991	Link prediction with social vector clocks	2013	436976F3	KDD
+7A9C0C0F	Linking named entities in Tweets with knowledge base via user interest modeling	2013	436976F3	KDD
+80B5BC48	Location-aware publish/subscribe	2013	436976F3	KDD
+79818726	MI2LS: multi-instance learning from multiple informationsources	2013	436976F3	KDD
+77E38555	Making recommendations from multiple domains	2013	436976F3	KDD
+7954A379	Massively parallel expectation maximization using graphics processing units	2013	436976F3	KDD
+7D88B601	Maximizing acceptance probability for active friending in online social networks	2013	436976F3	KDD
+7587D7D4	Measuring spontaneous devaluations in user preferences	2013	436976F3	KDD
+7B988D95	Mining discriminative subgraphs from global-state networks	2013	436976F3	KDD
+7DEA288B	Mining evidences for named entity disambiguation	2013	436976F3	KDD
+7C835D09	Mining evolutionary multi-branch trees from text streams	2013	436976F3	KDD
+785D5B0C	Mining frequent graph patterns with differential privacy	2013	436976F3	KDD
+7585B76B	Mining high utility episodes in complex event sequences	2013	436976F3	KDD
+791E29C2	Mining lines in the sand: on trajectory discovery from untrustworthy data in cyber-physical system	2013	436976F3	KDD
+7557430F	Model selection in markovian processes	2013	436976F3	KDD
+7578F74D	Model-based kernel for efficient time series analysis	2013	436976F3	KDD
+789E3220	Modeling the dynamics of composite social networks	2013	436976F3	KDD
+7D6D7169	Multi-label classification by mining label and instance correlations from heterogeneous information networks	2013	436976F3	KDD
+80F89C62	Multi-label relational neighbor classification using social context features	2013	436976F3	KDD
+7B8E3AFB	Multi-source deep learning for information trustworthiness estimation	2013	436976F3	KDD
+7CB78A5E	Multi-source learning with block-wise missing data for Alzheimer's disease prediction	2013	436976F3	KDD
+7B49E85D	Multi-space probabilistic sequence modeling	2013	436976F3	KDD
+7F51C438	Network discovery via constrained tensor analysis of fMRI data	2013	436976F3	KDD
+7E249C86	Nonparametric hierarchal bayesian modeling in non-contractual heterogeneous survival data	2013	436976F3	KDD
+7E04540B	On community detection in real-world networks and the importance of degree assortativity	2013	436976F3	KDD
+76FC1599	On the equivalent of low-rank linear regressions and linear discriminant analysis based regressions	2013	436976F3	KDD
+7AA44B52	One theme in all views: modeling consensus topics in multiple contexts	2013	436976F3	KDD
+79B4EED9	Optimizing parallel belief propagation in junction treesusing regression	2013	436976F3	KDD
+7BBD4146	Privacy-preserving data exploration in genome-wide association studies	2013	436976F3	KDD
+75473AF6	Psychological advertising: exploring user psychology for click prediction in sponsored search	2013	436976F3	KDD
+7D1F0340	Quadratic optimization to identify highly heritable quantitative traits from complex phenotypic features	2013	436976F3	KDD
+76AFD3A3	Querying discriminative and representative samples for batch mode active learning	2013	436976F3	KDD
+7F629034	Recursive regularization for large-scale classification with hierarchical and graphical dependencies	2013	436976F3	KDD
+7EE9DE72	Redundancy-aware maximal cliques	2013	436976F3	KDD
+78453EE8	Repetition-aware content placement in navigational networks	2013	436976F3	KDD
+7653BB89	Representing documents through their readers	2013	436976F3	KDD
+7DE16B59	Restreaming graph partitioning: simple versatile algorithms for advanced balancing	2013	436976F3	KDD
+7C87B851	Robust principal component analysis via capped norms	2013	436976F3	KDD
+81579747	Robust sparse estimation of multiresponse regression and inverse covariance matrix via the L2 distance	2013	436976F3	KDD
+7628462A	SIGMa: simple greedy matching for aligning large knowledge bases	2013	436976F3	KDD
+764B0F7A	STRIP: stream learning of influence probabilities	2013	436976F3	KDD
+78E15A42	SVM pAUC tight : a new support vector method for optimizing partial AUC based on a tight convex upper bound	2013	436976F3	KDD
+81547477	Scalable all-pairs similarity search in metric spaces	2013	436976F3	KDD
+7AA5730D	Scalable inference in max-margin topic models	2013	436976F3	KDD
+761AC9D2	Scalable text and link analysis with mixed-topic link models	2013	436976F3	KDD
+75FE5634	Selective sampling on graphs for classification	2013	436976F3	KDD
+7AAC7BAC	Silence is also evidence: interpreting dwell time for recommendation from psychological perspective	2013	436976F3	KDD
+7C7AD2D7	Simple and deterministic matrix sketching	2013	436976F3	KDD
+78B36795	Social influence based clustering of heterogeneous information networks	2013	436976F3	KDD
+7CA21D6C	Speeding up large-scale learning with a social prior	2013	436976F3	KDD
+782DC737	Spotting opinion spammers using behavioral footprints	2013	436976F3	KDD
+7E8F6385	Statistical quality estimation for general crowdsourcing tasks	2013	436976F3	KDD
+7753B6F0	Stochastic collapsed variational Bayesian inference for latent Dirichlet allocation	2013	436976F3	KDD
+769E9CCC	Subsampling for efficient and effective unsupervised outlier detection ensembles	2013	436976F3	KDD
+770584F4	Succinct interval-splitting tree for scalable similarity search of compound-protein pairs with property constraints	2013	436976F3	KDD
+7D70E37C	Summarizing probabilistic frequent patterns: a fast approach	2013	436976F3	KDD
+7E7051EF	Synthetic review spamming and defense	2013	436976F3	KDD
+78EA02D6	Text-based measures of document diversity	2013	436976F3	KDD
+7DFD095C	The bang for the buck: fair competitive viral marketing from the host perspective	2013	436976F3	KDD
+811F9396	The role of information diffusion in the evolution of social networks	2013	436976F3	KDD
+76351FB8	Towards never-ending learning from time series streams	2013	436976F3	KDD
+7F13B2AE	Trace complexity of network inference	2013	436976F3	KDD
+7867A555	Trial and error in influential social networks	2013	436976F3	KDD
+7678E53F	TurboGraph: a fast parallel graph engine handling billion-scale graphs in a single PC	2013	436976F3	KDD
+80D18D44	Understanding evolution of research themes: a probabilistic generative model for citations	2013	436976F3	KDD
+775696BA	Unsupervised link prediction using aggregative statistics on heterogeneous social networks	2013	436976F3	KDD
+8041E4C7	Who, where, when and what: discover spatio-temporal topics for twitter users	2013	436976F3	KDD
+76EEFFE8	WiseMarket: a new paradigm for managing wisdom of online social users	2013	436976F3	KDD
+7CB35D30	A bayesian framework for estimating properties of network diffusions	2014	436976F3	KDD
+78BEBDD3	A cost-effective recommender system for taxi drivers	2014	436976F3	KDD
+7AE67003	A dirichlet multinomial mixture model-based approach for short text clustering	2014	436976F3	KDD
+7BB095AC	A multi-class boosting method with direct optimization	2014	436976F3	KDD
+78E500B5	Active collaborative permutation learning	2014	436976F3	KDD
+7F4CB30D	Active learning for sparse bayesian multilabel classification	2014	436976F3	KDD
+7E1C622E	Active semi-supervised learning using sampling theory for graph signals	2014	436976F3	KDD
+7A40922B	Active-transductive learning with label-adapted kernels	2014	436976F3	KDD
+7920CCC3	Activity-edge centric multi-label classification for mining heterogeneous information networks	2014	436976F3	KDD
+7DEB0C4E	Almost linear-time algorithms for adaptive betweenness centrality using hypergraph sketches	2014	436976F3	KDD
+768F10CC	An efficient algorithm for weak hierarchical lasso	2014	436976F3	KDD
+76ABEBCD	Analyzing expert behaviors in collaborative networks	2014	436976F3	KDD
+8121B25D	Balanced graph edge partition	2014	436976F3	KDD
+7B345738	Batch discovery of recurring rare classes toward identifying anomalous samples	2014	436976F3	KDD
+76D04225	Box drawings for learning with imbalanced data	2014	436976F3	KDD
+7B10DC60	COM: a generative model for group recommendation	2014	436976F3	KDD
+7D418997	CatchSync: catching synchronized behavior in large directed graphs	2014	436976F3	KDD
+7A877E17	Class-distribution regularized consensus maximization for alleviating overfitting in model combination	2014	436976F3	KDD
+7F645BD5	Clinical risk prediction with multilinear sparse logistic regression	2014	436976F3	KDD
+80FFFBDD	ClusCite: effective citation recommendation by information network-based clustering	2014	436976F3	KDD
+75F68336	Clustering and projected clustering with adaptive neighbors	2014	436976F3	KDD
+7B93B258	Community detection in graphs through correlation	2014	436976F3	KDD
+75EA5368	Community membership identification from small seed sets	2014	436976F3	KDD
+7F26A319	Core decomposition of uncertain graphs	2014	436976F3	KDD
+7958656B	Correlation clustering in MapReduce	2014	436976F3	KDD
+7AD0CFCB	Crowdsourced time-sync video tagging using temporal and personalized topic modeling	2014	436976F3	KDD
+80706E98	DeepWalk: online learning of social representations	2014	436976F3	KDD
+786A0711	Detecting anomalies in dynamic rating data: a robust probabilistic model for rating evolution	2014	436976F3	KDD
+77297459	Detecting moving object outliers in massive-scale trajectory streams	2014	436976F3	KDD
+7B18E270	Differentially private network data release via structural inference	2014	436976F3	KDD
+7CC9091C	Distance metric learning using dropout: a structured regularization approach	2014	436976F3	KDD
+784F3371	Distance queries from sampled data: accurate and efficient	2014	436976F3	KDD
+7F99D446	Dual beta process priors for latent cluster discovery in chronic obstructive pulmonary disease	2014	436976F3	KDD
+7F69A85E	Dynamics of news events and social media reaction	2014	436976F3	KDD
+7F4F4FC8	Effective global approaches for mutual information based feature selection	2014	436976F3	KDD
+7B88DC81	Efficient mini-batch training for stochastic optimization	2014	436976F3	KDD
+77CA4BC7	Efficient multi-task feature learning with calibration	2014	436976F3	KDD
+792CEEBD	Empirical glitch explanations	2014	436976F3	KDD
+7ACF6A80	Entity profiling with varying source reliabilities	2014	436976F3	KDD
+7639860A	Event detection in activity networks	2014	436976F3	KDD
+7593D5C7	Experiments with non-parametric topic models	2014	436976F3	KDD
+7F8B770A	Exploiting geographic dependencies for real estate appraisal: a mutual perspective of ranking and clustering	2014	436976F3	KDD
+7AE45562	Exponential random graph estimation under differential privacy	2014	436976F3	KDD
+7ED88782	FAST-PPR: scaling personalized pagerank estimation for large graphs	2014	436976F3	KDD
+7ED43CAA	FBLG: a simple and effective approach for temporal dependence discovery from time series data	2014	436976F3	KDD
+786333F5	FEMA: flexible evolutionary multi-faceted analysis for dynamic behavioral pattern discovery	2014	436976F3	KDD
+765336BE	FUNNEL: automatic mining of spatially coevolving epidemics	2014	436976F3	KDD
+78D8717B	Factorized sparse learning models with interpretable high order feature interactions	2014	436976F3	KDD
+7CDFC7BC	Fast DTT: a near linear algorithm for decomposing a tensor into factor tensors	2014	436976F3	KDD
+76D99E3C	Fast flux discriminant for large-scale sparse nonlinear classification	2014	436976F3	KDD
+8155B0BD	Fast influence-based coarsening for large networks	2014	436976F3	KDD
+7B4450F0	FastXML: a fast, accurate and stable tree-classifier for extreme multi-label learning	2014	436976F3	KDD
+7DE91D43	Focused clustering and outlier detection in large attributed graphs	2014	436976F3	KDD
+80C4A2DF	From labor to trader: opinion elicitation via online crowds as a market	2014	436976F3	KDD
+771ADC9E	From micro to macro: data driven phenotyping by densification of longitudinal electronic medical records	2014	436976F3	KDD
+78951354	GLAD: group anomaly detection in social media analysis	2014	436976F3	KDD
+78470A76	GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation	2014	436976F3	KDD
+7F368C3F	Good-enough brain model: challenges, algorithms and discoveries in multi-subject experiments	2014	436976F3	KDD
+7C7563B8	Gradient boosted feature selection	2014	436976F3	KDD
+7EA08C45	Graph sample and hold: a framework for big-graph analytics	2014	436976F3	KDD
+780A47AA	Grouping students in educational settings	2014	436976F3	KDD
+782DE2A4	Heat kernel based community detection	2014	436976F3	KDD
+7597CB55	Identifying and labeling search tasks via query-based hawkes processes	2014	436976F3	KDD
+763339F4	Improved testing of low rank matrices	2014	436976F3	KDD
+7D8F59B8	Improving the modified nyström method using spectral shifting	2014	436976F3	KDD
+7ACAD961	Incremental and decremental training for linear classification	2014	436976F3	KDD
+805B2B89	Inferring gas consumption and pollution emission of vehicles throughout a city	2014	436976F3	KDD
+7B176352	Inferring user demographics and social strategies in mobile social networks	2014	436976F3	KDD
+7ED0B535	Inside the atoms: ranking on a network of networks	2014	436976F3	KDD
+7927DE32	Integrating spreadsheet data via accurate and low-effort extraction	2014	436976F3	KDD
+7FBB2BEC	Jointly modeling aspects, ratings and sentiments for movie recommendation (JMARS)	2014	436976F3	KDD
+783538B2	Knowledge vault: a web-scale approach to probabilistic knowledge fusion	2014	436976F3	KDD
+781A1035	LUDIA: an aggregate-constrained low-rank reconstruction algorithm to leverage publicly released health data	2014	436976F3	KDD
+7714FA26	LWI-SVD: low-rank, windowed, incremental singular value decompositions on time-evolving data sets	2014	436976F3	KDD
+79748FEC	LaSEWeb: automating search strategies over semi-structured web data	2014	436976F3	KDD
+7844D41E	Large margin distribution machine	2014	436976F3	KDD
+79DD46A0	Large-scale adaptive semi-supervised learning via unified inductive and transductive model	2014	436976F3	KDD
+75258EDF	Learning multifractal structure in large networks	2014	436976F3	KDD
+75EB8F0B	Learning time-series shapelets	2014	436976F3	KDD
+766F71DB	Learning with dual heterogeneity: a nonparametric bayes model	2014	436976F3	KDD
+7584397A	Leveraging user libraries to bootstrap collaborative filtering	2014	436976F3	KDD
+7933100B	MMRate: inferring multi-aspect diffusion networks with multi-pattern cascades	2014	436976F3	KDD
+755E5645	Marble: high-throughput phenotyping from electronic health records via sparse nonnegative tensor factorization	2014	436976F3	KDD
+796C3F23	Matching users and items across domains to improve the recommendation quality	2014	436976F3	KDD
+788E229E	Meta-path based multi-network collective link prediction	2014	436976F3	KDD
+811D0A29	Methods for ordinal peer grading	2014	436976F3	KDD
+76740B15	Minimizing seed set selection with probabilistic coverage guarantee in a social network	2014	436976F3	KDD
+76F68042	Mining topics in documents: standing on the shoulders of big data	2014	436976F3	KDD
+7A583A51	Mobile app recommendations with security and privacy awareness	2014	436976F3	KDD
+78833C75	Modeling delayed feedback in display advertising	2014	436976F3	KDD
+767352E7	Modeling human location data with mixtures of kernel densities	2014	436976F3	KDD
+77FBC745	Multi-task copula by sparse graph regression	2014	436976F3	KDD
+7A8AF9A5	Networked bandits with disjoint linear payoffs	2014	436976F3	KDD
+7987CF38	Non-parametric scan statistics for event detection and forecasting in heterogeneous social media graphs	2014	436976F3	KDD
+7DC1FF67	On social event organization	2014	436976F3	KDD
+75574F4B	On the permanence of vertices in network communities	2014	436976F3	KDD
+7B556102	Online chinese restaurant process	2014	436976F3	KDD
+78F2B3C5	Online multiple kernel regression	2014	436976F3	KDD
+7C96944A	Open question answering over curated and extracted knowledge bases	2014	436976F3	KDD
+78FDADE3	Open-domain quantity queries on web tables: annotation, response, and consensus models	2014	436976F3	KDD
+8023AF25	Optimal real-time bidding for display advertising	2014	436976F3	KDD
+80085C10	Optimal recommendations under attraction, aversion, and social influence	2014	436976F3	KDD
+80DE6121	Parallel gibbs sampling for hierarchical dirichlet processes via gamma processes equivalence	2014	436976F3	KDD
+7595122A	People on drugs: credibility of user statements in health communities	2014	436976F3	KDD
+7F57B08E	Personalized search result diversification via structured learning	2014	436976F3	KDD
+7D43897C	Predicting long-term impact of CQA posts: a comprehensive viewpoint	2014	436976F3	KDD
+754E387C	Prediction of human emergency behavior and their mobility following large-scale disaster	2014	436976F3	KDD
+81364B12	Probabilistic latent network visualization: inferring and embedding diffusion networks	2014	436976F3	KDD
+7E4F554E	Product selection problem: improve market share by learning consumer behavior	2014	436976F3	KDD
+7BEF5D8F	Profit-maximizing cluster hires	2014	436976F3	KDD
+7B9760AF	Prototype-based learning on concept-drifting data streams	2014	436976F3	KDD
+7DC1475F	Provable deterministic leverage score sampling	2014	436976F3	KDD
+77F96E4F	Quantifying herding effects in crowd wisdom	2014	436976F3	KDD
+7A53055F	Reducing the sampling complexity of topic models	2014	436976F3	KDD
+76B9E0D1	Relevant overlapping subspace clusters on categorical data	2014	436976F3	KDD
+7845CF8E	Representative clustering of uncertain data	2014	436976F3	KDD
+7EAB3B3E	SMVC: semi-supervised multi-view clustering in subspace projections	2014	436976F3	KDD
+805B4441	Safe and efficient screening for sparse support vector machine	2014	436976F3	KDD
+79FD6AC6	Scalable diffusion-aware optimization of network topology	2014	436976F3	KDD
+7CC2095B	Scalable heterogeneous translated hashing	2014	436976F3	KDD
+7C727132	Scalable histograms on large probabilistic data	2014	436976F3	KDD
+7A1B6EB0	Scalable noise mining in long-term electrocardiographic time-series to predict death following heart attacks	2014	436976F3	KDD
+7660DD3E	Scaling out big data missing value imputations: pythia vs. godzilla	2014	436976F3	KDD
+780DB557	Semantic visualization for spherical representation	2014	436976F3	KDD
+763A6B05	Sentiment expression conditioned by affective transitions and social forces	2014	436976F3	KDD
+784B9099	SigniTrend: scalable detection of emerging topics in textual streams by hashed significance thresholds	2014	436976F3	KDD
+7A77BDD2	Simultaneous feature and feature group selection through hard thresholding	2014	436976F3	KDD
+7CCB68C8	Sleep analytics and online selective anomaly detection	2014	436976F3	KDD
+7CB5F18B	Stability of influence maximization	2014	436976F3	KDD
+7757A20E	Streamed approximate counting of distinct elements: beating optimal batch methods	2014	436976F3	KDD
+77167074	Streaming submodular maximization: massive data summarization on the fly	2014	436976F3	KDD
+7944511F	Supervised deep learning with auxiliary networks	2014	436976F3	KDD
+762FFED5	TCS: efficient topic discovery over crowd-oriented service data	2014	436976F3	KDD
+772082F5	Temporal skeletonization on sequential data: patterns, categorization, and visualization	2014	436976F3	KDD
+7F308AD5	The interplay between dynamics and networks: centrality, communities, and cheeger inequality	2014	436976F3	KDD
+7950FD69	The setwise stream classification problem	2014	436976F3	KDD
+80F6983C	Time-varying learning and content analytics via sparse factor analysis	2014	436976F3	KDD
+7BA51E18	Top-k frequent itemsets via differentially private FP-trees	2014	436976F3	KDD
+798B14F4	Topic-factorized ideal point estimation model for legislative voting network	2014	436976F3	KDD
+7AF3298D	Towards scalable critical alert mining	2014	436976F3	KDD
+7FD21A37	Travel time estimation of a path using sparse trajectories	2014	436976F3	KDD
+7906F392	Unfolding physiological state: mortality modelling in intensive care units	2014	436976F3	KDD
+7C5689AE	Unifying learning to rank and domain adaptation: enabling cross-task document scoring	2014	436976F3	KDD
+7732926A	Unsupervised learning of disease progression models	2014	436976F3	KDD
+7CA467EA	User effort minimization through adaptive diversification	2014	436976F3	KDD
+7B5CA0BD	Using strong triadic closure to characterize ties in social networks	2014	436976F3	KDD
+7760BD9D	Utilizing temporal patterns for estimating uncertainty in interpretable early decision making	2014	436976F3	KDD
+7774A074	Who are experts specializing in landscape photography?: analyzing topic-specific authority on content sharing services	2014	436976F3	KDD
+7B4083DB	Who to follow and why: link prediction with explanations	2014	436976F3	KDD
+7727BC06	0-Bit Consistent Weighted Sampling	2015	436976F3	KDD
+75CE093C	A Clustering-Based Framework to Control Block Sizes for Entity Resolution	2015	436976F3	KDD
+76234756	A Collective Bayesian Poisson Factorization Model for Cold-start Local Event Recommendation	2015	436976F3	KDD
+7E5DAA5D	A Decision Tree Framework for Spatiotemporal Sequence Prediction	2015	436976F3	KDD
+775C0E14	A Deep Hybrid Model for Weather Forecasting	2015	436976F3	KDD
+77849E43	A Learning-based Framework to Handle Multi-round Multi-party Influence Maximization on Social Networks	2015	436976F3	KDD
+75258DF1	A PCA-Based Change Detection Framework for Multidimensional Data Streams: Change Detection in Multidimensional Data Streams	2015	436976F3	KDD
+78C557AB	Accelerated Alternating Direction Method of Multipliers	2015	436976F3	KDD
+7FFDEBF8	Accelerating Dynamic Time Warping Clustering with a Novel Admissible Pruning Strategy	2015	436976F3	KDD
+793B3F1D	Adaptation Algorithm and Theory Based on Generalized Discrepancy	2015	436976F3	KDD
+78CC7CF2	Adaptive Message Update for Fast Affinity Propagation	2015	436976F3	KDD
+7B57F0F9	Algorithmic Cartography: Placing Points of Interest and Ads on Maps	2015	436976F3	KDD
+754BA2DC	An Effective Marketing Strategy for Revenue Maximization with a Quantity Constraint	2015	436976F3	KDD
+7AC1B2EE	An Efficient Semi-Supervised Clustering Algorithm with Sequential Constraints	2015	436976F3	KDD
+7B116590	An Evaluation of Parallel Eccentricity Estimation Algorithms on Undirected Real-World Graphs	2015	436976F3	KDD
+807FB688	Anatomical Annotations for Drosophila Gene Expression Patterns via Multi-Dimensional Visual Descriptors Integration: Multi-Dimensional Feature Learning	2015	436976F3	KDD
+76882E1E	Assembler: Efficient Discovery of Spatial Co-evolving Patterns in Massive Geo-sensory Data	2015	436976F3	KDD
+79EA02DE	BatchRank: A Novel Batch Mode Active Learning Framework for Hierarchical Classification	2015	436976F3	KDD
+76EEE838	Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts	2015	436976F3	KDD
+75ADEE47	Beyond Triangles: A Distributed Framework for Estimating 3-profiles of Large Graphs	2015	436976F3	KDD
+7AAB2515	COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency	2015	436976F3	KDD
+78109633	Certifying and Removing Disparate Impact	2015	436976F3	KDD
+7789BA10	Cinema Data Mining: The Smell of Fear	2015	436976F3	KDD
+78287425	ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering	2015	436976F3	KDD
+755CA69A	Co-Clustering based Dual Prediction for Cargo Pricing Optimization	2015	436976F3	KDD
+809EA859	Collaborative Deep Learning for Recommender Systems	2015	436976F3	KDD
+7B070790	Collective Opinion Spam Detection: Bridging Review Networks and Metadata	2015	436976F3	KDD
+7923C486	Community Detection based on Distance Dynamics	2015	436976F3	KDD
+7EE7F010	CoupledLP: Link Prediction in Coupled Networks	2015	436976F3	KDD
+7969E167	Cuckoo Linear Algebra	2015	436976F3	KDD
+7BADEC97	Data-Driven Activity Prediction: Algorithms, Evaluation Methodology, and Applications	2015	436976F3	KDD
+79A06FF5	Debiasing Crowdsourced Batches	2015	436976F3	KDD
+79C5047A	Deep Computational Phenotyping	2015	436976F3	KDD
+77BCBD84	Deep Graph Kernels	2015	436976F3	KDD
+7CC46570	Deep Learning Architecture with Dynamically Programmed Layers for Brain Connectome Prediction	2015	436976F3	KDD
+7A46DD22	Deep Model Based Transfer and Multi-Task Learning for Biological Image Analysis	2015	436976F3	KDD
+76D8E055	Differentially Private High-Dimensional Data Publication via Sampling-Based Inference	2015	436976F3	KDD
+7C2189EC	Dimensionality Reduction Via Graph Structure Learning	2015	436976F3	KDD
+7F69DE17	Dirichlet-Hawkes Processes with Applications to Clustering Continuous-Time Document Streams	2015	436976F3	KDD
+75F7795C	Discovering Valuable items from Massive Data	2015	436976F3	KDD
+7CD65A88	Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning	2015	436976F3	KDD
+775D5FDD	Discovery of Meaningful Rules in Time Series	2015	436976F3	KDD
+7CC00E2D	Diversifying Restricted Boltzmann Machine for Document Modeling	2015	436976F3	KDD
+7BDAA981	Dynamic Matrix Factorization with Priors on Unknown Values	2015	436976F3	KDD
+77927054	Dynamic Poisson Autoregression for Influenza-Like-Illness Case Count Prediction	2015	436976F3	KDD
+80E7EF88	Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data	2015	436976F3	KDD
+7D990CE0	Dynamically Modeling Patient's Health State from Electronic Medical Records: A Time Series Approach	2015	436976F3	KDD
+7A1E9F94	Edge-Weighted Personalized PageRank: Breaking A Decade-Old Performance Barrier	2015	436976F3	KDD
+752B4BA9	Efficient Algorithms for Public-Private Social Networks	2015	436976F3	KDD
+75A38856	Efficient Latent Link Recommendation in Signed Networks	2015	436976F3	KDD
+76BBCC6D	Efficient Online Evaluation of Big Data Stream Classifiers	2015	436976F3	KDD
+78D0A46E	Efficient PageRank Tracking in Evolving Networks	2015	436976F3	KDD
+7BF516DF	Entity Matching across Heterogeneous Sources	2015	436976F3	KDD
+7575B139	Estimating Local Intrinsic Dimensionality	2015	436976F3	KDD
+78B1577D	Exploiting Relevance Feedback in Knowledge Graph Search	2015	436976F3	KDD
+80E34C44	Extreme States Distribution Decomposition Method for Search Engine Online Evaluation	2015	436976F3	KDD
+7743F435	Facets: Fast Comprehensive Mining of Coevolving High-order Time Series	2015	436976F3	KDD
+7948247C	FaitCrowd: Fine Grained Truth Discovery for Crowdsourced Data Aggregation	2015	436976F3	KDD
+780F93A3	Fast and Memory-Efficient Significant Pattern Mining via Permutation Testing	2015	436976F3	KDD
+78EB4180	Fast and Robust Parallel SGD Matrix Factorization	2015	436976F3	KDD
+75A7078D	Flexible and Robust Multi-Network Clustering	2015	436976F3	KDD
+7B3D72D9	From Group to Individual Labels Using Deep Features	2015	436976F3	KDD
+7AE8D59A	Geo-SAGE: A Geographical Sparse Additive Generative Model for Spatial Item Recommendation	2015	436976F3	KDD
+7C297B2F	Graph Query Reformulation with Diversity	2015	436976F3	KDD
+7AF3C902	Heterogeneous Network Embedding via Deep Architectures	2015	436976F3	KDD
+779E02DB	Hierarchical Graph-Coupled HMMs for Heterogeneous Personalized Health Data	2015	436976F3	KDD
+7ACA8B9F	Improved Bounds on the Dot Product under Random Projection and Random Sign Projection	2015	436976F3	KDD
+7CB213ED	Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks	2015	436976F3	KDD
+7926A782	Inferring Air Quality for Station Location Recommendation Based on Urban Big Data	2015	436976F3	KDD
+76B2A1C5	Inferring Networks of Substitutable and Complementary Products	2015	436976F3	KDD
+7EE4AF8C	Influence at Scale: Distributed Computation of Complex Contagion in Networks	2015	436976F3	KDD
+7804CE56	Inside Jokes: Identifying Humorous Cartoon Captions	2015	436976F3	KDD
+75D7F3B9	Instance Weighting for Patient-Specific Risk Stratification Models	2015	436976F3	KDD
+7C72E74B	Integrating Vertex-centric Clustering with Edge-centric Clustering for Meta Path Graph Analysis	2015	436976F3	KDD
+7AC0C82D	LINKAGE: An Approach for Comprehensive Risk Prediction for Care Management	2015	436976F3	KDD
+7D48595E	Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC	2015	436976F3	KDD
+772874DA	Learning Tree Structure in Multi-Task Learning	2015	436976F3	KDD
+78069B44	Learning with Similarity Functions on Graphs using Matchings of Geometric Embeddings	2015	436976F3	KDD
+762467DF	Leveraging Social Context for Modeling Topic Evolution	2015	436976F3	KDD
+7C2FDE0B	Linear Time Samplers for Supervised Topic Models using Compositional Proposals	2015	436976F3	KDD
+7510EC5D	Locally Densest Subgraph Discovery	2015	436976F3	KDD
+7B108293	Longitudinal LASSO: Jointly Learning Features and Temporal Contingency for Outcome Prediction	2015	436976F3	KDD
+75B8BDDE	L∞ Error and Bandwidth Selection for Kernel Density Estimates of Large Data	2015	436976F3	KDD
+7975F87B	MASCOT: Memory-efficient and Accurate Sampling for Counting Local Triangles in Graph Streams	2015	436976F3	KDD
+77E68A50	Matrix Completion with Queries	2015	436976F3	KDD
+754728EC	Maximum Likelihood Postprocessing for Differential Privacy under Consistency Constraints	2015	436976F3	KDD
+7BE85BB3	Mining Frequent Itemsets through Progressive Sampling with Rademacher Averages	2015	436976F3	KDD
+7BEE6783	Model Multiple Heterogeneity via Hierarchical Multi-Latent Space Learning	2015	436976F3	KDD
+7C8B21CC	Modeling Truth Existence in Truth Discovery	2015	436976F3	KDD
+7582FD30	Modeling User Mobility for Location Promotion in Location-based Social Networks	2015	436976F3	KDD
+7AA7F8E3	Monitoring Least Squares Models of Distributed Streams	2015	436976F3	KDD
+7771063A	More Constraints, Smaller Coresets: Constrained Matrix Approximation of Sparse Big Data	2015	436976F3	KDD
+7A47E07D	Multi-Task Learning for Spatio-Temporal Event Forecasting	2015	436976F3	KDD
+7FC8BD84	Network Lasso: Clustering and Optimization in Large Graphs	2015	436976F3	KDD
+76ADC390	Non-exhaustive, Overlapping Clustering via Low-Rank Semidefinite Programming	2015	436976F3	KDD
+78447B51	Non-transitive Hashing with Latent Similarity Components	2015	436976F3	KDD
+7705DDCD	On Estimating the Swapping Rate for Categorical Data	2015	436976F3	KDD
+780AD692	On the Discovery of Evolving Truth	2015	436976F3	KDD
+751CCFA9	On the Formation of Circles in Co-authorship Networks	2015	436976F3	KDD
+75F9E729	Online Influence Maximization	2015	436976F3	KDD
+78576166	Online Outlier Exploration Over Large Datasets	2015	436976F3	KDD
+7E16D224	Optimal Action Extraction for Random Forests and Boosted Trees	2015	436976F3	KDD
+776C323D	Optimal Kernel Group Transformation for Exploratory Regression Analysis and Graphics	2015	436976F3	KDD
+770699BB	Organizational Chart Inference	2015	436976F3	KDD
+7FE42808	PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks	2015	436976F3	KDD
+78847B67	Panther: Fast Top-k Similarity Search on Large Networks	2015	436976F3	KDD
+784AB815	Performance Modeling and Scalability Optimization of Distributed Deep Learning Systems	2015	436976F3	KDD
+7E535A4F	Petuum: A New Platform for Distributed Machine Learning on Big Data	2015	436976F3	KDD
+7997147E	Portraying Collective Spatial Attention in Twitter	2015	436976F3	KDD
+7B99EC48	Predicting Winning Price in Real Time Bidding with Censored Data	2015	436976F3	KDD
+7BE20A17	Probabilistic Community and Role Model for Social Networks	2015	436976F3	KDD
+76A60377	Query Workloads for Data Series Indexes	2015	436976F3	KDD
+7A9A566B	Quick Sensitivity Analysis for Incremental Data Modification and Its Application to Leave-one-out CV in Linear Classification Problems	2015	436976F3	KDD
+7BE676F6	RSC: Mining and Modeling Temporal Activity in Social Media	2015	436976F3	KDD
+76C0706D	Real Estate Ranking via Mixed Land-use Latent Models	2015	436976F3	KDD
+75911E0E	Real Time Recommendations from Connoisseurs	2015	436976F3	KDD
+75D49540	Real-Time Top-R Topic Detection on Twitter with Topic Hijack Filtering	2015	436976F3	KDD
+7B04150E	Reciprocity in Social Networks with Capacity Constraints	2015	436976F3	KDD
+78B41B46	Reconstructing Textual Documents from n-grams	2015	436976F3	KDD
+77893B7D	Reducing the Unlabeled Sample Complexity of Semi-Supervised Multi-View Learning	2015	436976F3	KDD
+75C8CE50	Regularity and Conformity: Location Prediction Using Heterogeneous Mobility Data	2015	436976F3	KDD
+79A54021	Robust Treecode Approximation for Kernel Machines	2015	436976F3	KDD
+75D397F1	Rubik: Knowledge Guided Tensor Factorization and Completion for Health Data Analytics	2015	436976F3	KDD
+787905FD	SAME but Different: Fast and High Quality Gibbs Parameter Estimation	2015	436976F3	KDD
+7928A550	SCRAM: A Sharing Considered Route Assignment Mechanism for Fair Taxi Route Recommendations	2015	436976F3	KDD
+7A7B0FD9	SEISMIC: A Self-Exciting Point Process Model for Predicting Tweet Popularity	2015	436976F3	KDD
+76C55086	Scalable Blocking for Privacy Preserving Record Linkage	2015	436976F3	KDD
+7A761B36	Scalable Large Near-Clique Detection in Large-Scale Networks via Sampling	2015	436976F3	KDD
+798D942E	Scaling Up Stochastic Dual Coordinate Ascent	2015	436976F3	KDD
+75BE5E69	Selective Hashing: Closing the Gap between Radius Search and k-NN Search	2015	436976F3	KDD
+79E2EAB0	Set Cover at Web Scale	2015	436976F3	KDD
+7AAA7256	Simultaneous Discovery of Common and Discriminative Topics via Joint Nonnegative Matrix Factorization	2015	436976F3	KDD
+7C6C5FAE	Simultaneous Modeling of Multiple Diseases for Mortality Prediction in Acute Hospital Care	2015	436976F3	KDD
+77E4F8E6	Spectral Ensemble Clustering	2015	436976F3	KDD
+771AF659	State-Driven Dynamic Sensor Selection and Prediction with State-Stacked Sparseness	2015	436976F3	KDD
+759AD565	Statistical Arbitrage Mining for Display Advertising	2015	436976F3	KDD
+7A81E8D5	Stochastic Divergence Minimization for Online Collapsed Variational Bayes Zero Inference of Latent Dirichlet Allocation	2015	436976F3	KDD
+760819CC	Stream Sampling for Frequency Cap Statistics	2015	436976F3	KDD
+7BCD2652	Structural Graphical Lasso for Learning Mouse Brain Connectivity	2015	436976F3	KDD
+7A0D5180	Structured Hedging for Resource Allocations with Leverage	2015	436976F3	KDD
+7C8AF0A6	Subspace Clustering Using Log-determinant Rank Approximation	2015	436976F3	KDD
+78DEFD35	TOPTRAC: Topical Trajectory Pattern Mining	2015	436976F3	KDD
+7788F3EE	Temporal Phenotyping from Longitudinal Electronic Health Records: A Graph Based Framework	2015	436976F3	KDD
+75FB992B	The Child is Father of the Man: Foresee the Success at the Early Stage	2015	436976F3	KDD
+751A78FD	TimeCrunch: Interpretable Dynamic Graph Summarization	2015	436976F3	KDD
+7816FE91	TimeMachine: Timeline Generation for Knowledge-Base Entities	2015	436976F3	KDD
+75104B16	Towards Decision Support and Goal Achievement: Identifying Action-Outcome Relationships From Social Media	2015	436976F3	KDD
+7A1CA438	Towards Interactive Construction of Topical Hierarchy: A Recursive Tensor Decomposition Approach	2015	436976F3	KDD
+7AC24EE1	Trading Interpretability for Accuracy: Oblique Treed Sparse Additive Models	2015	436976F3	KDD
+765B55F1	Transitive Transfer Learning	2015	436976F3	KDD
+7762432D	Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data	2015	436976F3	KDD
+78DAF807	Unified and Contrasting Cuts in Multiple Graphs: Application to Medical Imaging Segmentation	2015	436976F3	KDD
+7B91EEDB	Unsupervised Feature Selection with Adaptive Structure Learning	2015	436976F3	KDD
+7916A698	Using Local Spectral Methods to Robustify Graph-Based Learning Algorithms	2015	436976F3	KDD
+773BDF52	VEWS: A Wikipedia Vandal Early Warning System	2015	436976F3	KDD
+761FC05D	Virus Propagation in Multiple Profile Networks	2015	436976F3	KDD
+77AB41CF	Warm Start for Parameter Selection of Linear Classifiers	2015	436976F3	KDD
+78C5253D	Website Optimization Problem and Its Solutions	2015	436976F3	KDD
+7B8FC80C	Who Supported Obama in 2012?: Ecological Inference through Distribution Regression	2015	436976F3	KDD
+79541ECF	Why It Happened: Identifying and Modeling the Reasons of the Happening of Social Events	2015	436976F3	KDD

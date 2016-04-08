@@ -1,0 +1,252 @@
+7AB34E32	ADDiff: semantic differencing for activity diagrams	2011	477F6C83	FSE
+7BFD6C72	Boosting the performance of flow-sensitive points-to analysis using value flow	2011	477F6C83	FSE
+7DA0D7B5	BugCache for inspections: hit or miss?	2011	477F6C83	FSE
+784EEC08	CSSL: a logic for specifying conditional scenarios	2011	477F6C83	FSE
+7A050622	Checking conformance of a producer and a consumer	2011	477F6C83	FSE
+7FF2E67F	Does adding manpower also affect quality?: an empirical, longitudinal analysis	2011	477F6C83	FSE
+7FE2DFAE	Don't touch my code!: examining the effects of ownership on software quality	2011	477F6C83	FSE
+813CD17F	Effective communication of software development knowledge through community portals	2011	477F6C83	FSE
+798FC754	Fault localization for data-centric programs	2011	477F6C83	FSE
+80C70DEF	Fuzzy set and cache-based approach for bug triaging	2011	477F6C83	FSE
+7D1738B8	High-impact defects: a study of breakage and surprise defects	2011	477F6C83	FSE
+7CAA6C72	How do fixes become bugs?	2011	477F6C83	FSE
+801DC053	Improved multithreaded unit testing	2011	477F6C83	FSE
+7F542AA2	Inferring data polymorphism in systems code	2011	477F6C83	FSE
+8035821B	Leveraging existing instrumentation to automatically infer invariant-constrained models	2011	477F6C83	FSE
+7FB9CD76	Managing performance vs. accuracy trade-offs with loop perforation	2011	477F6C83	FSE
+7B8D4E53	Micro interaction metrics for defect prediction	2011	477F6C83	FSE
+790E4621	Mitigating the confounding effects of program dependences for effective fault localization	2011	477F6C83	FSE
+752EB76A	Modeling the HTML DOM and browser API in static analysis of JavaScript web applications	2011	477F6C83	FSE
+7FAF78DE	On software component co-installability	2011	477F6C83	FSE
+7C2DCE2E	On the congruence of modularity and code coupling	2011	477F6C83	FSE
+7F0DFDF7	Partial replay of long-running applications	2011	477F6C83	FSE
+774E0315	Path exploration based on symbolic output	2011	477F6C83	FSE
+8133592D	Proactive detection of collaboration conflicts	2011	477F6C83	FSE
+7D99A15B	Proving programs robust	2011	477F6C83	FSE
+7B49BE5B	ReLink: recovering links between bugs and changes	2011	477F6C83	FSE
+77A479BB	Semistructured merge: rethinking merge in revision control systems	2011	477F6C83	FSE
+7E291788	Strong higher order mutation-based test data generation	2011	477F6C83	FSE
+80CE03AD	Synthesizing data structure manipulations from storyboards	2011	477F6C83	FSE
+8009D7AE	Taming uncertainty in self-adaptive software	2011	477F6C83	FSE
+7D75B473	Testing software in age of data privacy: a balancing act	2011	477F6C83	FSE
+758B2360	The onion patch: migration in open source ecosystems	2011	477F6C83	FSE
+7BE85A5B	Using an SMT solver for interactive requirements prioritization	2011	477F6C83	FSE
+8089D7B4	Version-consistent dynamic reconfiguration of component-based distributed systems	2011	477F6C83	FSE
+7B0D250F	A case study of cross-system porting in forked projects	2012	477F6C83	FSE
+8129B39C	A field study of refactoring challenges and benefits	2012	477F6C83	FSE
+7AE3B26E	AUSUM: approach for unsupervised bug report summarization	2012	477F6C83	FSE
+7C1B99CA	An industrial study on the risk of software changes	2012	477F6C83	FSE
+76F812E4	Assessing the value of branches with what-if analysis	2012	477F6C83	FSE
+7F065E89	Asynchronous programs with prioritized task-buffers	2012	477F6C83	FSE
+80DCF098	Automated concolic testing of smartphone apps	2012	477F6C83	FSE
+80306B7F	Automated extraction of security policies from natural-language software documents	2012	477F6C83	FSE
+80015576	Automating presentation changes in dynamic web applications via collaborative hybrid analysis	2012	477F6C83	FSE
+7E75D2B6	CarFast: achieving higher statement coverage faster	2012	477F6C83	FSE
+79E5E693	Conditional model checking: a technique to pass information between verifiers	2012	477F6C83	FSE
+7A00A429	DTAM: dynamic taint analysis of multi-threaded programs for relevancy	2012	477F6C83	FSE
+7FEB07ED	Detecting and analyzing insecure component usage	2012	477F6C83	FSE
+815D27C3	Do crosscutting concerns cause modularity problems?	2012	477F6C83	FSE
+76AA6B2F	Green: reducing, reusing and recycling constraints in program analysis	2012	477F6C83	FSE
+7D294C37	History slicing: assisting code-evolution tasks	2012	477F6C83	FSE
+75660DEB	How do developers react to API deprecation?: the case of a smalltalk ecosystem	2012	477F6C83	FSE
+77B77649	How do developers use parallel libraries?	2012	477F6C83	FSE
+7BB3D47D	How do software engineers understand code changes?: an exploratory study in industry	2012	477F6C83	FSE
+7D58C7BB	Improving software developers' fluency by recommending development environment commands	2012	477F6C83	FSE
+7E9E1FE1	Mining the execution history of a software system to infer the best time for its adaptation	2012	477F6C83	FSE
+767EC4F7	Multi-layered approach for recovering links between bug reports and fixes	2012	477F6C83	FSE
+7DEA8549	Predicting null-pointer dereferences in concurrent programs	2012	477F6C83	FSE
+7BA20E38	Recalling the "imprecision" of cross-project defect prediction	2012	477F6C83	FSE
+75FEBC55	Retargeting Android applications to Java bytecode	2012	477F6C83	FSE
+78126BAD	Rubicon: bounded verification of web applications	2012	477F6C83	FSE
+7520D51E	Scalable test data generation from multidimensional models	2012	477F6C83	FSE
+7A3634EE	Searching connected API subgraph via text phrases	2012	477F6C83	FSE
+8013E668	Seeking the ground truth: a retroactive study on the evolution and migration of software libraries	2012	477F6C83	FSE
+7A51F106	Test input generation using dynamic programming	2012	477F6C83	FSE
+7F20BD2A	Testing mined specifications	2012	477F6C83	FSE
+7F0FD036	Understanding myths and realities of test-suite evolution	2012	477F6C83	FSE
+76E33CE2	Variability points and design pattern usage in architectural tactics	2012	477F6C83	FSE
+80924CD3	Who is going to mentor newcomers in open source projects?	2012	477F6C83	FSE
+76E2C639	A statistical semantic language model for source code	2013	477F6C83	FSE
+8066CE45	API change and fault proneness: a threat to the success of Android apps	2013	477F6C83	FSE
+7E256A1D	Adequate monitoring of service compositions	2013	477F6C83	FSE
+7DAADD5D	An empirical analysis of the co-evolution of schema and code in database applications	2013	477F6C83	FSE
+7818BB72	Automated oracles: an empirical study on cost and effectiveness	2013	477F6C83	FSE
+84BF6634	Bayesian Inference Using Data Flow Analysis	2013	477F6C83	FSE
+75BB08E1	Boosting concolic testing via interpolation	2013	477F6C83	FSE
+7C472FF3	Cachetor: detecting cacheable data to remove bloat	2013	477F6C83	FSE
+789B5FEA	Cascading verification: an integrated method for domain-specific model checking	2013	477F6C83	FSE
+79CF69BF	Compiling mockups to flexible UIs	2013	477F6C83	FSE
+8014EA66	Convergent contemporary software peer review practices	2013	477F6C83	FSE
+7A20A913	Crossing the gap from imperative to functional programming through refactoring	2013	477F6C83	FSE
+7F72B754	Differential assertion checking	2013	477F6C83	FSE
+7E822901	Distributed program tracing	2013	477F6C83	FSE
+8149B052	Diversity in software engineering research	2013	477F6C83	FSE
+7C95FC34	Do all task dependencies require coordination? the role of task properties in identifying critical coordination needs in software projects	2013	477F6C83	FSE
+7809010A	Dynodroid: an input generation system for Android apps	2013	477F6C83	FSE
+799A5A6C	Effective dynamic detection of alias analysis errors	2013	477F6C83	FSE
+7D4B2338	Efficiency and early fault detection with lower and higher strength combinatorial interaction testing	2013	477F6C83	FSE
+769110B6	Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization	2013	477F6C83	FSE
+7A4D77FF	Explaining inconsistent code	2013	477F6C83	FSE
+75F6ACEB	Feature model extraction from large collections of informal product descriptions	2013	477F6C83	FSE
+7F01FC74	Finding incorrect compositions of atomicity	2013	477F6C83	FSE
+76049566	Identifying message flow in distributed event-based systems	2013	477F6C83	FSE
+7C4D389A	Improving trace accuracy through data-driven configuration and composition of tracing features	2013	477F6C83	FSE
+76A97876	Incrementally synthesizing controllers from scenario-based product line specifications	2013	477F6C83	FSE
+800BCA86	Inferring project-specific bug patterns for detecting sibling bugs	2013	477F6C83	FSE
+76791785	Jalangi: a selective record-replay and dynamic analysis framework for JavaScript	2013	477F6C83	FSE
+7D86C3DA	KATCH: high-coverage testing of software patches	2013	477F6C83	FSE
+7585C441	Making offline analyses continuous	2013	477F6C83	FSE
+78FBEC52	Mining behavior models from enterprise web applications	2013	477F6C83	FSE
+7B18D283	Mining succinct predicated bug signatures	2013	477F6C83	FSE
+7FEA8D98	N-way model merging	2013	477F6C83	FSE
+78B0473C	Practical static analysis of JavaScript applications in the presence of frameworks and libraries	2013	477F6C83	FSE
+75D183D0	Precision reuse for efficient regression verification	2013	477F6C83	FSE
+7C46AF7B	Prediction of atomic web services reliability based on k-means clustering	2013	477F6C83	FSE
+7A2FF10A	Preventing database deadlocks in applications	2013	477F6C83	FSE
+7EAB3F52	Regression tests to expose change interaction errors	2013	477F6C83	FSE
+77766676	SPLat: lightweight dynamic analysis for reducing combinatorics in testing configurable systems	2013	477F6C83	FSE
+7E85DE86	Sample size vs. bias in defect prediction	2013	477F6C83	FSE
+77C34ECA	Scalable analysis of variable software	2013	477F6C83	FSE
+7FB9EB77	Scalable and incremental software bug detection	2013	477F6C83	FSE
+7F0BC23A	Searching for better configurations: a rigorous approach to clone evaluation	2013	477F6C83	FSE
+7EDD0831	Second-order constraints in dynamic invariant inference	2013	477F6C83	FSE
+7E17A60C	Server interface descriptions for automated testing of JavaScript web applications	2013	477F6C83	FSE
+817684CA	Synthesis of component and connector models from crosscutting structural views	2013	477F6C83	FSE
+7B625455	Termination proofs from tests	2013	477F6C83	FSE
+7FB79AFB	Tightfit: adaptive parallelization with foresight	2013	477F6C83	FSE
+7D446858	Will you still compile me tomorrow? static cross-version compiler validation	2013	477F6C83	FSE
+783984E6	Z3-str: a z3-based string solver for web application analysis	2013	477F6C83	FSE
+7D589A7D	A foundation for refactoring C with macros	2014	477F6C83	FSE
+7FBAF484	A large scale study of programming languages and code quality in github	2014	477F6C83	FSE
+7C8AC976	A path-sensitively sliced control flow graph	2014	477F6C83	FSE
+79AAC8E6	AI: a lightweight system for tolerating concurrency bugs	2014	477F6C83	FSE
+78D07085	An empirical analysis of flaky tests	2014	477F6C83	FSE
+771DDCD6	An empirical study on program comprehension with reactive programming	2014	477F6C83	FSE
+7ED27B99	Apposcopy: semantics-based detection of Android malware through static analysis	2014	477F6C83	FSE
+80A5EA02	Architecture challenges for internal software ecosystems: a large-scale industry case study	2014	477F6C83	FSE
+7F4FD0F2	Are mutants a valid substitute for real faults in software testing?	2014	477F6C83	FSE
+770CB929	Automatic generation of release notes	2014	477F6C83	FSE
+77DBD578	Automatic mining of specifications from invocation traces and method invariants	2014	477F6C83	FSE
+7DC76462	Automatically generated patches as debugging aids: a human study	2014	477F6C83	FSE
+7EF193E7	Balancing trade-offs in test-suite reduction	2014	477F6C83	FSE
+7E3342CC	Beyond the rainbow: self-adaptive failure avoidance in configurable systems	2014	477F6C83	FSE
+7B4E49BF	Building call graphs for embedded client-side code in dynamic web applications	2014	477F6C83	FSE
+771B1D01	Counterexample guided abstraction refinement of product-line behavioural models	2014	477F6C83	FSE
+750B19CD	Detecting energy bugs and hotspots in mobile apps	2014	477F6C83	FSE
+75EAFE10	Developers' code context models for change tasks	2014	477F6C83	FSE
+76F57AE4	Discovering refactoring opportunities in cascading style sheets	2014	477F6C83	FSE
+7E675CC1	Efficient runtime-enforcement techniques for policy weaving	2014	477F6C83	FSE
+7732F14F	Enablers, inhibitors, and perceptions of testing in novice software teams	2014	477F6C83	FSE
+7A878CE9	EvoDroid: segmented evolutionary testing of Android apps	2014	477F6C83	FSE
+80DE5A6B	Feedback generation for performance problems in introductory programming assignments	2014	477F6C83	FSE
+7F955D60	FlowTwist: efficient context-sensitive inside-out taint analysis for large codebases	2014	477F6C83	FSE
+76C13D88	Focus-shifting patterns of OSS developers and their congruence with call graphs	2014	477F6C83	FSE
+754CADD2	Grail: context-aware fixing of concurrency bugs	2014	477F6C83	FSE
+771F7067	How should we measure functional sameness from program source code? an exploratory study on Java methods	2014	477F6C83	FSE
+775FABD9	How we get there: a context-guided search strategy in concolic testing	2014	477F6C83	FSE
+766357FF	Identifying the characteristics of vulnerable code changes: an empirical study	2014	477F6C83	FSE
+7B99770E	Improving oracle quality by detecting brittle assertions and unused inputs in tests	2014	477F6C83	FSE
+753BEFD5	JSAI: a static analysis platform for JavaScript	2014	477F6C83	FSE
+7F971D8D	Learning natural coding conventions	2014	477F6C83	FSE
+7AAE1A64	Learning to rank relevant files for bug reports using domain knowledge	2014	477F6C83	FSE
+7642ABB2	Let's talk about it: evaluating contributions through discussion in GitHub	2014	477F6C83	FSE
+7E23C1DD	Mining idioms from source code	2014	477F6C83	FSE
+76789C0A	Mining preconditions of APIs in large-scale code corpus	2014	477F6C83	FSE
+7815BB96	No issue left behind: reducing information overload in issue tracking	2014	477F6C83	FSE
+812C2489	ORBS: language-independent program slicing	2014	477F6C83	FSE
+78929B7D	On the efficiency of automated testing	2014	477F6C83	FSE
+8116AF51	On the localness of software	2014	477F6C83	FSE
+7C8C38E6	Panning requirement nuggets in stream of software maintenance tickets	2014	477F6C83	FSE
+7CF0A6C0	Powering the static driver verifier using corral	2014	477F6C83	FSE
+79710DEE	Prioritizing the devices to test your app on: a case study of Android game apps	2014	477F6C83	FSE
+76C0EE7D	Querying sequential software engineering data	2014	477F6C83	FSE
+7F1746F1	Retrofitting concurrency for Android applications through refactoring	2014	477F6C83	FSE
+78DB1AE3	SAFEWAPI: web API misuse detector for web applications	2014	477F6C83	FSE
+77246826	Search-based synthesis of equivalent method sequences	2014	477F6C83	FSE
+7D4C37C3	Selection and presentation practices for code example summarization	2014	477F6C83	FSE
+77C8484E	Semantics-based obfuscation-resilient binary code similarity comparison with applications to software plagiarism detection	2014	477F6C83	FSE
+7F1D190E	Sherlock: scalable deadlock detection for concurrent programs	2014	477F6C83	FSE
+7548A390	Sketches and diagrams in practice	2014	477F6C83	FSE
+77DD3365	Software developers' perceptions of productivity	2014	477F6C83	FSE
+77CD7F84	Solving complex path conditions through heuristic search on induced polytopes	2014	477F6C83	FSE
+77F3F8A4	Statistical symbolic execution with informed sampling	2014	477F6C83	FSE
+79146D1F	SymJS: automatic symbolic testing of JavaScript web applications	2014	477F6C83	FSE
+76B0B7F9	Techniques for improving regression testing in continuous integration development environments	2014	477F6C83	FSE
+7DCED191	Test case purification for improving fault localization	2014	477F6C83	FSE
+78BF1F6F	The plastic surgery hypothesis	2014	477F6C83	FSE
+77BE7FE3	Variable-specific resolutions for feature interactions	2014	477F6C83	FSE
+7D777CB6	Vector abstraction and concretization for scalable detection of refactorings	2014	477F6C83	FSE
+7785234F	Verifying CTL-live properties of infinite state models using an SMT solver	2014	477F6C83	FSE
+7B965315	A method to identify and correct problematic software activity data: exploiting capacity constraints and data redundancies	2015	477F6C83	FSE
+7BF86813	A user-guided approach to program analysis	2015	477F6C83	FSE
+7BCC5C77	An empirical study of goto in C code from GitHub repositories	2015	477F6C83	FSE
+7AC8EA86	Assertion guided symbolic execution of multithreaded programs	2015	477F6C83	FSE
+7FE54ADD	Assertions are strongly correlated with test suite effectiveness	2015	477F6C83	FSE
+794C1AA4	Auto-completing bug reports for Android applications	2015	477F6C83	FSE
+7A93E0D0	Auto-patching DOM-based XSS at scale	2015	477F6C83	FSE
+7B3A8281	Automated multi-objective control for self-adaptive software design	2015	477F6C83	FSE
+79E6E968	Automatically computing path complexity of programs	2015	477F6C83	FSE
+7B4C86E7	Automatically deriving pointer reference expressions from binary code for memory dump analysis	2015	477F6C83	FSE
+757C0462	CLAPP: characterizing loops in Android applications	2015	477F6C83	FSE
+78432339	CLOTHO: saving programs from malformed strings and incorrect string-handling	2015	477F6C83	FSE
+7AB60E21	Clone-based and interactive recommendation for modifying pasted code	2015	477F6C83	FSE
+7A6B9EDE	Comparing and combining test-suite reduction and regression test selection	2015	477F6C83	FSE
+761FE2EA	Cross-language program slicing for dynamic web applications	2015	477F6C83	FSE
+7FC4CA06	Detecting JavaScript races that matter	2015	477F6C83	FSE
+7C0074A0	Detecting event anomalies in event-based systems	2015	477F6C83	FSE
+7601079A	Developer onboarding in GitHub: the role of prior social links and language experience	2015	477F6C83	FSE
+7601B534	Effective and precise dynamic detection of hidden races for Java programs	2015	477F6C83	FSE
+7A66BCBE	Effective test suites for mixed discrete-continuous stateflow controllers	2015	477F6C83	FSE
+78C085BE	Efficient and reasonable object-oriented concurrency	2015	477F6C83	FSE
+79A60597	Efficient dependency detection for safe Java test acceleration	2015	477F6C83	FSE
+76C2C176	Finding schedule-sensitive branches	2015	477F6C83	FSE
+7811A90B	FlexJava: language support for safe and modular approximate programming	2015	477F6C83	FSE
+7ACDCC44	GR(1) synthesis for LTL specification patterns	2015	477F6C83	FSE
+763BBD1C	Gamification for enforcing coding conventions	2015	477F6C83	FSE
+78777B44	Generating TCP/UDP network data for automated unit test generation	2015	477F6C83	FSE
+77086EBC	Getting to know you: towards a capability model for Java	2015	477F6C83	FSE
+7A740EE5	Guided differential testing of certificate validation in SSL/TLS implementations	2015	477F6C83	FSE
+7A8B4E49	Heterogeneous cross-company defect prediction by unified metric representation and CCA-based transfer learning	2015	477F6C83	FSE
+79AEC312	Heterogeneous defect prediction	2015	477F6C83	FSE
+756C146C	Hey, you have given me too many knobs!: understanding and dealing with over-designed configuration in system software	2015	477F6C83	FSE
+76007D5F	Hidden truths in dead software paths	2015	477F6C83	FSE
+779592C6	How developers search for code: a case study	2015	477F6C83	FSE
+77DE193E	How practitioners perceive the relevance of software engineering research	2015	477F6C83	FSE
+77BE18F7	Impact of developer turnover on quality in open-source software	2015	477F6C83	FSE
+79D613F7	Improving model-based test generation by model decomposition	2015	477F6C83	FSE
+7604A46F	Information retrieval and spectrum based bug localization: better together	2015	477F6C83	FSE
+7AE123F2	Is the cure worse than the disease? overfitting in automated program repair	2015	477F6C83	FSE
+78BDCD48	Iterative distribution-aware sampling for probabilistic symbolic execution	2015	477F6C83	FSE
+7D2DB99C	JITProf: pinpointing JIT-unfriendly JavaScript code	2015	477F6C83	FSE
+781D5371	Measure it? Manage it? Ignore it? software practitioners and technical debt	2015	477F6C83	FSE
+7C7C10F1	MemInsight: platform-independent memory debugging for JavaScript	2015	477F6C83	FSE
+799FD754	Mimic: computing models for opaque code	2015	477F6C83	FSE
+751B6930	Modeling readability to improve unit tests	2015	477F6C83	FSE
+7F59F1DC	MultiSE: multi-path symbolic execution using value summaries	2015	477F6C83	FSE
+755454E7	On the use of delta debugging to reduce recordings and facilitate debugging of web applications	2015	477F6C83	FSE
+7AFF0C7C	Optimizing energy consumption of GUIs in Android apps: a multi-objective approach	2015	477F6C83	FSE
+7761C3BB	P3: partitioned path profiling	2015	477F6C83	FSE
+7B89A2BE	Performance-influence models for highly configurable systems	2015	477F6C83	FSE
+7C5D81B1	Proactive self-adaptation under uncertainty: a probabilistic model checking approach	2015	477F6C83	FSE
+79A5E509	Quality and productivity outcomes relating to continuous integration in GitHub	2015	477F6C83	FSE
+75688926	Quantifying developers' adoption of security tools	2015	477F6C83	FSE
+7847D9B2	Query-based configuration of text retrieval solutions for software engineering tasks	2015	477F6C83	FSE
+7F00CC67	Questions developers ask while diagnosing potential security vulnerabilities with static analysis	2015	477F6C83	FSE
+7C941B31	Responsive designs in a snap	2015	477F6C83	FSE
+77231D86	Rule-based extraction of goal-use case models from text	2015	477F6C83	FSE
+7ACE3266	Staged program repair with condition synthesis	2015	477F6C83	FSE
+7B611405	String analysis for Java and Android applications	2015	477F6C83	FSE
+77D774DD	Suggesting accurate method and class names	2015	477F6C83	FSE
+79DB6AD3	Summarizing and measuring development activity	2015	477F6C83	FSE
+7E148138	Symbolic execution of programs with heap inputs	2015	477F6C83	FSE
+7A45C8EB	Synthesizing tests for detecting atomicity violations	2015	477F6C83	FSE
+7C656534	Systematic testing of asynchronous reactive systems	2015	477F6C83	FSE
+7621AF99	TLV: abstraction through testing, learning, and validation	2015	477F6C83	FSE
+7CABFE9F	Test report prioritization to assist crowdsourced testing	2015	477F6C83	FSE
+787C8EE3	The making of cloud applications: an empirical study on software development for the cloud	2015	477F6C83	FSE
+772B6073	Tracing software developers' eyes and interactions for change tasks	2015	477F6C83	FSE
+7A6769ED	Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing	2015	477F6C83	FSE
+78DC4374	Users beware: preference inconsistencies ahead	2015	477F6C83	FSE
+77C2DA01	What change history tells us about thread synchronization	2015	477F6C83	FSE
+77092D11	When, how, and why developers (do not) test in their IDEs	2015	477F6C83	FSE
+7C5F7971	Witness validation and stepwise testification across software verifiers	2015	477F6C83	FSE

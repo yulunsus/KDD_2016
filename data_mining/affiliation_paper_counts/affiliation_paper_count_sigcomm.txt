@@ -1,0 +1,2410 @@
+﻿University of California, Berkeley
+945
+Carnegie Mellon University
+729
+Stanford University
+665
+University of California, San Diego
+617
+Microsoft Research
+576
+Georgia Institute of Technology
+485
+Massachusetts Institute of Technology
+481
+Tsinghua University
+474
+University of California, Los Angeles
+474
+University of Southern California
+463
+University of Massachusetts Amherst
+459
+University of Wisconsin Madison
+399
+Princeton University
+389
+AT&T Laboratories Florham Park
+385
+University of Cambridge
+385
+Columbia University
+347
+Alcatel-Lucent Bell Labs
+341
+IBM Thomas J. Watson Research Center
+337
+Swiss Federal Institute of Technology, Zurich
+321
+University of Illinois at Urbana-Champaign
+303
+University of Washington Seattle
+278
+Microsoft Research Asia
+261
+MIT Computer Science and Artificial Intelligence Laboratory
+259
+Intel Corporation
+248
+University Michigan Ann Arbor
+246
+University of Texas at Austin
+244
+University College London
+243
+Korea Advanced Institute of Science & Technology
+242
+Microsoft
+238
+Washington University in St. Louis
+230
+HP Labs
+224
+Purdue University
+222
+National University of Singapore
+220
+Technical University of Berlin
+217
+Northwestern University
+214
+Google Inc.
+210
+University of Pennsylvania
+206
+Cornell University
+203
+University of California, Santa Barbara
+200
+University of Maryland
+191
+University of Virginia
+191
+Boston University
+181
+University of Waterloo
+181
+University of Southern California, Information Sciences Institute
+172
+Technical University of Darmstadt
+159
+Swiss Federal Institute of Technology, Lausanne
+155
+Telefonica
+152
+University of Tokyo
+149
+Cisco Systems
+147
+University of Oslo
+147
+IBM Research
+146
+Stony Brook University
+140
+International Computer Science Institute
+138
+Seoul National University
+137
+Microsoft Research Cambridge
+136
+National Taiwan University
+133
+Duke University
+129
+University of Washington
+127
+Lancaster University
+126
+RWTH Aachen University
+125
+BBN Technologies
+123
+Palo Alto Research Center
+118
+University of California, Riverside
+118
+University of Toronto
+117
+Aalto University
+116
+Catholic University of Louvain
+115
+Rutgers University
+115
+Universite Pierre et Marie Curie
+115
+University of Minnesota Twin Cities
+112
+University of New South Wales
+110
+Technical University of Munich
+109
+Yale University
+107
+University of Southampton
+104
+Texas A and M University
+103
+University of Colorado at Boulder
+103
+INRIA Sophia Antipolis
+102
+NEC Deutschland GmbH
+101
+Delft University of Technology
+99
+National University of Defense Technology China
+98
+University of Utah
+98
+Hewlett-Packard
+97
+Intel Research Laboratories
+96
+Polytechnic Institute of Turin
+94
+Keio University
+93
+Nanyang Technological University
+92
+University of Ottawa, Canada
+92
+Beijing University of Posts and Telecommunications
+90
+Royal Institute of Technology
+89
+Harvard University
+88
+Max Planck Institute for Software Systems
+88
+Rice University
+87
+Budapest University of Technology and Economics
+86
+Dartmouth College
+86
+The University of North Carolina at Chapel Hill
+85
+Swedish Institute of Computer Science
+84
+University of Mannheim
+84
+Indian Institute of Technology, Bombay
+82
+Worcester Polytechnic Institute
+82
+University of California, Davis
+81
+Hong Kong Polytechnic University
+80
+University of California, Irvine
+80
+EURECOM Ecole d'Ingenieurs & Centre de Recherche en Systemes de Communication
+78
+IBM
+77
+IBM Zurich Research Laboratory
+77
+Simon Fraser University
+77
+University of Pisa
+76
+University at Buffalo, State University of New York
+75
+Nippon Telegraph & Telephone
+74
+Northeastern University
+74
+University of California, Santa Cruz
+73
+Electronics Telecommunication Research Institute
+71
+Hong Kong University of Science and Technology
+71
+Universitat Politecnica de Catalunya
+71
+University of Arizona
+70
+Telcordia Technologies, Inc.
+68
+University of Roma La Sapienza
+67
+TELECOM ParisTech
+66
+North Carolina State University
+65
+Ohio State University
+65
+Chinese University of Hong Kong
+64
+NEC Corporation
+64
+Orange Labs
+64
+Shanghai Jiaotong University
+64
+Free University of Berlin
+63
+Imperial College London
+63
+Johns Hopkins University
+63
+FX Palo Alto Laboratory
+62
+Ghent University
+61
+Osaka University
+61
+SRI International
+61
+University of California , Merced
+61
+INRIA Institut National de Rechereche en Informatique et en Automatique
+60
+National Tsing Hua University
+60
+New York University
+60
+University of Minnesota System
+60
+Chinese Academy of Sciences
+59
+Universidad de la Republica
+59
+University of Naples Federico II
+59
+University of Helsinki
+58
+Xi'an Jiaotong University
+58
+Alcatel-Lucent
+57
+University of Adelaide
+57
+Korea University
+56
+Peking University
+56
+University of Michigan
+55
+University of Wurzburg
+55
+Lawrence Berkeley National Laboratory
+54
+McGill University
+54
+Northwest University China
+54
+Thomson, SA
+54
+AT&T Inc.
+53
+University of Oregon
+53
+Swinburne University of Technology
+52
+University of Central Florida
+52
+University of Kentucky
+52
+University of Surrey
+52
+University of Twente
+52
+Zhejiang University
+52
+Institute for Infocomm Research, A-Star, Singapore
+51
+Politecnico di Milano
+51
+Portland State University
+51
+The University of British Columbia
+51
+Universidad Carlos III de Madrid
+51
+Alpen-Adria-Universität Klagenfurt
+50
+Gwangju Institute of Science and Technology
+50
+Polytechnic University - Brooklyn
+50
+Tel Aviv University
+50
+Hamburg - University of Applied Sciences
+49
+Philips Research
+49
+NICTA
+48
+Tata Consultancy Services India
+48
+University of Delaware
+48
+University of Illinois
+48
+Brown University
+47
+Oregon Health and Science University
+47
+Simula Research Laboratory
+47
+University of Gottingen
+47
+Pennsylvania State University
+46
+Vanderbilt University
+46
+Athens University of Economics and Business
+44
+Michigan State University
+44
+NEC Laboratories America, Inc.
+44
+Nokia
+44
+Academia Sinica Taiwan
+43
+Telecom Bretagne
+43
+Center for Mathematics and Computer Science - Amsterdam
+41
+Indraprastha Institute of Information Technology Delhi
+41
+Carleton University
+40
+Harbin Institute of Technology
+40
+University of Melbourne
+40
+City University of Hong Kong
+39
+Technion - Israel Institute of Technology
+39
+Arizona State University
+38
+Technical University of Madrid
+37
+Federal University of Minas Gerais
+36
+Federal University of Rio Grande do Sul
+36
+Rensselaer Polytechnic Institute
+36
+Universite de Toulouse
+36
+University of Alberta
+36
+University of Illinois at Chicago
+36
+University of Nottingham
+36
+Uppsala University
+36
+IBM Almaden Research Center
+35
+Lahore University of Management Sciences
+35
+State University of Campinas
+35
+University of Luxembourg
+35
+University of Stuttgart
+35
+VMware, Inc
+35
+Beihang University
+34
+California Institute of Technology
+34
+Clemson University
+34
+Huazhong University of Science and Technology
+34
+Italian National Research Council
+34
+Sprint Applied Research & Advanced Technology Labs, California
+34
+Tamkang University
+34
+University of Liege
+34
+University of Science and Technology of China
+34
+University of Trento
+34
+Aerospace Corporation
+33
+Japan National Institute of Information and Communications Technology
+33
+KDDI R&D Laboratories
+33
+University of Waikato
+33
+Virginia Tech
+33
+Asian Institute of Technology Thailand
+32
+Fraunhofer Institute for Open Communication Systems
+32
+George Mason University
+32
+Microsoft Research India
+32
+Siemens USA
+32
+Singapore Management University
+32
+Singapore University of Technology and Design
+32
+Telecom Research Center Vienna
+32
+University of Roma Tor Vergata
+32
+Deutsche Telekom
+31
+Hasselt University
+31
+Nagoya Institute of Technology
+31
+Naval Postgraduate School
+31
+Universite Paris Sorbonne - Paris IV
+31
+University of Montreal
+31
+University of Notre Dame
+31
+Fujitsu
+30
+Institute of Computing Technology Chinese Academy of Sciences
+30
+Nara Institute of Science and Technology
+30
+Sun Microsystems
+30
+University of Bologna
+30
+University of Saskatchewan
+30
+University of Texas at Dallas
+30
+Karlsruhe Institute of Technology
+29
+University of Glasgow
+29
+University of Memphis
+29
+Ajou University
+28
+Amrita Vishwa Vidyapeetham University
+28
+CSIRO Ict Centre
+28
+Center for REsearch And Telecommunication Experimentation for NETworked communities
+28
+Queen Mary, University of London
+28
+Technical University in Braunschweig
+28
+Tokyo Denki University
+28
+University of Passau
+28
+Beijing Institute of Technology
+27
+Czech Technical University in Prague
+27
+Hebrew University of Jerusalem
+27
+IBM Austin Research Laboratory
+27
+Karlsruhe Institute of Technology, Campus South
+27
+MIT Media Laboratory
+27
+Research Organization of Information and Systems National Institute of Informatics
+27
+University of Brescia
+27
+University of Paderborn
+27
+Vrije Universiteit Amsterdam
+27
+Beijing Jiaotong University
+26
+Federal University of Para
+26
+France Telecom Division Recherche et Developpement
+26
+Indiana University
+26
+Lubeck University
+26
+National Technical University of Athens
+26
+Polytechnic Institute of Bari
+26
+Universidad Politecnica de Valencia
+26
+University Politehnica of Bucharest
+26
+University of Dublin, Trinity College
+26
+University of Florence
+26
+National Institute of Standards and Technology
+25
+University of Missouri-Kansas City
+25
+University of Nebraska - Lincoln
+25
+Advanced Telecommunications Research Institute International (ATR)
+24
+Chalmers University of Technology
+24
+Indian Institute of Technology, Kharagpur
+24
+Leibniz Universitat Hannover
+24
+Monash University
+24
+Norwegian University of Science and Technology
+24
+Yonsei University
+24
+Alcatel Telecom, Antwerp
+23
+Bremen University
+23
+Madrid Institute for Advanced Studies
+23
+Nanjing University of Post and TeleCommunications
+23
+Sungkyunkwan University
+23
+Technical University of Dresden
+23
+Texas Instruments
+23
+The College of William and Mary
+23
+Case Western Reserve University
+22
+Dalian University of Technology
+22
+Lulea University of Technology
+22
+Universite de Strasbourg
+22
+University of Bern
+22
+University of Lugano
+22
+University of Oulu
+22
+University of Oxford
+22
+Curtin University of Technology, Perth
+21
+Dublin City University
+21
+Institut National des Telecommunications
+21
+National University of Ireland, Maynooth
+21
+The University of Hong Kong
+21
+University College Dublin
+21
+University of Edinburgh
+21
+University of Kaiserslautern
+21
+University of Padua
+21
+University of St Andrews
+21
+University of Wollongong
+21
+Brno University of Technology
+20
+Colorado State University
+20
+Federal University of Rio de Janeiro
+20
+Sony
+20
+Technical University of Denmark
+20
+The University of North Carolina at Charlotte
+20
+University of Calgary
+20
+University of Freiburg
+20
+University of Genoa
+20
+University of Massachusetts Lowell
+20
+University of Queensland
+20
+University of Rochester
+20
+Akamai Technologies
+19
+Avaya Inc.
+19
+George Washington University
+19
+Graz University of Technology
+19
+Institute of Computer Science Crete
+19
+Linkoping University
+19
+Narus, Inc
+19
+National Cheng Kung University
+19
+Southeast University China, Nanjing
+19
+University of Aarhus
+19
+University of Auckland
+19
+University of California System
+19
+University of Coimbra
+19
+University of Massachusetts System
+19
+University of the Saarland
+19
+Ericsson Hungary Ltd.
+18
+Fraunhofer Institute for Integrated Publication and Information Systems Institute
+18
+Georgia Institute of Technology, School of Electrical and Computer Engineering
+18
+L.M. Ericsson
+18
+Masdar Institute of Science and Technology
+18
+National Chiao Tung University Taiwan
+18
+University of Connecticut
+18
+University of Milan
+18
+Colgate University
+17
+Loughborough University
+17
+New Jersey Institute of Technology
+17
+Oregon State University
+17
+Rutherford Appleton Laboratory
+17
+Tohoku University
+17
+Unisys
+17
+University College Cork
+17
+University of Houston
+17
+University of Kansas Lawrence
+17
+University of Patras
+17
+University of Zagreb
+17
+City University of New York
+16
+Cork Institute of Technology
+16
+IMAG
+16
+Illinois Institute of Technology
+16
+Korea Electronics Technology Institute
+16
+Nortel Networks
+16
+Old Dominion University
+16
+Toshiba Corporation
+16
+Universidad Central de Venezuela
+16
+Universidad de Malaga
+16
+Universite de Lyon
+16
+University of Catania
+16
+Drexel University
+15
+INRIA Rhone-Alpes
+15
+Indian Institute of Technology, Madras
+15
+Industrial Technology Research Institute of Taiwan
+15
+Kent State University
+15
+King Fahd University of Petroleum and Minerals
+15
+Lawrence Livermore National Laboratory
+15
+MITRE Corporation
+15
+Motorola
+15
+Newcastle University, United Kingdom
+15
+Ricoh Innovations, Inc.
+15
+Roma Tre University
+15
+The University of Georgia
+15
+United Arab Emirates University
+15
+Universite Nice Sophia Antipolis
+15
+University of Applied Sciences and Arts of Southern Switzerland
+15
+University of Athens
+15
+University of Maryland, Baltimore County
+15
+University of Piraeus
+15
+University of Pittsburgh
+15
+University of Southern Denmark
+15
+University of Sussex
+15
+University of Technology Sydney
+15
+University of Tennessee, Knoxville
+15
+University of Thessaly
+15
+Vienna University of Technology
+15
+Amrita School of Engineering
+14
+Clarkson University
+14
+Ericsson Deutschland
+14
+Ericsson Sweden
+14
+Federal University of Pernambuco
+14
+Florida International University
+14
+Helsinki Institute for Information Technology
+14
+Hitachi, Ltd.
+14
+Indian Institute of Technology, Delhi
+14
+NEC Europe Ltd
+14
+Pacific Northwest National Laboratory
+14
+Panasonic Mobile Communications Co., Ltd.
+14
+Pittsburgh Supercomputing Center
+14
+Ryerson University
+14
+South China University of Technology
+14
+The University of Tennessee System
+14
+Universidad Nacional de Asuncion
+14
+University of Leeds
+14
+Waterford Institute of Technology
+14
+Catholic University of Leuven
+13
+Commonwealth Scientific and Industrial Research Organization
+13
+Ecole Normale Superieure
+13
+Ecoles polytechniques federales
+13
+Indian Institute of Technology, Kanpur
+13
+Iwate Prefectural University
+13
+Japan Advanced Institute of Science and Technology
+13
+Laboratoire d'Analyse et d'Architecture des Systemes
+13
+National Taiwan University of Science and Technology
+13
+Queensland University of Technology
+13
+Universidad de Alcala
+13
+Universidad de Zaragoza
+13
+Universitat de Girona
+13
+University of Electronic Science and Technology of China
+13
+University of Innsbruck
+13
+University of L'Aquila
+13
+University of South Carolina
+13
+University of Tubingen
+13
+University of Vienna
+13
+University of Wisconsin
+13
+Wright State University
+13
+BT Group
+12
+CNRS Centre National de la Recherche Scientifique
+12
+Colorado School of Mines
+12
+Coventry University
+12
+Daegu Gyeongbuk Institute of Science and Technology
+12
+Florida State University
+12
+IBM India Research Laboratory New Delhi
+12
+Queen's University, Kingston
+12
+Thailand National Electronics and Computer Technology Center
+12
+The Interdisciplinary Center Herzliya
+12
+Universite Paul Sabatier Toulouse III
+12
+Universiti Sains Malaysia
+12
+University of Bonn
+12
+University of Colombo
+12
+University of Florida
+12
+University of Modena and Reggio Emilia
+12
+University of Sydney
+12
+DoCoMo USA Labs.
+11
+Fraunhofer Institute for Applied Information Technology
+11
+IT University of Copenhagen
+11
+Kyoto University
+11
+Memorial University of Newfoundland
+11
+Pohang University of Science and Technology
+11
+Research Academic Computer Technology Institute, Patras
+11
+Universidad de Oviedo
+11
+University of Basel
+11
+University of Brasilia
+11
+University of Manitoba
+11
+University of North Texas
+11
+University of Strathclyde
+11
+University of Ulm
+11
+University of Urbino
+11
+University of the Balearic Islands
+11
+VTT Technical Research Centre of Finland
+11
+Waseda University
+11
+Wayne State University
+11
+Boeing Corporation
+10
+Chaoyang University of Technology
+10
+Chungnam National University
+10
+Ericsson Inc.
+10
+Ewha Women's University
+10
+Fraunhofer Institute for Secure Information Technology
+10
+Huawei Technologies Co., Ltd., USA
+10
+Humboldt University of Berlin
+10
+Hunan University
+10
+INRIA Lorraine
+10
+Indian Institute of Science
+10
+Infosys Technologies Limited India
+10
+Institute of Information Science Academia Sinica Taiwan
+10
+Japan Broadcasting Corporation
+10
+Nanjing University
+10
+National University of Computer and Emerging Sciences Islamabad
+10
+PLA University of Science and Technology
+10
+Qualcomm Incorporated
+10
+RMIT University
+10
+Shenzhen University
+10
+Siemens AG
+10
+Southern Illinois University at Carbondale
+10
+Tokyo Institute of Technology
+10
+Tyndall National Institute at National University of Ireland, Cork
+10
+Universidad de A Coruna
+10
+Universite Paris-Sud XI
+10
+University of Bamberg
+10
+University of Bath
+10
+University of Bristol
+10
+University of Electro-Communications
+10
+University of Qatar
+10
+University of San Francisco
+10
+York University Canada
+10
+Anna University
+9
+Athlone Institute of Technology
+9
+Binghamton University State University of New York
+9
+Brooklyn College
+9
+CSIRO Mathematical and Information Sciences
+9
+City College of New York
+9
+DoCoMo Communications Laboratories Europe GmbH
+9
+Federal University of Parana
+9
+Foundation for Research and Technology-Hellas
+9
+Fudan University
+9
+Georgetown University
+9
+IBM China Research Laboratory
+9
+INSA Lyon
+9
+Ibaraki University
+9
+Instituto Superior Tecnico
+9
+Iowa State University
+9
+Japan Science and Technology Agency
+9
+Kyung Hee University
+9
+Kyushu University
+9
+Louisiana State University
+9
+National Inter-University Consortium for Telecommunications
+9
+National University of Sciences and Technology Pakistan
+9
+Nokia Siemens Networks
+9
+Qatar Computing Research institute
+9
+Southern Methodist University
+9
+Technical University of Crete
+9
+Thiagarajar College of Engineering
+9
+United Technologies Research Center
+9
+University of Aberdeen
+9
+University of Copenhagen
+9
+University of Milan - Bicocca
+9
+University of Tsukuba
+9
+University of Western Macedonia
+9
+University of York
+9
+Warsaw University of Technology
+9
+Washington State University
+9
+Xerox Corporation
+9
+Bell Labs Research Center, India
+8
+Brigham Young University
+8
+Chongqing University of Posts and Telecommunications
+8
+Chosun University
+8
+Chulalongkorn University
+8
+Chung Chou Institute of Technology Taiwan
+8
+Chunghwa Telecom Co. Ltd.
+8
+DFN-CERT Services GmbH
+8
+Digital Fountain, Inc
+8
+Ecole Normale Superieure de Lyon
+8
+Eindhoven University of Technology
+8
+Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut
+8
+Hanyang University
+8
+Heriot-Watt University
+8
+Huawei Technologies Co., Ltd.
+8
+Indian Institute of Technology Hyderabad
+8
+Karlstad University
+8
+King's College London
+8
+Kobe University
+8
+NASA Glenn Research Center
+8
+Nagoya University
+8
+National Central University Taiwan
+8
+National Institute of Advanced Industrial Science and Technology
+8
+National University of Ireland, Galway
+8
+Nokia Siemens Networks GmbH & Co.KG
+8
+Ohio University Athens
+8
+Samsung Electronics
+8
+Stevens Institute of Technology
+8
+The University of Western Ontario
+8
+United States Library of Congress
+8
+Universite de Rennes 1
+8
+University of Aizu
+8
+University of Bielefeld
+8
+University of Essex
+8
+University of Geneva
+8
+University of Magdeburg
+8
+University of Miami
+8
+University of New Mexico
+8
+University of Palermo
+8
+University of Tromso
+8
+Verizon Communications
+8
+AGH University of Science and Technology
+7
+American University of Beirut
+7
+Auburn University
+7
+Blekinge Institute of Technology
+7
+Bucknell University
+7
+CPqD Telecom and IT Solutions
+7
+Chiba University
+7
+Communications Research Centre
+7
+Ecole des Mines de Paris
+7
+Ericsson Radio Systems AB
+7
+Federal University of Amazonas
+7
+France Telecom
+7
+Fujitsu America, Inc.
+7
+Hangzhou Dianzi University
+7
+Heinrich Heine University
+7
+Helmholtz-Zentrum Berlin fur Materialien und Energie GmbH
+7
+Inha University, Incheon
+7
+Institute of Automation Chinese Academy of Sciences
+7
+Istituto di Scienza e Tecnologie dell'Informazione A. Faedo
+7
+Kansas State University
+7
+King Abdullah University of Science and Technology
+7
+Lehigh University
+7
+Lockheed Martin
+7
+National Chi Nan University
+7
+New Mexico State University Las Cruces
+7
+SPARTA, Inc.
+7
+STMicroelectronics
+7
+Sokendai Graduate University for Advanced Studies
+7
+Tampere University of Technology
+7
+Tianjin University
+7
+Universitat Pompeu Fabra
+7
+Universitat Rovira i Virgili
+7
+University of Calabria
+7
+University of Erlangen-Nuremberg
+7
+University of Hertfordshire
+7
+University of London
+7
+University of Reading
+7
+University of Sao Paulo
+7
+University of Stirling
+7
+University of Texas at Arlington
+7
+University of Western Australia
+7
+Vellore Institute of Technology
+7
+Victoria University of Wellington
+7
+Aalborg University
+6
+Agency for Science, Technology and Research, Singapore
+6
+Agilent Laboratories
+6
+Amirkabir University of Technology
+6
+Ben-Gurion University of the Negev
+6
+Birkbeck University of London
+6
+Cape Peninsula University of Technology
+6
+Centre Suisse d'Electronique et de Microtechnique SA
+6
+Chung Yuan Christian University
+6
+City University London
+6
+De Montfort University
+6
+ENSEIRB
+6
+Emory University
+6
+Eotvos Lorand University
+6
+Fraunhofer Institute for Computer Graphics Research
+6
+German Research Center for Artificial Intelligence (DFKI)
+6
+IBM Haifa Labs
+6
+Indiana University-Purdue University Indianapolis
+6
+Infinera Corporation
+6
+Kyungpook National University
+6
+LG
+6
+LM Ericsson Holdings Ltd.
+6
+Mitsubishi Electric Corporation
+6
+Mitsubishi Electric Research Laboratories
+6
+Musashino Electrical Communication Lab
+6
+NARO National Agricultural Research Center
+6
+NASA Ames Research Center
+6
+National Changhua University of Education
+6
+National Taiwan Normal University
+6
+Nokia GmbH
+6
+Norwegian Computing Center
+6
+Philips GmbH
+6
+Polytech'Nantes
+6
+Polytechnic University of Timisoara
+6
+Pontifical Catholic University of Minas Gerais
+6
+Pusan National University
+6
+Ruhr University of Bochum
+6
+SK
+6
+Sandia National Laboratories, New Mexico
+6
+Shandong University
+6
+Silicon Graphics, Inc.
+6
+Sogang University
+6
+Swansea University
+6
+Technical University of Cluj-Napoca
+6
+Technical University of Hamburg-Harburg
+6
+UNINET Incorporated
+6
+Universidad de la Frontera
+6
+Universite Libre de Bruxelles
+6
+Universite de Bordeaux
+6
+University of Aveiro
+6
+University of Bridgeport
+6
+University of Ferrara
+6
+University of Leicester
+6
+University of Lisbon
+6
+University of Quebec in Montreal
+6
+Wichita State University
+6
+Xiamen University
+6
+ARM Ltd.
+5
+Aoyama Gakuin University
+5
+Apple Computer
+5
+Armasuisse
+5
+Auckland University of Technology
+5
+Bell Labs Research Center Ireland
+5
+CESNET
+5
+Cairo University
+5
+California State University Los Angeles
+5
+Concordia University, Montreal
+5
+European Organization for Nuclear Research
+5
+European University of Brittany
+5
+Federal University of Ceara
+5
+Federal University of Juiz de Fora
+5
+Glasgow Caledonian University
+5
+Graduate University of Chinese Academy of Sciences
+5
+I-Shou University
+5
+Instituto de Engenharia de Sistemas e Computadores
+5
+Intel Research Cambridge Lab
+5
+Joanneum Research
+5
+KDDI Corporation
+5
+Liverpool John Moores University
+5
+Ludwig Maximilian University of Munich
+5
+Madeira University
+5
+Masaryk University
+5
+Moscow State Aviation Technological University
+5
+Motorola Australia
+5
+Nanzan University
+5
+National Center for Atmospheric Research
+5
+National Chung Hsing University
+5
+National Research Council Canada
+5
+National Taiwan Ocean University
+5
+National United University Taiwan
+5
+National University Corporation Shizuoka University
+5
+National University of Tainan Taiwan
+5
+Northeastern University China
+5
+Northwestern Polytechnical University China
+5
+Oak Ridge National Laboratory
+5
+Oakland University
+5
+Oki Electric Industry Co., Ltd.
+5
+Oracle Corporation
+5
+Osaka City University
+5
+Poznan Supercomputing and Networking Center
+5
+RAND Corporation
+5
+Rockwell International Science Center
+5
+Royal Holloway University of London
+5
+Royal KPN NV
+5
+Sant'Anna School of Advanced Studies
+5
+Sharif University of Technology
+5
+Sharp Laboratories of America
+5
+Space Systems Loral
+5
+Swisscom AG
+5
+Telematica Instituut
+5
+The Graduate Center
+5
+Tufts University
+5
+Universidad de Chile
+5
+Universite Bordeaux 1
+5
+Universite de Technologie de Troyes
+5
+University of Amsterdam
+5
+University of Bedfordshire
+5
+University of Brunei Darussalam
+5
+University of Cape Town
+5
+University of Crete
+5
+University of Oldenburg
+5
+University of Rostock
+5
+University of Stellenbosch
+5
+University of Texas at San Antonio
+5
+University of Zurich
+5
+Weizmann Institute of Science Israel
+5
+Western Michigan University
+5
+Williams College
+5
+Wipro Technologies
+5
+Xidian University
+5
+ABB Corporate Research Center - Switzerland
+4
+AT & T, UK
+4
+AT&T Laboratories Middletown
+4
+Aachen University of Applied Sciences
+4
+Accenture
+4
+Aichi Prefectural University
+4
+Aristotle University of Thessaloniki
+4
+Bond University
+4
+Brandenburg University of Technology Cottbus
+4
+Carnegie Mellon University in Qatar
+4
+Centre Tecnologic de Telecomunicacions de Catalunya
+4
+Centro Studi e Laboratori Telecomunicazioni, Turin
+4
+Cleveland State University
+4
+Cornell Tech
+4
+Defence and Science Technology Organisation Australia
+4
+EMC Corporation
+4
+Emerson Process Management
+4
+Federal University of Espirito Santo
+4
+Feng Chia University
+4
+Freescale Semiconductor
+4
+GE Global Research
+4
+Gebze Institute of Technology
+4
+General Motors
+4
+HRL Laboratories
+4
+INP Grenoble
+4
+INRIA Rocquencourt
+4
+Illinois State University
+4
+Institut National de l'Audiovisuel
+4
+Institute for Telecommunication Sciences
+4
+Institutions Markets Technologies, Lucca
+4
+Instituto Militar de Engenharia
+4
+Instituto Nacional de Telecomunicacoes
+4
+Instituto Superior de Engenharia do Porto
+4
+Instituto de Engenharia de Sistemas e Computadores Investigacao e Desenvolvimento em Lisboa
+4
+Instituto de Matematica y Estadistica Prof. Ing. Rafael Laguardia
+4
+International Institute of Information Technology Bangalore
+4
+Istanbul Technical University
+4
+Istituto Trentino di Cultura-Centro per la Ricerca Scientifica e Tecnologica
+4
+KT Corporation
+4
+Kitakyushu University
+4
+Koc University
+4
+LS Industrial Systems Company Ltd.
+4
+LTCI Laboratoire Traitement et Communication de l'Information CNRS UMR 5141
+4
+Lomonosov Moscow State University
+4
+Los Alamos National Laboratory
+4
+Max Planck Institute for Biological Cybernetics
+4
+Mississippi State University
+4
+Montana State University - Bozeman
+4
+Munich University of the Federal Armed Forces
+4
+National Chung Cheng University
+4
+National Ilan University Taiwan
+4
+National Instruments
+4
+National Physical Laboratory
+4
+Netflix, Inc.
+4
+Netherlands Organisation for Applied Scientific Research - TNO
+4
+Nokia USA
+4
+Ocean University of China
+4
+Okayama University
+4
+Pontifical Catholic University of Rio de Janeiro
+4
+Poznan University of Technology
+4
+Quaid-i-Azam University
+4
+Ramon Llull University
+4
+Robert Gordon University
+4
+Rochester Institute of Technology
+4
+Seikei University
+4
+Singapore-MIT Alliance
+4
+Syracuse University
+4
+Tallinn University of Technology
+4
+Texas A and M University at Qatar
+4
+Thales
+4
+Tongji University
+4
+Transnationale Universiteit Limburg
+4
+Tshwane University of Technology
+4
+Tsinghua National Laboratory for Information Science and Technology
+4
+Umea University
+4
+Universidad de Costa Rica
+4
+Universidad del Norte, Colombia
+4
+Universite Paris 7- Denis Diderot
+4
+Universite de Savoie
+4
+Universite de Technologie de Compiegne
+4
+Universite des Sciences et Technologies de Lille
+4
+University of Antwerp
+4
+University of Arkansas - Fayetteville
+4
+University of Chicago
+4
+University of Denver
+4
+University of Hawaii at Manoa
+4
+University of Latvia
+4
+University of Limerick
+4
+University of Manchester
+4
+University of Nevada, Reno
+4
+University of Porto
+4
+University of Quebec in Chicoutimi
+4
+University of Siegen
+4
+University of Texas System
+4
+Wright-Patterson AFB
+4
+Xilinx Inc.
+4
+Yahoo Research Labs
+4
+Yeditepe University
+4
+Yokogawa Electric Corp
+4
+Zhejiang University of Technology
+4
+Abdus Salam International Centre for Theoretical Physics
+3
+Al Akhawayn University
+3
+Alcatel-Lucent Deutschland AG
+3
+Alexandra Instituttet AS
+3
+Atmel Corporation
+3
+Australian National University
+3
+Bangladesh University of Engineering and Technology
+3
+Birla Institute of Technology and Science Pilani
+3
+Burapha University
+3
+CSIRO Livestock Industries
+3
+Centre of Excellence in Information and Communication Technologies
+3
+Centro de Investigacion y de Estudios Avanzados
+3
+Chang Gung University
+3
+Chungbuk National University
+3
+Cloakware Corporation
+3
+Complutense University of Madrid
+3
+DRA
+3
+DePaul University
+3
+Defense Advanced Research Projects Agency
+3
+Dongguk University, Seoul
+3
+Dublin Institute of Technology
+3
+ENSEEIHT Ecole Nationale Superieure d'Electrotechnique, d'Electronique, d'Informatique, d'Hydraulique et des Telecommunications
+3
+ESIGELEC
+3
+Eastman Kodak Company
+3
+Ecole Polytechnique
+3
+Ecole Superieure des Communications de Tunis
+3
+Faculdade de Ciencias e Tecnologia, New University of Lisbon
+3
+Federal University of Campina Grande
+3
+Federal University of Ouro Preto
+3
+Fluminense Federal University
+3
+Fraunhofer Institute for Industrial Engineering
+3
+General Electric Company
+3
+Georgia State University
+3
+Gunma University
+3
+Harvey Mudd College
+3
+Hefei University of Technology
+3
+IBM Tokyo Research Laboratory
+3
+INSA Rennes
+3
+Indian Institute of Technology, Guwahati
+3
+Information and Communications University
+3
+Information-technology Promotion Agency, Japan
+3
+Institut de Recherche en Informatique et Systemes Aleatoires
+3
+Institut fur innovative Mikroelektronik (IHP)
+3
+Interval Research Corporation
+3
+Iqra University
+3
+Jacobs University Bremen
+3
+Jadavpur University
+3
+Jaypee Institute of Information Technology University
+3
+Johannes Kepler University Linz
+3
+King Saud University
+3
+Korea Institute of Science and Technology Information
+3
+Kyushu Institute of Technology
+3
+Leiden University
+3
+LungHwa University of Science and Technology
+3
+MIT Lincoln Laboratory
+3
+Mannheim University of Applied Sciences
+3
+Missouri University of Science and Technology
+3
+Murdoch University
+3
+Myongji University
+3
+Nancy-Universite
+3
+National Center for High-Performance Computing Taiwan
+3
+National Chengchi University
+3
+National Kaohsiung University of Applied Sciences
+3
+National Research University Higher School of Economics
+3
+National Security Agency
+3
+National Yunlin University of Science and Technology
+3
+Naval Aeronautical Engineering Academy Yantai
+3
+New York Institute of Technology
+3
+Nortel Networks Inc.
+3
+Online Computer Library Center, Inc.
+3
+Osaka Electro-Communication University
+3
+PSG College of Technology
+3
+Pace University
+3
+Periyar University
+3
+Philipps-Universitat Marburg
+3
+Pontifical Catholic University of Rio Grande do Sul
+3
+Prince of Songkla University
+3
+Public University of Navarrea
+3
+Ritsumeikan University, Biwako-Kusatsu
+3
+Ryukoku University
+3
+Samsung Electronics, India Software Operations Ltd.
+3
+San Diego Supercomputer Center
+3
+Sandia National Laboratories, California
+3
+Sangmyung University
+3
+Shiga University
+3
+Smith College
+3
+Stanford Linear Accelerator Center
+3
+Technical University of Liberec
+3
+Technopôle Brest-Iroise
+3
+US West Advanced Technologies
+3
+United States Geological Survey
+3
+United States National Science Foundation
+3
+Universidad Autonoma de Madrid
+3
+Universidad Catolica Nuestra Senora de la Asuncion
+3
+Universidad ORT Uruguay
+3
+Universidad Pontificia Bolivariana
+3
+Universidad Rey Juan Carlos
+3
+Universidad de Extremadura, Caceres
+3
+Universidad de Granada
+3
+Universidad de Montevideo
+3
+Universidad del Pais Vasco - Euskal Herriko Unibertsitatea, Campus Bizkaia
+3
+Universite de Limoges
+3
+Universite des Antilles et de la Guyane
+3
+Universiti Putra Malaysia
+3
+University of Cagliari
+3
+University of Calcutta
+3
+University of Dortmund
+3
+University of Incheon
+3
+University of Kansas
+3
+University of Kent
+3
+University of Konstanz
+3
+University of Louisiana at Lafayette
+3
+University of Massachusetts Boston
+3
+University of Mississippi
+3
+University of Missouri-Columbia
+3
+University of Munster
+3
+University of Neuchatel
+3
+University of Pennsylvania, Wharton School
+3
+University of Reggio Calabria
+3
+University of Science and Technology Beijing
+3
+University of South Florida Tampa
+3
+University of St. Gallen
+3
+University of Tehran
+3
+University of Texas at El Paso
+3
+University of Tokyo, Research Center for Advanced Science and Technology
+3
+University of Turku
+3
+Utsunomiya University
+3
+VeriSign Inc.
+3
+Victoria University Melbourne
+3
+Villanova University
+3
+Wuhan University
+3
+Yahoo Inc.
+3
+ABB Corporate Research, Vasteras
+2
+AT&T - Naperville
+2
+Academic College of Tel-Aviv - Yaffo
+2
+Acreo AB
+2
+Adobe Systems Incorporated
+2
+Aegean University
+2
+Air Force Research Laboratory
+2
+Alagappa University
+2
+Aletheia University
+2
+Amazon.com, Inc.
+2
+American University
+2
+Asia University Taiwan
+2
+Athens Information Technology-AIT
+2
+BAE Systems North America
+2
+BBC
+2
+BP p.l.c.
+2
+Bandung Institute of Technology
+2
+Bannari Amman Institute of Technology
+2
+Beijing Normal University
+2
+Bell Laboratories, UK
+2
+Bonneville Power Administration
+2
+Booz Allen Hamilton, Inc.
+2
+Broadcom Corporation
+2
+Catholic University of the Sacred Heart, Piacenza
+2
+Central China Normal University
+2
+Central South University China
+2
+Centro de Investigacion Cientifica y de Educacion Superior de Ensenada
+2
+Chang Jung Christian University
+2
+Charles Sturt University
+2
+China State Shipbuilding Corporation
+2
+China Telecommunications
+2
+Chonbuk National University
+2
+Chung-Ang University
+2
+Clark Atlanta University
+2
+Colby College
+2
+College of Management Academic Studies Israel
+2
+Comcast
+2
+Commissariat a L'Energie Atomique CEA
+2
+ConSentry Networks
+2
+Courant Institute of Mathematical Sciences
+2
+Dai Nippon Printing Co., Ltd.
+2
+Dalhousie University
+2
+Dartmouth Medical School
+2
+David R. Cheriton School of Computer Science
+2
+Defence Science and Technology Laboratory
+2
+Dolby Laboratories
+2
+Dong Eui University
+2
+EPRI
+2
+Ecole Centrale de Nantes
+2
+Elsag Datamat SpA
+2
+Escuela Tecnica Superior de Ingenieros de Telecomunicacion, Madrid
+2
+European Commission
+2
+Federal Office for Information Security
+2
+Ferdowsi University of Mashhad
+2
+Fermi National Accelerator Laboratory
+2
+Flinders University of South Australia
+2
+Florida Atlantic University
+2
+Ford Motor
+2
+GIPSA-lab
+2
+GOULD Electronics GmbH
+2
+Gachon University of Medicine and Science
+2
+German University in Cairo
+2
+Government College of Technology Coimbatore
+2
+Grand Valley State University
+2
+Griffith University
+2
+Guangdong University of Petrochemical Technology
+2
+Guangdong University of Technology
+2
+Hainan University
+2
+Harbin Engineering University
+2
+Hitachi Global Storage Technologies
+2
+Hochiminh City University of Technology
+2
+Hohai University
+2
+Hokkaido University
+2
+Hopitaux universitaires de Geneve
+2
+Hungarian Academy of Sciences
+2
+ITT
+2
+Indian Institute of Space Science and Technology
+2
+Indian Institute of Technology Patna
+2
+Indian Institute of Technology Roorkee
+2
+Institut Dalle Molle D'intelligence Artificielle Perceptive
+2
+Institute for Systems and Computer Engineering of Porto
+2
+Institute of Informatics and Telecommunications, Athens
+2
+Institute of Technology, Carlow
+2
+Intel Development Center, Israel
+2
+International Institute of Information Technology Hyderabad
+2
+Istanbul University
+2
+Istituto Agrario San Michele all'Adige
+2
+Istituto Superiore Mario Boella
+2
+Jawaharlal Nehru University
+2
+Johann Wolfgang Goethe University of Frankfurt
+2
+Jordan University of Science and Technology
+2
+Jozef Stefan Institute
+2
+Kajima Corporation
+2
+King Mongkuts Institute of Technology Ladkrabang
+2
+Kogakuin University
+2
+Kumaraguru College of Technology
+2
+Kun Shan University
+2
+Laboratoire d'Informatique, de Robotique et de Microelectronique de Montpellier LIRMM
+2
+Laboratorio Nacional de Computacao Cientifica, Petropolis
+2
+Lamar University
+2
+Laval University
+2
+Lutheran University of Brazil
+2
+Magister Solutions Ltd.
+2
+Mahidol University
+2
+Max Planck Institute for Informatics
+2
+Michigan Technological University
+2
+Mie University
+2
+Motorola Italy
+2
+Munster University Hospital
+2
+Munster University of Applied Sciences - Steinfurt Campus
+2
+NEC Laboratories China
+2
+NHN Corporation
+2
+Nanchang University
+2
+Nanjing Institute of Communication Engineering
+2
+Nanjing Normal University
+2
+National Taichung Institute of Technology Taiwan
+2
+New York University Abu Dhabi
+2
+Nihon University
+2
+North South University
+2
+Ochanomizu University
+2
+Open University
+2
+Oslo University College
+2
+Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing Jabalpur
+2
+Polytechnic School of Montreal
+2
+Pontifical Catholic University of Parana
+2
+Pontificia Universidad Catolica del Peru
+2
+Pulsent Corporation
+2
+Purdue University Calumet
+2
+Rehabilitation Hospital
+2
+Research Establishment for Applied Science (FGAN)
+2
+Research Institute for Advanced Computer Science
+2
+SONY Computer Science Laboratory, Paris
+2
+Saint Petersburg Department of Steklov Institute of Mathematics, Russian Academy of Sciences
+2
+Saitama University
+2
+Salzburg Research Forschungsgesellschaft mbH
+2
+Samsung Group
+2
+San Diego State University
+2
+San Francisco State University
+2
+San Jose State University
+2
+Sardar Vallabhbhai National Institute of Technology Surat
+2
+Sarnoff Corporation
+2
+Saudi Aramco
+2
+Schlumberger
+2
+Shenzhen Institute of Advanced Technology
+2
+Siemens AG Osterreich
+2
+Silpakorn University
+2
+Solarflare Communications, Inc.
+2
+Sookmyung Women's University
+2
+Stockholm University
+2
+Sun Yat-Sen University
+2
+Symantec Corporation
+2
+Tata Institute of Fundamental Research
+2
+Technical University of Ilmenau
+2
+Technicolor Inc.
+2
+Technological Education Institute-Crete
+2
+Telecom Italia
+2
+Tennessee Valley Authority
+2
+Thales Alenia Space
+2
+The Catholic University of Korea
+2
+The Florida A&M University and The Florida State University College of Engineering
+2
+The University of North Carolina System
+2
+The University of Warwick
+2
+Tubitak Scientific and Technical Research Council of Turkey
+2
+Tunghai University
+2
+U.S. Army Communications and Electronics Command
+2
+U.S. Army Research Laboratory
+2
+USAF Academy
+2
+United States Department of Energy
+2
+Universidad Autonoma de Barcelona
+2
+Universidad Miguel Hernandez de Elche
+2
+Universidad Politecnica de Cartagena
+2
+Universidad de Murcia
+2
+Universite Lille Nord de France
+2
+Universite Paris 13
+2
+Universite de Picardie Jules Verne
+2
+University College of Antwerp
+2
+University of Agder
+2
+University of Agricultural Sciences, Bangalore
+2
+University of Applied Sciences Western Switzerland
+2
+University of Applied Sciences and Arts Hildesheim/Holzminden/Gottingen
+2
+University of Applied Sciences, Konstanz
+2
+University of Augsburg
+2
+University of Birmingham
+2
+University of Cassino
+2
+University of Colorado at Denver
+2
+University of East Anglia
+2
+University of Hamburg
+2
+University of Hawaii System
+2
+University of Jyvaskyla
+2
+University of Kuwait
+2
+University of Maine
+2
+University of Malta
+2
+University of Missouri-St. Louis
+2
+University of Newcastle, Australia
+2
+University of Novi Sad
+2
+University of Salerno
+2
+University of Sciences and Technology Houari Boumediene
+2
+University of Sousse
+2
+University of Trier
+2
+University of Trieste
+2
+University of Turin
+2
+University of Victoria
+2
+University of Wroclaw
+2
+University of the Pacific, California
+2
+University of the Rio dos Sinos Valley
+2
+University of the West of Scotland
+2
+Vanu, Inc.
+2
+Vienna University of Economics and Business Administration
+2
+Vrije Universiteit Brussel
+2
+Washington State University Pullman
+2
+Washington State University Vancouver
+2
+Xi'an Institute of Posts and Telecommunications
+2
+Yildiz Technical University
+2
